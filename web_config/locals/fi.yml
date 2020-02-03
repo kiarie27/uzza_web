@@ -1,0 +1,824 @@
+ ---
+sign_in: Kirjaudu
+sign_up: Liity
+agent_panel: Agent Panel
+admin_panel: hallintapaneeli
+country: Maa
+state_province: valtio / kunta
+city: Kaupunki
+register: Register
+details: Details
+view_all: Näytä kaikki
+order_by: Järjestys
+none: Mikään
+terms_and_conditions: käyttöehtojen
+reg_success_message: Tili rekisteröinti on onnistunut. Sähköposti on lähetetty sähköpostiisi. Seuraa että sähköposti tilin aktivoimiseksi. Kiitos
+limit: raja
+usage: Käyttö
+recover: Palauta
+oops: Sivua ei löydy
+share_this: Jaa tämä
+location_map: Sijaintikartta
+image_gallery: Kuvagalleria
+gallery: Galleria
+summary: Yhteenveto
+overview: Yhteenveto
+address: Osoite
+message: Viestin
+email_subject: Sähköpostin aihe
+all: Kaikki
+contact_us: yhteyttä
+featured_video: Videosuositus
+embed_video_url: piintynyt videon URL
+email_tracker: Sähköposti Tracker
+bulk_email: Bulk Sähköposti
+advanced_filters: Lisäsuodattimet
+result: Tulos
+payment_notification: Olet menossa tehdä maksun. Email lähetetään sähköpostiisi. Voit takaisin tähän vaiheeseen milloin tahansa linkkiä sähköpostissa.
+confirmation: Vahvistus
+tags: Tunnisteet
+zip_code: Postinumero
+embed_preview: Upota esikatselu
+login: Tulo
+post_not_found: Viestiä ei löydy
+view_more: Näytä enemmän
+choose_a_package: valita paketin
+choose_feature_package: Valitse ominaisuuspaketti
+no_package_found: ei Paketti löytynyt
+days: päivää
+posts: Viestit
+change: Muuta
+subscribe: Tilaa
+image: Kuva
+view_on_map: Katso kartta (auto täyttää Lat Lang)
+create: Luo
+basic_info: Perustiedot-
+send: Lähetä
+all_email_to_users: kaikki sähköpostit käyttäjille
+email_detail: Sähköposti Tiedot
+change_package: Muuta Paketti
+bank_transfer: pankkisiirto
+contact_subject: Kontaktin sähköpostiosoite
+payment_finish_title: Maksu Täydellinen
+payment_renew_title: Maksu Täydellinen
+payment_finish_text: Maksu on suoritettu. Heti kun saimme vahvistuksen PayPal tilisi aktivoituu
+payment_renew_text: Maksu on suoritettu. Heti kun saimme vahvistuksen paypal tilin uusitaan
+payment_cancel_title: Maksu Peruuta
+payment_cancel_text: Maksu peruutetaan
+feature_payment_finish: Maksu on suoritettu. Heti kun saamme vahvistuksen paypal, kuolinpesälle on esillä.
+feature_payment_cancel: Maksu on peruutettu.
+selected_package: Valitun paketin
+signup_with_social_account: Kirjautuminen sosiaalisen tili
+password: Salasana
+confirm_password: Vahvista salasana
+all_posts: Kaikki viestit
+no_posts: Ei viestejä
+title: Otsikko
+description: Kuvaus
+status: Tila
+actions: Toiminnot
+action: Toiminta
+type: Tyyppi
+type_something: Tyyppi jotain
+content: sisältöä
+featured_image: Featured Image [min 300x226]
+category: Auton luokkiin
+all_categories:Kaikki auton kategoriat
+edit_category: Muuta luokka
+new_category: Uusien autojen luokan
+parent: ylätason
+edit: Edit
+delete: Delete
+name: Name
+save: Tallenna
+no_parent: Ei vanhemman
+edit_email_template: Muuta sähköpostimallissa
+select_template_file: Valitse Pohjatiedostoa
+subject: Aihe
+body: Body
+available_variables: Vapaat muuttujat
+select_language: Valitse kieli
+select_language_file: Valitse kieli tiedosto
+edit_as_new: Muokkaa uutena
+language: Kieli
+add_another: Lisää toinen
+export_to_file: lääni
+import_from_file: Tuo tiedostosta
+auto_translator: automaattinen kääntäjä
+from_lang: Lang
+target_lang_full_name: Target lang koko nimi
+target_lang_short_name: Target lang lyhyt nimi
+create_new_package: Luo uusi paketti
+price: Hinta
+ask_for_price: Pyydä tarjous
+maximum_post_by_user: Suurin käyttäjän viestit
+expiration_time: Viimeinen aika (päiviä)
+create_package: Create Package
+edit_package: muokkaus paketti
+update_package: päivityksen paketti
+add_packages: Lisätä paketteja
+all_packages: Kaikki paketit
+no_packages: Paketteja ei
+options: Valinnat
+all_pages: Kaikki sivut
+no_pages: ei ole linkkejä
+manage_menu: Hallintavalikko
+menu_title: Valikon otsikon
+menu_alias: Valikko alias
+show_in_menu: Näytä valikossa
+page_layout: Taitto
+content_from: Sisällön
+url: URL
+seo_options: SEO vaihtoehdoista
+meta_description: Sisällönkuvaustiedoilla
+key_words: Asiasanat
+crawl_after: Crawl jälkeen (vrk)
+all_plugins: Kaikki laajennukset
+no_plugins: Ei liitännäiset
+name_and_version: nimi ja versio
+change_password:Vaihda salasana
+current_password: Nykyinen salasana
+new_password: Uusi salasana
+retype_password: Vahvista salasana
+password_reset_info_msg: Ota ensin Aseta uusi salasana
+profile_picture: profiilikuvan
+username: Käyttäjätunnus
+email: Sähköposti
+first_name: Etunimi
+last_name: Sukunimi
+gender: Sukupuoli
+phone: Puh
+company_name: Yrityksen nimi
+about_me: minusta
+facebook_account: Facebook-tilin
+twitter_account: Twitter-tili
+linkedin_account: LinkedIn tili
+gp_account: Google+ tilin
+account_msg: Anna linkki, ilman http //
+web_email_settings: WWW Sähköposti Asetukset
+contact_email: Sähköpostiosoite
+webadmin_name: WebAdmin Nimi
+webadmin_email: WebAdmin Sähköposti
+update: Päivitä
+upload: Upload
+site_settings: Sivuston asetukset
+site_title: Sivuston Otsikko
+footer_text: alatunnisteteksti
+site_logo: Site Logo
+site_language: Sivuston kieli
+site_text_direction: Site Tekstin suunta
+per_page: sivutus sivukohtaiset
+default_page_layout: Oletus Sivun asettelu
+tracking_code: Seurantakoodi
+smtp_email_settings: SMTP Sähköposti asetukset
+smtp_email: SMTP Sähköposti
+smtp_host: SMTP-palvelimen
+smtp_port: SMTP-portti
+smtp_timeout: SMTP Timeout
+smtp_user: SMTP Käyttäjän
+smtp_password: SMTP Salasana
+generate_site_map: Luo sivustokartta
+sitemap_info_msg: Huom Valitse jonka haluat olla mukana sivukartta xml. Onnistunutta sukupolven sivustokartta.xml on tallentaa juurihakemistoon. Voit myös muokata, että tiedosto myös oman URL.
+pages: Sivut
+blog_posts: blogimerkinnät
+articles: Artikkelit
+blog_post: Blogiviesti
+blog: Blogiviesti
+article: artiklan
+news: News
+view_xml: Näytä XML
+create_xml: luoda XML
+manage_backups: hallinta Varmuuskopiot
+create_sql_backup:Luo SQL varmuuskopiointi
+create_image_backup: Luo Image Backup
+restore: Restore
+download: Lataa
+dashboard: Dashboard
+overview_stats_more: Katsaus, tilastot ja lisää
+visit_site: Vieraile sivuilla
+logout: ulos
+themes: Teemat
+locations: Paikat
+paypal_settings: Paypal Asetukset
+payment_history: Maksuhistoria
+profile: Profiili
+packages: Paketit
+widgets: Widgetit
+all_widgets: Kaikki Widgetit
+widget_positions: Widget positiot
+blog_news_article: Blogi / Uutiset / Article
+new_post: Uusi viesti
+pages_and_menu: sivuja ja valikko
+new_page: Uusi sivu
+menu: valikko
+system: Järjestelmän
+manage_languages: hallinta Kielet
+auto_translate: Auto Käännä
+edit_email_text: Muokkaa Sähköposti Teksti
+admin_settings: Web Admin Settings
+sitemap: Sivukartta
+activate: Ota
+active_theme: Aktiivinen Teema
+available_themes: olevista teemoista
+all_users: All Users
+create_user: Create User
+export_user_email: Vie käyttäjän sähköposteja (.csv)
+profile_info: Profiili
+ban_forever: Ban Ikuisesti
+edit_page: Sivun muokkaus
+create_widget: Luo widget
+widget_name: widget Nimi
+activate_deactivate: Aktivoi / katkaista
+show: Näytä
+available_widgets: widgetien
+active_widgets: Aktiivinen Widgetit
+delete_warning: Oletko varma että haluat poistaa
+yes: "Kyllä"
+no: "Ei"
+product_name: Sisällön
+fa_icon: FA kuvake luokan
+post_ad: Lisää auton
+post_ad_subtitle: Laita auton tiedot
+signin: Sisäänkirjautumistoiminta
+signup: Kirjautuminen
+signup_title: Luo tili
+not_found:Ei löydy
+purpose: Tarkoitus
+purpose_buy: Osta
+purpose_sell: Myy
+select_category: Valitse luokka
+contact_for_price: Kysy hintaa
+address_info: Osoite Info
+general_info: Yleistä tietoa
+upload_later_msg: Voit ladata gallerian kuvia ja videon URL jälkeisen luomisen
+user_panel: Käyttäjä Panel
+put_as_comma_seperated: laittaa niin (,) pilkku sperated
+added: Lisätty
+location: Sijainti
+views: Näköalat
+package_type: tyyppi
+post_package: postin pakettia
+featured_package: Featured paketti
+both_package: Post ja esillä
+select_package: Valitse paketti
+package_created: paketti luotu
+package_updated: paketti päivitetään
+slider: Slider
+add_new: Lisää
+new_slide: uusi dia
+update_slide: Päivitä dia
+save_order: Tallenna järjestys
+slider_sort_instruction: Voit vetää pudota lajitella taulukon rivejä. Lajittelun jälkeen tilaus tallennetaan
+search: Search
+results: Results
+location_on_map: Kartta
+contact_mode: Yhteydenotto tila
+reset: Palauta
+contact: yhteyttä
+default_site_view: Oletus sivustonäkymä
+type_your_message: Kirjoita viestisi tähän ..
+mail_sent: lähetetty posti
+search_classifieds: Hae Henkilöautot
+advanced_search: Tarkennettu haku
+narrow_down_your_search: Tarkenna hakua
+home: Home
+print: Print
+remember_me: Muista minut
+forgot_password: Salasana unohtunut
+login_failed: Kirjautuminen epäonnistui
+login_to_your_account: Kirjaudu tilillesi
+register_your_account: rekisteröidä tilin
+male: Mies
+female: Nainen
+no_location_found: Sijaintia ei löydy
+state: valtio
+ad_creation_error: Virhe mainoksen luominen! Tarkista.
+users: Käyttäjät
+show_admin_user: Näytä Valvoja Käyttäjä
+send_email_to_owner:Lähetä viesti auton omistaja
+categories: Luokat
+top_posts: Top Viestejä
+show_state_province: Näytä State maakunnassa
+package_settings: Paketti Asetukset
+default_site_settings: Oletus sivustoasetuksia
+webadmin_settings: WebAdmin Settings
+banner_settings: Banner Asetukset
+max_price_for_search: Max Hinta Haku
+search_filters: Etsi Suodattimet
+posts_per_page: Viestejä per sivu
+recent_posts: Uusimmat Autot
+featured_posts: Kiinnostavat Posts
+top_locations: Top sijainnit
+top_users: käyttäjät
+approve: Hyväksy
+make_featured: Tee varustellun
+remove_featured: Poista esillä
+renew_featured: Renew varustellun
+renew_package: Renew paketti
+no_renew_post_id: Virheellinen uudistaa postitse id
+approve_payment: maksun hyväksymiseen
+transaction: Tapahtuma
+transaction_id: Tapahtuman tunnus
+post_id: kirjaustunnusta
+amount: Määrä
+request_date: Pyynnön päivämäärä
+expiration_date: Viimeinen
+transaction_deleted: Transaction poistetaan
+payment_approved: hyväksymä maksuton
+logged_in_as: Kirjautuneena
+posted_on: Lähetetty on
+confirm_email_send: vahvistus sähköpostin send.Please seuraa ohjeita siitä sähköpostitse.
+email_confirmed: Sähköposti vahvistettu. Voit kirjautua nyt
+email_confirmed_failed: Sähköpostivahvistuspyyntö epäonnistui
+password_change_success: Salasana vaihto onnistui
+email_sent_inbox: Email on lähettää oman inbox.Check että sähköpostin.
+password_recovery_link_invalid: Password Recovery ei ole kelvollinen
+user_updated: User Päivitetty
+user_deleted: Käyttäjä poistettu
+user_banned: Käyttäjä Banned
+user_unbanned: User unbanned
+user_confirmed: Käyttäjän Vahvistettu
+post_deleted: viestisi poistettu
+post_updated: viesti Päivitetty
+post_created: Post Kirjoittaja
+post_featured: Post esillä
+data_inserted: Data lisätään
+data_updated: tieto Päivitetty
+feature_renewed: Ominaisuus Uudistettu
+post_feature_removed: postita Poistettu
+post_approved: viesti Hyväksytty
+invalid_post: Virheellinen Post
+email_sent:Sähköposti Lähetetyt
+settings_updated: Asetukset Päivitetty
+package_removed: paketti poistettu
+page_updated: Sivu Päivitetty
+page_created: Sivu luotiin
+page_deleted: Sivu poistettu
+menu_updated: valikko Päivitetty
+site_map_generation_success: Sivukartta luotu onnistuneesti.
+select_option: Valitse tai suppeampi vaihtoehtoja.
+image_backup_created: Kuva varmuuskopiointi Luotu
+language_translated: Kieli Kääntäjä
+unable_to_write_file: Ei voi kirjoittaa Tiedoston
+backup_deleted: varmuuskopiointi Poistetut
+database_restored: Tietokanta Palautettu
+theme_activated: Teema Aktivoidut
+user_created: käyttäjän luoman
+widget_position_updated: Widget kanta Updated
+widget_created: Widget Kirjoittaja
+widget_data_updated: Widget tiedot Päivitetty
+unable_to_write_widget: pysty kirjoittamaan widgetiin
+post_created_and_published: Post luotu ja julkaistaan
+post_created_approval: Postin luotu ja odottaa järjestelmänvalvojan hyväksyntää
+post_package_renewed: postin pakettia uudistettu
+payment_finish: Payment maali
+payment_cancelled: maksu peruutettu
+admin_change_pass_help: jätä tyhjäksi, jos ei muutosta tarvita
+go_to_paypal: Siirry Paypal
+login_with_google: Kirjaudu Google
+login_with_facebook: Kirjaudu Facebook
+load_more_recent_posts: Lataa lisää Viimeaikaiset Cars
+load_more_featured_posts: Lataa lisää Ohjelmaan Autot
+register_for_new_account: Register New Account
+site_map: Sivukartta
+show_site_map: Näytä sivukartta
+service: palvelu
+features: ominaisuudet
+about: Tietoa
+view_posts: viestit
+see_full_documentation: Katso koko dokumentaatio
+select_city: Valitse kaupunki
+parallax_slider: Parallax Slider
+all_slides: Kaikki diat
+no_slide: Ei dia
+slide_order: Dia jotta
+edit_profile: Muokkaa profiilia
+post_price_settings: Post hinta-asetukset
+enable_post_pricing: Enable jälkeinen hinnoittelu
+enable_paypal_transfer: Enable paypal
+enable_bank_transfer: Enable pankkisiirrolla
+bank_transfer_instruction_for_posts: pankkisiirrossa
+featured_price_settings: Ohjelmaan hinta-asetukset
+enable_featured_pricing: Ota Suositukset hinnoittelu
+enable_featured_paypal: Enable paypal
+enable_featured_bank_transfer:Enable tilisiirto
+bank_transfer_instruction_for_featured_posts: pankkisiirrossa
+bank_currency_settings: pankin valuuttakurssit asetukset
+bank_currency: pankin valuuttakurssit
+use_same_as_paypal_currency: Käytä samaa kuin paypal valuutta
+admin: admin
+re_password: salasana uudelleen
+explain_widget_position: Selitä widget kantoja
+post: Post
+post_renew: Post Renew
+feature: Ominaisuus
+feature_renew: Ominaisuus Renew
+payment_for: maksaminen
+select_country: Valitse maa
+select_one: Valitse Yksi
+video_url: vidoe URL-
+confirm_payment: Vahvistaa maksun
+package_title: Paketti osaston
+number_of_featured_days: määrä päivää, joka on esillä
+no_of_days: Ei päivien
+any_city: kaikki kaupungin
+any_category: tahansa kategoria
+product_admin_panel: Carbiz Admin
+username_or_email: Käyttäjätunnus tai sähköposti
+car_detail: Auto yksityiskohtaisesti
+posts_by: viestit,
+featured: Esitetyt
+edit_user: Muuta käytt
+the_field_is_required: % s kenttä on pakollinen.
+valid_email: % S kentän on oltava toimiva sähköpostiosoite.
+min_length: % S kentän on oltava vähintään% s merkkiä.
+numeric: % S kenttä saa sisältää vain numeroita.
+matches: % S kenttä ei vastaa% s kenttään.
+greater_than: % S kenttä on oltava numero on suurempi kuin% s.
+agree_terms: Olen lukenut% käyttöehtoja% s
+must_accept_terms: Sinun pitää hyväksyä käyttöehtojen
+dont_have_permission: Sinulla ei ole lupaa päästä tälle sivulle
+email_already_in_use: Sähköposti on jo käytössä
+username_already_in_use: Käyttäjätunnus on jo käytössä
+current_password_not_matched: Nykyinen salasana eivät täsmänneet
+email_or_password_not_mathed: Sähköposti tai salasana ei täsmää
+email_not_matched: sähköposti ei vastaa
+account_not_confirmed: Tili ei vahvistanut
+all_locations: Kaikki paikat
+add_country: Lisää maa
+add_state: Lisää valtio
+add_city: Lisää kaupunki
+no_locations: ei paikoissa
+banner_type: Banner tyyppi
+bg_image: Taustakuva
+unique_alias: % s alalla kuitenkin ainutlaatuinen
+error_occurred: virhe. Tarkista alla olevat kentät
+user_profile: Käyttäjäprofiili
+user_email:Käyttäjän sähköpostia
+target_lang_name: Kohdekieli
+no_emails: Ei sähköposteja
+to: haluat
+classified_settings: Classified Asetukset
+publish_posts_directly: julkaista tekstejä suoraan
+system_currency: System valuutan
+enable_signup: käyttöön Kirjautuminen
+if_package_expired: Jos paketti päättyi
+do_not_hide: Älä peitä
+hide: Piilota
+show_price_like: hintamuoto
+facebook_app_settings: Facebook-sovelluksen asetukset
+enable_facebook_login: Enable Facebook Kirjaudu
+fb_app_id: Facebook-sovelluksen id
+fb_secret_key: Facebook salainen avain
+comment_settings: Kommenttiasetukset
+enable_comment: Enable kommentoida
+disqus_shortname: Disqus Shortname
+sandbox_mode: hiekkalaatikko tilassa
+item_name: Tuotenimi
+paypal_email: Paypal sähköpostiosoite
+currency: Valuutan
+finish_url: Finish url
+cancel_url: Peruuta url
+menu_background: Menun taustaväri
+menu_text_color: Valikkoteksti väri
+activated_menu_color: Aktivoidut valikosta väri
+top_bar_bg: Yläpalkin bg
+activated_menu_text_color: Aktivoidut valikosta tekstin väriä
+latitude: Leveysaste
+longitude: Pituusaste
+map_zoom: Kartta zoom
+search_panel_settings: Hae paneeliasetuksista
+search_panel_bg_color: hakupaneeliin BG väri
+show_background_image: Show taustakuva
+active_widget_position: Aktiivinen widget asema
+upload_and_install: Lataa ja asenna
+install_updates: Asenna päivitykset / Teemat / Plugins / Widgetit
+confirmation_email: Vahvistus Sähköposti
+recovery_email: Recovery Sähköposti
+signup_notification_email: -ilmoitus Sähköposti
+payment_confirmation_email: maksuvahvistusta Sähköposti
+click_and_edit: Valitse mallin tiedosto ja klikkaa muokkaa]
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Default SEO asetukset
+find_us_on_facebook: Meitä Facebookissa
+category_featured_posts: esillä virkaa
+load_more_posts: Lataa lisää
+home_page_title: Hae Osta Myy Autot
+no_posts_found: Virkaa ei
+type_anything: kirjoita mitään
+chosen_not_found: Oho, ei mitään löytynyt!
+rating_asc:Arvostelu Nouseva
+rating_desc: Rating Laskeva
+id_desc: Id Laskeva
+id_asc: Id Nouseva
+price_range: Hintataso
+additional_features: lisäominaisuudet
+add_more_fields: Lisää muita kenttiä
+remove: Poista
+distance_around_my_position: Hakusäde
+show_distance_in: Näytä Etäisyys
+car_listed: Autot Postattu
+show_street_view: Näytä Street View
+list_car: Lista Auton
+search_cars: haku Autot
+top_cars: Top Cars
+featured_cars: Featured Autot
+content_settings: Sisältöasetukset
+hide_email: Piilota sähköposti
+hide_phone: Piilota puhelin
+review: Review
+comment: Kommentti
+submit_review: Lähetä arvostelu
+rating: Arvosana
+review_alert: Sinun täytyy kirjautua sisään toimittamaan tarkastelun.
+new_car: Lisää Auton
+identify_my_location: Tunnista sijaintini
+data_deleted: tiedot poistetaan
+recent_reviews: Uusimmat arvostelut
+view_all_reviews: Katso kaikki arvostelut
+review_deleted: Arvostelu poistettu
+review_detail: Yksityiskohta
+all_reviews: Artikkelit
+monday: maanantai
+tuesday: tiistai
+wednesday: keskiviikko
+thursday: torstai
+friday: perjantai
+saturday: lauantai
+sunday: sunnuntai
+opening_hour: aukiolotunnin
+closed: Suljettu
+review_submitted: toimitusvarmuudesta
+social_links: Sosiaalinen linkkejä
+upgrade_browser: Upgrade selain
+please_upgrade_your_browser: Selain on päivitettävä
+car: Auton
+introduction: esittely
+terms: Ehdot ja kunto
+email_not_found: sähköposti ei löytynyt
+city_dropdown: Kaupunki avattavasta
+published: Julkaistu
+publish: Julkaise
+drafted: Varausvuosi
+draft:Luonnos
+from: Vuodesta
+send_bulk_email: Lähetä Bulk Email
+ive_read_the: Olen lukenut
+title_city_category: osastoa, kaupunki tai luokka
+dt_first: Ensimmäinen
+dt_last: Edellinen
+dt_next: Seuraava
+dt_prev: Edellinen
+dt_no_data: Ei tietoja taulukossa
+dt_show_empty: Näytetään 0-0 0 merkintöjä
+dt_no_match: ei löydy vastaavaa löydy
+dt_search: Hae
+dt_processing: Processing ...
+dt_loading: Loading ...
+dt_info: Näytetään _START_ jotta _END_ of _TOTAL_ merkinnät
+dt_filter_info: (suodatettu _MAX_ yhteensä merkinnät)
+dt_show_entries: Näytä _MENU_ merkinnät
+get_directions: Get suunta
+review_not_submitted : Olet jo antanut arvostelun
+debug_email : Debug email
+email_to : sähköpostilla
+report_the_car : Ilmoita tämän auton
+reported : raportoitu
+already_reported : jo raportoinut
+reported_post : raportoitu autoja
+all_reported_posts : raportoitu autoja
+report: Ilmoita
+assigned_to: sidotut
+select_assigned_to: Valitse käyttäjälle
+css_compression: CSS puristus
+gallery_notes: Voit vetää pudota järjestellä galleriaan kuvia. Valokuvat eivät kokoa muutetaan.
+video_notes: YouTube- tai Vimeo url
+post_expiration_notification: Post kulunut ilmoituksen
+days_left: päivää poistunut
+AM: AM
+PM: PM
+upload_invalid_min_dimensions: Kuva ulottuvuus on liian alhainen
+view_on_front: Tarkasta edessä
+clear_unused_img: Tyhjennä käyttämättömät kuvia
+unused_files_found: käyttämättömiä tiedostoja löytyi
+unused_images_cleared: Käyttämättömät kuvat poistetaan
+unused_info_msg: Toiminto on vain tyhjentää kuvia, joita ei käytetä autojen, käyttäjät, luokat, sivut, blogit. Se etsii tietokannan kautta löytää images.So jos manuaalisesti ladannut yhtään kuvaa manuaalisesti ja käyttää niitä koodiin se voidaan poistaa.
+no_unused_img: Ole käyttämättömiä kuvaa löytynyt
+search_panel_filter_type: suodatintyyppi
+basic_options: perusvaihtoehdoista
+advanced_options: Advance vaihtoehtoja
+sorting_order: Lajittelujärjestys
+car_listed_on: Auto listattu
+car_listed_under: Auton lueteltujen
+all_sub_categories: Kaikki alakategorioita
+no_sub_categories: Ei alakategorioita
+hide_my_email : Piilota sähköpostiosoitteeni
+disable_email_contact:Pois sähköpostikontaktien
+enable_review: Enable tarkastelun
+disable_google_street_view: poistaa Google katunäkymä
+location_chorome_msg: Paikannuspalvelu Google ei ole käytettävissä kuin SSL sivustot (vain Chrome-selaimessa). Haluatko käyttää IP-osoitetta saada sijainti? NB Tulos ei välttämättä ole täsmälleen sama kuin google
+send_email_to_users: Lähetä viesti käyttäjille
+show_banner: Näytä bannerin
+hide_my_phone: Piilota puhelimeni
+kms: Lähinnä
+miles: Miles
+logo_text: logotekstikentän
+logo_type: Logo Type
+logo_text_color: Logo tekstin väri
+Jan: tammi
+Feb: helmikuu
+Mar: maaliskuu
+Apr: huhtikuu
+May: toukokuu
+Jun: kesäkuu
+Jul: heinäkuu
+Aug: elokuu
+Sep: syyskuu
+Oct: lokakuu
+Nov: marraskuu
+Dec: joulukuu
+show_search_panel: Näytä hakupaneeli
+delete_selected: Poista valitut
+map_api_key: Gmap sovellusliittymäavain
+pricing: hinnoittelu
+post_package_instruction: Meillä on seuraavat paketit lähettämistä auton sivuillamme
+feature_package_instruction: meillä on seuraava paketteja tehdä auton varustellun
+MENU: MENU
+gplus_app_settings: Google+ sovellus-
+auth_redirect_url: Valtuutettu uudelleenohjausosoite
+enable_gplus_login: Ota Google+ kirjautuminen
+gplus_client_id: Google+ asiakastunnuksen
+gplus_client_secret: Google+ asiakkaan salaisuus
+how_to_get_gplus_api: Miten saada Google+ Client ID ja Secret
+gallery_upload_limit: Galleria lähetysrajoitus
+you_can_upload_max: You ladata enintään
+gallery_photos: Galleria kuvia
+advanced_options_with_country_state: Advance vaihtoehto maan ja valtion
+select_state: Valitse tila
+recent_posts_order: Uusimmat kirjoitukset tilata
+featured_posts_order: esillä virkaa tilata
+default_posts_order: Oletus viestit tilata
+ASC: Nouseva
+DESC: Laskeva
+RANDOM: Random
+useremail: Käyttäjän sähköpostin
+enable_adblocker_alert: käyttöön Adblock hälytys
+adblock_detected: Adblock Havaittiin
+adblock_msg: Ota Haluatko ottaa Adblock ja päivittää sivu uudelleen
+enable_cookie_policy_popup: Evästekäytäntö Popup
+cookie_policy_page_url:Evästekäytäntö sivu url
+cookie_policy: Evästekäytäntö
+cookie_policy_alert: Tämä sivusto käyttää evästeitä. Jatkamalla käyttää tätä sivustoa hyväksyt evästeiden käytön.
+read_more: Lue lisää
+i_agree: Hyväksyn
+instagram: Instagram
+newsletter_subscription: Get uutiskirje
+your_email: Sähköpostiosoitteesi
+email_saved: sähköposti tallennetaan tiedote
+send_newsletter: Lähetä uutiskirje
+unsubscribe: Peruuta
+to_unsubscribe: napsauttamalla tätä linkkiä, jos haluat peruuttaa tämän palvelun
+successfully_unsubscribed: Olet nyt peruuttanut asiakastiedotepalveluun
+export_user_phone: Vie käyttäjän puhelimeen
+enable_blog_comment: Ota blogikommentin
+fb_blog_app_id: Fb sovelluksen tunnus blogin
+disqus_blog_shortname: Disqus lyhyt nimi blogi
+sample_page: Näyte sivu
+senders_phone: lähettäjän puhelinnumeron
+alias: Alias
+atleast_a_country_city: Sinun on annettava vähintään maa ja kaupunki
+email_not_shared: Näyttää siltä, että Facebook ID ei ole oikeutta jakaa sähköposti. Vaihda tai käyttäjä toiselle tilille tai vain kirjautumisen sähköpostitse.
+votes: Äänistä
+food_corner: Ruoka nurkka
+show_map_instead_of_street_view: Näytä kartta sijasta katunäkymä
+post_published_email: Post julkaisi sähköpostin
+max_upload_file_size: Max latauskoko (KB)
+site_mode: Sivuston tila
+maintenance_msg: Sivuston huollossa
+brandmodels: tuotemerkin malleihin
+add_brand: Lisää merkki
+add_model: Lisää malli
+no_brandmodels: ei brandmodels
+sel_brand: Valitse valmistaja
+carconditions: Auto olosuhteissa
+STATUS_DELETED: Poistetut
+STATUS_ACTIVE: Aktiivinen
+STATUS_PENDING: Odottavat
+STATUS_PAYMENT_PENDING: maksu odottaa
+STATUS_EXPIRED: Expired
+USER_PENDING: Kunnes
+USER_BANNED: Banned
+USER_ACTIVE: Aktiivinen
+car_options: Auto Config Valinnat
+transmissions: voimansiirtokohtai-
+convertible: Convertible
+coupe: Coupe
+hatchback: Takakannen
+luxury_car: Luxury Car
+sedan: Sedan
+sports_car: Urheiluauto
+suv: SUV
+trucks: autot
+van:Van
+customfields: Erikoiskentät
+customfield: Mukautettu kenttä
+sel_fieldtype: Valitse kentän tyyppi
+text: Teksti
+textarea: Teksti-
+richtext: RTF
+select: Dropdown
+radio: Radio
+checkbox: Checkbox
+is_required: Tarvitaan
+field_added: Mukautettu kenttä lisätään
+field_updated: Mukautettu kenttä päivitetään
+field_deleted: Mukautettu kenttä poistettu
+field_order_updated: Kenttä järjestyksessä päivitetty.
+field_sort_help: ^ Voit vetää pudota lajitella taulukon rivejä. Lajittelun jälkeen tilaus tallennetaan
+help_url_slug: Laita ainutlaatuista arvoa (käytetään url)
+NA: N / A
+condition_new: Uusi
+condition_used: Käytettyjä
+condition_pre_owned: Pre omistuksessa
+condition_recondition: Reconditioned
+condition_other: Muu
+year: Korimalli
+brand: Automerkeille
+model: automallin
+mileage: Mittarilukema
+transmission: Vaihteiston
+condition: kunto
+fuel_type: Polttoaine
+fueltypes:Polttoainetyypeillä
+gas: Kaasu
+diesel: Disel
+petrol: Bensiini
+octane: Octane
+electricity: Sähkö
+others: Muut
+select_condition: Valitse kunto
+select_transmission: Valitse Vaihteisto
+automatic: Automaattinen
+manual: Manuaalinen
+semi_automatic: puoliautomaattinen
+select_brand: Valitse valmistaja
+select_year: Valitse Kehon
+select_fuel_type: Valitse Polttoaine
+url_slug: URL Slug
+registration_no: Reg Ei
+engine_size: moottorin koosta
+help_engine_size: Moottorin koko (litroina)
+steering_type: OHJAUS
+help_steering_type: Valitse OHJAUS
+safety_rating: Turvallisuus Arvosana
+sel_safety_rating: Valitse Turvallisuus Rating
+engine_type: Moottorityyppi
+help_engine_type: Valitse moottorin tyyppi
+no_of_seats: istuimia
+help_no_of_seats: istuimia
+gear_type: Gear Tyyppi
+help_gear_type: Valitse pyydystä
+new_brand: Brandin
+brand_names: Brand Names
+new_model: Uusi malli
+select_model: Valitse malli
+model_names: mallien nimet
+mileage_unit: Mittarilukema Unit
+brand_model: Merkki & Malli
+help_text: Ohjeteksti
+fieldtype: Kenttä Tyyppi
+fieldname: Kentän nimi
+comma_separated_help: Laita yksi tai useampi nimetty "" (pilkku) erotettu. Kuten Newyork, Dallas, Idaho
+category_id: urheiluautoluokan
+show_in_detail: Show tietosivulla
+power_steering: Ohjaustehostin
+manual_steering: käsiohjauksella
+inline: Inline
+straight: Suora
+vee: VEE
+flat: Flat
+vr_w: VR & W
+other: Muut
+other_information: Muut tiedot
+dual: Dual
+all_cars: Kaikki autot
+reported_cars: Raportoitu Autot
+no_reviews: Ei arvosteluja vielä
+optional_info: Valinnainen Info
+car_posts: Auton viestit
+featured_expiration_time: Ohjelmaan kulunut aika (päiviä)
+max_gallery_photos: Max valokuva Symbian
+gallery_limit: Galleria
+take_package: Take Paketti
+photos: Kuvat
+mileage_range: Mittarilukema Range
+pls_share: hyvä jakaa sivuilla
+facebook_page_name: FB Sivun nimi
+google_plus_name: Google+ Name
+twitter_page_name: Twitter Käyttäjätunnus
+normal: Normaali
+free: Free
+ultimate: Ultimate
+premium: Premium
+update_post: Update post
+Clear unused images: Tyhjennä käyttämättömät kuva

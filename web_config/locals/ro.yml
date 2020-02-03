@@ -1,0 +1,824 @@
+---
+sign_in: Autentificare
+sign_up: Înscriere
+agent_panel: Agent Panoul de
+admin_panel: panoul de administrare
+country: Tara
+state_province: Stat / Provincie
+city: Oras
+register: Înregistrare
+details: Detalii
+view_all: Vezi toate
+order_by: Comanda De
+none: Nimeni
+terms_and_conditions: Termeni și Condiții de
+reg_success_message: înregistrare a contului dvs. este de succes. Un e - mail a fost trimis la adresa dvs. de email. Vă rugăm să urmați că e - mail pentru a activa contul. Mulțumiri
+limit: Limita de
+usage: utilizare
+recover: Recuperare
+oops: Nu a fost găsită
+share_this: Share This
+location_map: Location Map
+image_gallery: Galerie de imagini
+gallery: Galerie
+summary: Sumar
+overview: Prezentare generală
+address: Adresa
+message: Mesaj
+email_subject: Subiect e - mail
+all: Toate
+contact_us: Contactati - ne
+featured_video: Featured Video
+embed_video_url: embeded video Url
+email_tracker: E - mail Tracker
+bulk_email: Bulk Email
+advanced_filters: Filtre avansate
+result: Rezultat
+payment_notification: Vei face o plată. Un e - mail este trimis la e-mail. Puteți reveni la această etapă în orice moment de la linkul din acel e - mail.
+confirmation: Confirmare
+tags: Tag - uri
+zip_code: Cod postal
+embed_preview: Embed Vezi
+login: Autentificare
+post_not_found: Mesaj nu a fost găsit
+view_more: Mai multe
+choose_a_package: Alegeți un pachet
+choose_feature_package: Alegeți un pachet caracteristică
+no_package_found: Nu pachet găsit
+days: Zile
+posts: mesaje
+change: Schimbare
+subscribe: Aboneaza - te la
+image: imagine
+view_on_map: Vezi Harta (Auto umple Lat lang)
+create: Creare
+basic_info: Informații de bază
+send: Trimite
+all_email_to_users: Toate mesajele de poștă electronică pentru utilizatorii de
+email_detail: e - mail Detalii
+change_package: Schimbare pachet
+bank_transfer: Transfer bancar
+contact_subject: Contact Email
+payment_finish_title: plată completă
+payment_renew_title: plată completă
+payment_finish_text: Plata este completă. De îndată ce am primit confirmarea de la paypal contul dvs. va fi activat
+payment_renew_text: plata dvs. este finalizată. De îndată ce am primit confirmarea de la paypal contul dvs. va fi reînnoit de
+payment_cancel_title: plată Anulează
+payment_cancel_text: Plata este anulată
+feature_payment_finish: plata dvs. este finalizată. De îndată ce primim confirmarea PayPal, Estate va fi prezentată.
+feature_payment_cancel: Plata dvs. este anulată.
+selected_package: Selectate Pachetul
+signup_with_social_account: Inregistreaza - te cu contul sociale
+password: Parola
+confirm_password: Confirmă parola
+all_posts: Toate mesajele
+no_posts: Nici un mesaj
+title: Titlu
+description: Descriere
+status: Stare
+actions: Acțiune
+action: Acțiune
+type: Tip
+type_something: Tip ceva
+content: conținut de
+featured_image: imagine Featured [min 300x226]
+category: categorii auto
+all_categories: Toate categoriile auto
+edit_category: Editare categorie
+new_category: nouă categorie auto
+parent: mamă
+edit: Editare
+delete: Șterge
+name: Nume
+save: Salvați
+no_parent: Niciun părinte
+edit_email_template: Editare șablon de e - mail
+select_template_file: Selectați fișierul șablon
+subject: Subiect
+body: Corp
+available_variables: variabile disponibile
+select_language: Selectați limba
+select_language_file: fișier Selectați limba
+edit_as_new: Editare ca nouă
+language: limbă
+add_another: Adăugați alta
+export_to_file: Export în fișier
+import_from_file: Import din fișier
+auto_translator: Auto traducător
+from_lang: Din lang
+target_lang_full_name: țintă lang nume complet
+target_lang_short_name: Target lang nume scurt
+create_new_package: Creare nou pachet
+price: Pret
+ask_for_price: Cere preț de
+maximum_post_by_user: posturi maxime de utilizator de
+expiration_time: timp de expirare (zile)
+create_package: Creare pachet
+edit_package: Editare pachet
+update_package: pachetul de actualizare
+add_packages: Adauga pachete
+all_packages: Toate pachetele
+no_packages: Nici un pachet
+options: Opțiuni
+all_pages: Toate paginile
+no_pages: Nici o pagină
+manage_menu: Manage meniu
+menu_title: Meniu titlu
+menu_alias: Meniu alias
+show_in_menu: Afișare în meniul de afișare pentru
+page_layout: pagina de
+content_from: conținut de la
+url: Url
+seo_options: opțiuni SEO
+meta_description: Meta descriere
+key_words: Cuvinte cheie
+crawl_after: crawl de după (zile)
+all_plugins: Toate plugin - uri
+no_plugins: Nu există niciun plugin
+name_and_version: numele și versiunea
+change_password: Schimbare parolă
+current_password: parolă curentă
+new_password: nouă parolă
+retype_password: Retype parola
+password_reset_info_msg: Vă rugăm primul set parola nouă
+profile_picture: Profilul Poza
+username: Nume
+email: Email
+first_name: Nume
+last_name: Prenume
+gender: Sex
+phone: Telefon
+company_name: Nume companie
+about_me: Despre mine
+facebook_account: cont de Facebook
+twitter_account: Cont de Twitter
+linkedin_account: cont Linkedin
+gp_account: cont Google+
+account_msg: Vă rugăm să introduceți link - ul, fără http //
+web_email_settings: Web Setări e - mail
+contact_email: Contact Email
+webadmin_name: webadmin Nume
+webadmin_email: WebAdmin E - mail
+update: Actualizare
+upload: Încarcă
+site_settings: Setări site
+site_title: ului Titlu
+footer_text: textului de subsol
+site_logo: Site Logo
+site_language: limba site -
+site_text_direction: ului Direcția textului
+per_page: paginare pe pagină
+default_page_layout: implicit aspectul paginii de
+tracking_code: cod de urmărire
+smtp_email_settings: SMTP Setări e - mail
+smtp_email: SMTP e - mail
+smtp_host: gazdă SMTP
+smtp_port: Port SMTP
+smtp_timeout: SMTP Timeout
+smtp_user: SMTP utilizator
+smtp_password: Parola SMTP
+generate_site_map: Generate Harta site - ului
+sitemap_info_msg: NB Vă rugăm să selectați pe care doriți să fie inclus pe XML sitemap. După sitemap.xml generație de succes este salvat în directorul Rădăcină. De asemenea , puteți edita acest fișier pentru a include propriile url - uri.
+pages: Pagini
+blog_posts: Blog Posts
+articles: Articole
+blog_post: Blog post de
+blog: blog
+article: articol
+news: News
+view_xml: Vezi XML
+create_xml: Crearea XML
+manage_backups: Gestionați Backupurile
+create_sql_backup: Crearea SQL Backup
+create_image_backup: Crearea Backup Image
+restore: Restore
+download: Descarca
+dashboard: Tabloul de bord
+overview_stats_more: Prezentare generală, statistici și multe
+visit_site: Vizitați site - ul
+logout: Delogare
+themes: Teme
+locations: Locații
+paypal_settings: Paypal Setări
+payment_history: Istoric plăți
+profile: Profil
+packages: Colete
+widgets: Widgeturi
+all_widgets: Toate Widgets
+widget_positions: Widget Pozitii
+blog_news_article: Blog / Stiri / articol
+new_post: nou post
+pages_and_menu: Pagini & Meniu
+new_page: nou Page
+menu: Meniu
+system: Sistem de
+manage_languages: Gestionare limbi
+auto_translate: Traducere automată
+edit_email_text: Editare E - mail Text
+admin_settings: Web Admin Setări
+sitemap: Harta site - ului
+activate: Activează
+active_theme: Active temă
+available_themes: teme disponibile
+all_users: Toți utilizatorii
+create_user: Creează un utilizator
+export_user_email: Mesaje de poștă electronică Export utilizator (.csv)
+profile_info: Informații Profil
+ban_forever: Ban pentru totdeauna
+edit_page: Editare pagină
+create_widget: Creare Widget
+widget_name: Widget Nume
+activate_deactivate: Activare / dezafectează
+show: Afișare
+available_widgets: Disponibil Widgets
+active_widgets: Widgets active
+delete_warning: Sunteți sigur că doriți să ștergeți
+yes: „Da“
+no: „Nu“
+product_name: Conținut
+fa_icon: pictogramă clasa FA
+post_ad: Adăugați o mașină
+post_ad_subtitle: Pune informațiile dvs. masina
+signin: signin
+signup: Înregistrează - te
+signup_title: Creați contul dvs.
+not_found: Nu a fost găsit
+purpose: Purpose
+purpose_buy: Cumparare
+purpose_sell: Vindem
+select_category: Selectați Categorie de
+contact_for_price: contact pentru pret
+address_info: Adresa Info
+general_info: Info generale
+upload_later_msg: Veți putea încărca galeria fotografii și URL - ul video după crearea de postare
+user_panel: Panoul utilizatorului
+put_as_comma_seperated: pune ca (,) virgula sperated
+added: Adăugat
+location: Locul de amplasare
+views: Vizualizări
+package_type: Tip
+post_package: post pachet
+featured_package: recomandate pachet
+both_package: post și recomandate
+select_package: Selectați pachetul
+package_created: pachet creat
+package_updated: pachetul actualizat
+slider: Slider
+add_new: Adauga o noua
+new_slide: Slide nou
+update_slide: Actualizare diapozitiv
+save_order: Salvați comanda
+slider_sort_instruction: puteţi trage picătură pentru a sorta rândurile din tabel. După sortare a salva comanda de
+search: căutare
+results: Rezultatele
+location_on_map: Harta
+contact_mode: Contact Mode
+reset: Reset
+contact: Contact
+default_site_view: site - ul implicit vizualizare
+type_your_message: Introduceti mesajul aici ..
+mail_sent: E - mailuri trimise
+search_classifieds: Cauta Auto
+advanced_search: Căutare avansată
+narrow_down_your_search: Rafinați-vă căutarea
+home: Acasă
+print: Print
+remember_me: mă ții minte
+forgot_password: Ai uitat parola
+login_failed: Autentificare eșuată de
+login_to_your_account: conectare la contul dvs.
+register_your_account: înregistrați contul
+male: Masculin
+female: Feminin
+no_location_found: Nu fost găsită o locație de
+state: stat de
+ad_creation_error: eroare în anunț creare! Te rog verifica.
+users: Utilizatorii
+show_admin_user: Arata Utilizator administrator
+send_email_to_owner: Trimite e - mail proprietarului masina
+categories: Categorii
+top_posts: Top Posturi
+show_state_province: Arată de stat provincia
+package_settings: Pachete Setări
+default_site_settings: Prestabilit Site Setări
+webadmin_settings: webadmin Setări
+banner_settings: Banner Setări
+max_price_for_search: Max Pret pentru Caută
+search_filters: Caută Filtre
+posts_per_page: Posturi pe pagină
+recent_posts: Auto recente
+featured_posts: Featured Posts
+top_locations: Top Locatii
+top_users: Top utilizatori
+approve: Aprobă
+make_featured: Marca Featured
+remove_featured: Remove caracteristici
+renew_featured: Renew Featured
+renew_package: Renew pachet
+no_renew_post_id: nevalid reînnoiți posta ID
+approve_payment: Aprobă plata
+transaction: Tranzacție
+transaction_id: Tranzacție id
+post_id: post id
+amount: Suma
+request_date: Data solicitării
+expiration_date: Data expirării
+transaction_deleted: tranzacției șterse de
+payment_approved: plată aprobate
+logged_in_as: Conectat ca
+posted_on: Postat privind
+confirm_email_send: confirmarea de e - mail send.Please urmati instructiunile din acel e - mail.
+email_confirmed: E - mail confirmată. Vă puteți conecta acum
+email_confirmed_failed: confirmarea de e - mail nu a reușit
+password_change_success: Parola a fost schimbata cu succes
+email_sent_inbox: Un e - mail este trimite la dvs. inbox.Check acel e - mail.
+password_recovery_link_invalid: Recuperarea parolei Link nu este valid
+user_updated: Utilizator Actualizat
+user_deleted: Utilizator șters
+user_banned: Utilizator Banned
+user_unbanned: Utilizator Unbanned
+user_confirmed: utilizator Confirmat
+post_deleted: Mesaj Sters
+post_updated: Mesaj Actualizat
+post_created: post Created
+post_featured: Mesaj recomandate
+data_inserted: Date inserate
+data_updated: date actualizate
+feature_renewed: Caracteristică reînnoită
+post_feature_removed: Mesaj Caracteristică Eliminat
+post_approved: Mesaj Aprobat
+invalid_post: nevalid Mesaj
+email_sent: E - mail trimis
+settings_updated: Setările au fost actualizate
+package_removed: Pachetul Eliminat
+page_updated: Page Actualizat
+page_created: Pagină creată
+page_deleted: pagină ștearsă
+menu_updated: Meniu actualizat
+site_map_generation_success: Harta site - ului generat cu succes.
+select_option: Vă rugăm să selectați sau mai selectați opțiunile.
+image_backup_created: Imagine de backup Creat
+language_translated: Limba Tradus
+unable_to_write_file: Imposibil de scris fișier de
+backup_deleted: backup șters
+database_restored: Baza de date Restaurat
+theme_activated: Tema Activated
+user_created: create de utilizator
+widget_position_updated: Widget Poziționare Updated
+widget_created: Widget Created
+widget_data_updated: Widget date actualizate
+unable_to_write_widget: Nu se poate scrie widget
+post_created_and_published: post creat și publicat
+post_created_approval: post creat și de așteptare pentru aprobarea de către administrator
+post_package_renewed: post pachet reînnoit
+payment_finish: finaliza plata
+payment_cancelled: Plata a fost anulată
+admin_change_pass_help: Lăsați necompletat dacă nu există o schimbare necesară
+go_to_paypal: Du - te la Paypal
+login_with_google: Login cu Google
+login_with_facebook: Conectare cu Facebook
+load_more_recent_posts: Load Cars Mai recente
+load_more_featured_posts: Încarcă mai multe Recomandate Mașini
+register_for_new_account: înregistra pentru un cont nou
+site_map: Harta site - ului
+show_site_map: hartă site -
+service: service
+features: Caracteristici
+about: Despre
+view_posts: Vizualizare mesaje
+see_full_documentation: Consultați documentația completă
+select_city: Selectați oraș
+parallax_slider: Parallax Slider
+all_slides: Toate diapozitive
+no_slide: No Slide
+slide_order: Slide comanda
+edit_profile: Editare profil ,
+post_price_settings: setările pentru post
+enable_post_pricing: sistem de tarifare poștă
+enable_paypal_transfer: Activați PayPal
+enable_bank_transfer: Activare transfer bancar
+bank_transfer_instruction_for_posts: Transfer bancar instrucțiuni
+featured_price_settings: setările de preț recomandate
+enable_featured_pricing: Activați tarifarea Featured
+enable_featured_paypal: Enable PayPal
+enable_featured_bank_transfer: Activare bancar prin transfer
+bank_transfer_instruction_for_featured_posts: bancar Transfer de instrucțiuni
+bank_currency_settings: Banca pentru monedă
+bank_currency: valută Banca
+use_same_as_paypal_currency: Utilizați aceeași monedă PayPal
+admin: admin
+re_password: Repetă parola
+explain_widget_position: Explicați pozitiile Widgetul
+post: Mesaj
+post_renew: Mesaj Renew
+feature: Caracteristică
+feature_renew: Caracteristică Renew
+payment_for: Plata
+select_country: Selectați Țara
+select_one: Selectați One
+video_url: vidoe URL
+confirm_payment: Confirmați Plata
+package_title: Pachet Titlu
+number_of_featured_days: Numărul de zile pentru a fi prezentat
+no_of_days: nr de zile
+any_city: Orice oraș
+any_category: Orice categorie
+product_admin_panel: Carbiz admin
+username_or_email: Nume de utilizator sau e - mail
+car_detail: detalii auto
+posts_by: Mesaje Prin
+featured: Prezentate
+edit_user: utilizator Editare
+the_field_is_required: obligatoriu Câmp% s.
+valid_email: Câmp% s trebuie să conțină o adresă de e - mail validă.
+min_length: Câmp% s trebuie să fie de cel puțin caractere% s lungime.
+numeric: Câmp% s trebuie să conțină numai cifre.
+matches: Câmp% s nu se potrivește cu câmpul% s.
+greater_than: Câmp% s trebuie să conțină un număr mai mare decât% s.
+agree_terms: Am citit% s termeni și condiții% s
+must_accept_terms: Trebuie să acceptați termenii și condiție
+dont_have_permission: Nu aveți permisiunea de a accesa această pagină
+email_already_in_use: e - mail deja în uz
+username_already_in_use: Nume de utilizator deja în uz
+current_password_not_matched: Parola curentă nu a returnat
+email_or_password_not_mathed: E - mail sau parola nu se potrivește cu
+email_not_matched: e - mail nu corespund cu
+account_not_confirmed: Contul nu a confirmat
+all_locations: Toate locațiile
+add_country: Adaugă țară
+add_state: Adaugă stat
+add_city: Adaugă oraș
+no_locations: Nu există locații
+banner_type: Banner tip
+bg_image: Imaginea de fundal
+unique_alias: câmp% s trebuie să fie unic A
+error_occurred: apărut o eroare. Vă rugăm să verificați câmpurile de mai jos
+user_profile: profilul de utilizator al
+user_email: utilizatorului de e - mail
+target_lang_name: Limba țintă
+no_emails: Nu e - mailuri
+to: Pentru
+classified_settings: Setări Classified
+publish_posts_directly: Publish mesaje direct
+system_currency: valută Sistem
+enable_signup: Activare înscriere
+if_package_expired: Dacă pachetul a expirat
+do_not_hide: Nu ascunde
+hide: Ascunde
+show_price_like: formatul Preț
+facebook_app_settings: setările aplicației Facebook
+enable_facebook_login: Activați conectarea Facebook
+fb_app_id: Aplicația Facebook id
+fb_secret_key: Facebook secrete cheie
+comment_settings: Setările comentariilor
+enable_comment: Activează comentariul
+disqus_shortname: Disqus SHORTNAME
+sandbox_mode: Mod Sandbox
+item_name: Postul Nume
+paypal_email: Paypal e - mail
+currency: Moneda
+finish_url: Finish URL
+cancel_url: Anulare URL
+menu_background: Meniu fundal
+menu_text_color: text color Meniu
+activated_menu_color: meniu activat de culoare
+top_bar_bg: bara de Sus bg
+activated_menu_text_color: activat meniul Culoare text
+latitude: Latitudine
+longitude: Longitudine
+map_zoom: Harta zoom
+search_panel_settings: Setări panou de căutare
+search_panel_bg_color: panoul Căutare de culoare bg
+show_background_image: Indica imaginea de fundal
+active_widget_position: activă poziția widget
+upload_and_install: Încărcați și instala
+install_updates: Instalare actualizări / Teme / plugins / Widgets
+confirmation_email: Confirmare Email
+recovery_email: Recuperare E - mail
+signup_notification_email: Notificare Înregistrare E - mail
+payment_confirmation_email: Plata Confirmare e - mail
+click_and_edit:Selectați un fișier șablon și faceți clic pe Editare]
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: setările implicite SEO
+find_us_on_facebook: Găsiți - ne pe Facebook
+category_featured_posts: Featured posturi
+load_more_posts: Incarca mai multe
+home_page_title: Cautare Cumpara Vanzare autoturisme
+no_posts_found: Nu sunt mesaje
+type_anything: Type nimic
+chosen_not_found: Hopa găsit nimic!
+rating_asc: Rating -ul Crescator
+rating_desc: Rating Descrescator
+id_desc: ID Descrescator
+id_asc: Id - ul Crescator
+price_range: Gama de prețuri
+additional_features: Caracteristici suplimentare
+add_more_fields: Adăugați mai multe câmpuri
+remove: Înlăturați
+distance_around_my_position: Căutare rază
+show_distance_in: Arată Distanța de la
+car_listed: Auto Postat
+show_street_view: Arată Street View
+list_car: Lista auto
+search_cars: Cauta Auto
+top_cars: Top Cars
+featured_cars: recomandate Cars
+content_settings: Setări de conținut
+hide_email: Ascunde e - mail
+hide_phone: Ascunde telefon
+review: Review
+comment: Comentariu
+submit_review: Trimite comentariu
+rating: Evaluare
+review_alert: Trebuie să fii autentificat pentru a trimite recenzia.
+new_car: Adăugați auto
+identify_my_location: Identificati mele locație de
+data_deleted: date șterse
+recent_reviews: comentarii recente
+view_all_reviews: Vezi toate comentariile
+review_deleted: Șters
+review_detail: Detalii
+all_reviews: Toate Recenzii
+monday: Luni
+tuesday: Marți
+wednesday: Miercuri
+thursday: Joi
+friday: Vineri
+saturday: Sâmbătă
+sunday: Duminica
+opening_hour: Deschiderea ore
+closed: Închis
+review_submitted: opinie prezentat
+social_links: link - uri sociale
+upgrade_browser: browser de upgrade
+please_upgrade_your_browser: Vă rugăm să actualizați browser - ul
+car: auto
+introduction: Introducere
+terms: Termeni și condiții de
+email_not_found: e - mail nu a fost găsit
+city_dropdown: Oraș drop - down
+published: Publicat
+publish: Publicare
+drafted: Elaborat
+draft: Proiect De
+from: la
+send_bulk_email: Trimite e - mail în vrac
+ive_read_the: Am citit
+title_city_category: titlul, orașul sau categoria
+dt_first: Prima
+dt_last: Ultima
+dt_next: Următoarea
+dt_prev: Anterioara
+dt_no_data: Nu sunt disponibile date în tabelul
+dt_show_empty: Rezultate 0 la 0 din 0 intrari
+dt_no_match: Nu exista inregistrari care sa se potriveasca găsite de
+dt_search: căutare
+dt_processing: procesează ... Se
+dt_loading: încarcă ... Se
+dt_info: afișează _START_ la _END_ de intrări _TOTAL_
+dt_filter_info: (filtrate din totalul _MAX_ intrări)
+dt_show_entries: Afișează intrările _MENU_
+get_directions: obține direcție
+review_not_submitted : aţi dat deja o recenzie
+debug_email : e - mail Debug
+email_to : email
+report_the_car : Raportează acest automobil
+reported : raportat
+already_reported : deja raportate
+reported_post : masini raportate
+all_reported_posts : masini raportate
+report: Report
+assigned_to: Desemnat
+select_assigned_to: Selectați utilizator de
+css_compression: compresie Css
+gallery_notes: Aveți posibilitatea să glisați picătură pentru a reordona galerie fotografii. Fotografiile nu sunt redimensionat.
+video_notes: Youtube sau Vimeo URL
+post_expiration_notification: Mesaj de notificare de expirare
+days_left: Zile la stânga
+AM: AM
+PM: PM
+upload_invalid_min_dimensions: Dimensiunea imaginii este prea mică
+view_on_front: View în fața
+clear_unused_img: Clear imagini neutilizate
+unused_files_found: fișierele neutilizate găsite
+unused_images_cleared: imagini neutilizate șterse
+unused_info_msg: Această funcție șterge numai imaginile care nu sunt utilizate de mașini, utilizatori, categorii, pagini, bloguri. Acesta caută prin baza de date pentru identificarea images.So dacă ați încărcat manual orice imagini manual și le utiliza în codul poate fi șters.
+no_unused_img: Nici o imagine neutilizată a găsit
+search_panel_filter_type: tipul de filtru
+basic_options: opțiuni de bază
+advanced_options: opțiuni Advance
+sorting_order: ordinea de sortare
+car_listed_on: auto listate pe
+car_listed_under: mașini enumerate în
+all_sub_categories: toate categoriile sub
+no_sub_categories: Nu există categorii sub
+hide_my_email : Ascunde adresa de email de
+disable_email_contact: contacte email Dezactivați
+enable_review: Activare recenzie
+disable_google_street_view: Dezactivați Google vedere din stradă
+location_chorome_msg: Locul de amplasare serviciu de Google nu este disponibilă pentru site - uri non SSL (numai în browserul Chrome). Doriți să utilizați adresei IP pentru a se obține locația dvs.? Rezultatul nu NB - ar putea să fie exact la fel ca Google
+send_email_to_users: Trimite e - mail utilizatorilor
+show_banner: Afișare banner
+hide_my_phone: Ascunde meu de telefon
+kms: Kms
+miles: Miles
+logo_text: Logo Text
+logo_type: Logo Tip de
+logo_text_color: culoare Logo text
+Jan: Ian
+Feb: februarie
+Mar: Mar
+Apr: aprilie
+May: Mai
+Jun: iunie
+Jul: iulie
+Aug: august
+Sep: septembrie
+Oct: octombrie
+Nov: noiembrie
+Dec: decembrie
+show_search_panel: Arată panoul de căutare
+delete_selected: Ștergere selectate
+map_api_key: Gmap api cheie
+pricing: Tarifarea
+post_package_instruction: Avem urmatoarele pachete pentru a posta o masina pe site - ul nostru
+feature_package_instruction: Avem urmatoarele pachete pentru a face un autoturism , prezentat
+MENU: MENIU
+gplus_app_settings: setările aplicației Google+
+auth_redirect_url: autorizat de redirecționare URL
+enable_gplus_login: Activați Google+ de conectare
+gplus_client_id: client id Google+
+gplus_client_secret: client Google+ secrete
+how_to_get_gplus_api: Cum să obțineți Google+ ID - ul client și Secret
+gallery_upload_limit: Galerie limită de încărcare
+you_can_upload_max: Tu pot încărca maxim
+gallery_photos: fotografii Galerie
+advanced_options_with_country_state: opțiunea Advance cu țara și de stat
+select_state: Selectați de stat
+recent_posts_order: posturi recente comanda
+featured_posts_order: mesaje recomandate comanda
+default_posts_order: Implicit comanda
+ASC: Crescator
+DESC: Descrescator
+RANDOM: aleatorie
+useremail: e - mail utilizator
+enable_adblocker_alert: Activează alertă Adblock
+adblock_detected: Adblock detectat
+adblock_msg: Vă rugăm să retrimiterile Adblock și actualizați din nou pagina
+enable_cookie_policy_popup: Politica Cookie Popup
+cookie_policy_page_url: Cookie pagina politica URL
+cookie_policy: Cookie Policy
+cookie_policy_alert: Acest site foloseste cookie - uri. Continuând să utilizați acestui site sunteti de acord cu utilizarea cookie - urilor.
+read_more: Citește mai mult
+i_agree: Sunt de acord
+instagram: Instagram
+newsletter_subscription: Primiți buletinul de
+your_email: e-mail
+email_saved: E - mail a salvat buletinul informativ
+send_newsletter: Trimite Newsletter
+unsubscribe: Dezabonare
+to_unsubscribe: Faceți clic pe acest link dacă doriți să vă dezabonați de la acest serviciu
+successfully_unsubscribed: Acum sunteți dezabonat de la serviciul de newsletter
+export_user_phone: telefon utilizator Export
+enable_blog_comment: Activați blogul comentariu
+fb_blog_app_id: app Fb id pentru blog - ul
+disqus_blog_shortname: Disqus nume scurt pentru blogul
+sample_page: pagina Exemplu de
+senders_phone: telefon al expeditorului
+alias: Alias
+atleast_a_country_city: trebuie să introduceți cel puțin țară și oraș
+email_not_shared: Se pare că id - ul Facebook nu au permisiunea de a împărtăși e - mail. Vă rugăm să schimbați sau un alt cont de utilizator sau doar înscriere folosind e - mail.
+votes: Voturi
+food_corner: alimentar de colț
+show_map_instead_of_street_view: Arată harta în loc de Street View
+post_published_email: Post a publicat e - mail
+max_upload_file_size: max dimensiunea de încărcare (KB)
+site_mode: Site - ul Modul
+maintenance_msg: site sub întreținere
+brandmodels: modele Brand
+add_brand: Adaugă marca
+add_model: Adaugă modelul
+no_brandmodels: Nu brandmodels
+sel_brand: Selectați Brand
+carconditions: condiții auto
+STATUS_DELETED: Ștearsă
+STATUS_ACTIVE: active în
+STATUS_PENDING: așteptare
+STATUS_PAYMENT_PENDING: Plată în așteptare
+STATUS_EXPIRED: expirate În
+USER_PENDING: așteptarea
+USER_BANNED: Banned
+USER_ACTIVE: active
+car_options: Opțiuni auto Config
+transmissions: tipuri de transmisie
+convertible: convertibile
+coupe: Coupe
+hatchback: Hatchback
+luxury_car: Luxury Car
+sedan: Sedan
+sports_car: Sports Car
+suv: SUV
+trucks: Camioane
+van: Van
+customfields: Câmpuri personalizate
+customfield: câmp personalizat
+sel_fieldtype: Selectați tipul de câmp
+text: text
+textarea: Zonă de text
+richtext: Rich Text
+select: Dropdown
+radio: radio
+checkbox: Checkbox
+is_required: Este nevoie de
+field_added: câmp personalizat adăugat
+field_updated: Câmp personalizat actualizat
+field_deleted: câmp personalizat eliminat
+field_order_updated: ordine de câmp actualizat.
+field_sort_help: ^ Aveți posibilitatea să glisați picătură pentru a sorta rândurile din tabel. După sortare a salva comanda
+help_url_slug: Pune o valoare unică (va fi utilizat în adresa URL)
+NA: N / A
+condition_new: nou
+condition_used: folosit
+condition_pre_owned: Pre Owned
+condition_recondition: Reconditioned
+condition_other: Alt
+year: Tip caroserie
+brand: auto Marca
+model: auto Modelul
+mileage: Kilometraj
+transmission: transmisie
+condition: Stare
+fuel_type: Tip combustibil
+fueltypes: Tipuri de combustibil
+gas: gaz
+diesel: disel
+petrol: Benzina
+octane: Octane
+electricity: electricitate
+others: Altele
+select_condition: Selectați Stare
+select_transmission: Selectați Transmisie
+automatic: automată
+manual: manuală
+semi_automatic: semi-automată
+select_brand: Selectați Marca
+select_year: Selectare Silueta
+select_fuel_type: Selectare Tip combustibil
+url_slug: Url slug
+registration_no: Reg Nu
+engine_size: Motor Dimensiune
+help_engine_size: Motor Dimensiune (in litri)
+steering_type: Tip direcție
+help_steering_type: Selectați direcție Tip
+safety_rating: Siguranță Evaluare
+sel_safety_rating: Selectare Siguranță Evaluare
+engine_type: Motor Tip
+help_engine_type: Selectare Tip motor
+no_of_seats: nr de locuri
+help_no_of_seats: nr de locuri
+gear_type: Cutie de viteze Tip
+help_gear_type: Selectați Gear Tip
+new_brand: nou Brand
+brand_names: Nume de marcă
+new_model: nou model
+select_model: Selectați model
+model_names: numele modelelor
+mileage_unit: Kilometraj unitate
+brand_model: Marca & Model de
+help_text: Text de ajutor
+fieldtype: Câmp Tip
+fieldname: Nume câmp
+comma_separated_help: Pune - unul sau mai multe numit ca „“ (virgula) separate. Ca newyork, Dallas, idaho
+category_id: Car Categorie
+show_in_detail: Afișează în detaliu pagina
+power_steering: Servodirecție
+manual_steering: direcție manual
+inline: Inline
+straight: drept
+vee: EEV
+flat: plat
+vr_w: VR & W
+other: Alte
+other_information: Alte informații
+dual: duble
+all_cars: toate masinile
+reported_cars: Raportate Cars
+no_reviews: comentarii încă
+optional_info: Opțional Info
+car_posts: auto Mesaje
+featured_expiration_time: timp de expirare recomandate (zile)
+max_gallery_photos: Max Galerie Foto
+gallery_limit: Galerie
+take_package: Ia - pachet
+photos: Fotografii
+mileage_range: Kilometraj Range
+pls_share: Vă rugăm să partajați site - ul nostru
+facebook_page_name: FB Pagina Nume
+google_plus_name: Nume Google+
+twitter_page_name: Twitter Utilizator
+normal: Normal
+free: gratuit
+ultimate: Ultimate
+premium: Premium
+update_post: Actualizare postare
+Clear unused images: Șterge imagine neutilizate

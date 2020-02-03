@@ -1,0 +1,865 @@
+---
+sign_in: Oturum
+sign_up: Oturum Yukarı
+agent_panel: Ajan Paneli
+admin_panel: Yönetici Paneli
+country: Ülke
+state_province: Eyalet / İl
+city: İl
+register: Kayıt
+details: Detayları
+view_all: Görüntüle Tüm
+order_by: Order By
+none: Yok
+terms_and_conditions: Şartlar ve koşullandırın
+reg_success_message: Hesabınız kaydı başarılı olur. Bir e-posta e-postanıza gönderildi. Hesabınızı etkinleştirmek için bu e-postayı takip ediniz. Teşekkür
+limit: Limiti
+usage: Kullanımı
+recover: Kurtar
+oops: Sayfa bulunamadı
+share_this: Paylaş Bu
+location_map: Yer Harita
+image_gallery: Resim Galerisi
+gallery: Galeri
+summary: Özet
+overview: Özet
+address: Adres
+message: Mesaj
+email_subject: E-posta Konu
+all: Tüm
+contact_us: Bize
+featured_video: Özel Video
+embed_video_url: Gömülü Video Bağlantısı
+email_tracker: E-posta Tracker
+bulk_email: Toplu E-posta
+advanced_filters: Gelişmiş Filtreler
+result: Sonuç
+payment_notification: Bir ödeme yapmak için gidiyoruz. Bir e-posta e-posta gönderilir. Sen o e-postadaki linke istediğiniz zaman bu adıma yedekleyebilirsiniz.
+confirmation: Onay
+tags: Etiketler
+zip_code: Kodu Zip
+embed_preview: Göm Önizleme
+login: Girişi
+post_not_found: Mesaj Bulunamadı
+view_more: Daha Fazla
+choose_a_package: bir Paket seçiniz
+choose_feature_package: bir özellik paketi seçin
+no_package_found: No Paketi bulundu
+days: Günleri
+posts: Mesajlar
+change: Değişim
+subscribe: Abone
+image: Görüntü
+view_on_map: (Otomatik Lat lang doldurun) Haritada Görünüm
+create: oluşturma
+basic_info: Temel Bilgi
+send: Gönder
+all_email_to_users: Kullanıcılar için tüm e-postalar
+email_detail: E-posta Detay
+change_package: Değişikliği Paketi
+bank_transfer: Banka Transferi
+contact_subject: Kişi E-posta
+payment_finish_title: Ödeme Komple
+payment_renew_title: Komple Ödeme
+payment_finish_text: Ödemeniz tamamlandı. En kısa zamanda hesap aktif olacaktır paypal dan onayı almış olarak
+payment_renew_text: Ödemeniz tamamlandı. En kısa zamanda yenilenen olacak PayPal hesabınızdan onayı almış olarak
+payment_cancel_title: Ödeme İptal
+payment_cancel_text: Kişisel ödeme iptal edilir
+feature_payment_finish: Ödemeniz tamamlandı. Biz paypal onay almadan en kısa sürede, malikanen öne çıkarılır.
+feature_payment_cancel: Ödemeniz iptal edilir.
+selected_package: Paket Seçilmiş
+signup_with_social_account: sosyal hesap ile Kaydı
+password: Şifre
+confirm_password: Onayla Şifre
+all_posts: Tüm Mesajlar
+no_posts: Mesaj Yok
+title: Başlık
+description: Açıklama
+status: Durum
+actions: Eylemler
+action: Eylem
+type: Tipi
+type_something: ara
+content: İçeriği
+featured_image: [300x226 dk] Seçme Görüntü
+category: Araç kategorilerinde
+all_categories: Tüm araç kategorileri
+edit_category: Kategori düzenle
+new_category: Yeni araba kategorisi
+parent: Veli
+edit: Düzenleme
+delete: Sil
+name: İsim
+save: Kaydet
+no_parent: Hiçbir ebeveyn
+edit_email_template: E-posta düzenle şablonu
+select_template_file: seç şablon dosyası
+subject: Konu
+body: Vücut
+available_variables: Mevcut değişkenler
+select_language: Dil Seç
+select_language_file: Seç dil dosyası
+edit_as_new: yeni olarak düzenle
+language: Dil
+add_another: Başka Ekle
+export_to_file: Dosya Ver
+import_from_file: Dosyadan içe aktar
+auto_translator: Oto çevirmen
+from_lang: lang itibaren
+target_lang_full_name: Hedef lang tam adı
+target_lang_short_name: Hedef lang kısa adı
+create_new_package: Yeni paket oluştur
+price: Fiyatı
+ask_for_price: fiyat isteyin
+maximum_post_by_user: kullanıcı tarafından azami mesajların
+expiration_time: Bitiş süresi (gün)
+create_package: oluştur paket
+edit_package: Düzenleme paketi
+update_package: güncelleştirme paketi
+add_packages: Paketleri ekleyin
+all_packages: Bütün paketler
+no_packages: paket yok
+options: Seçenekler
+all_pages: Tüm sayfalar
+no_pages: sayfa yok
+manage_menu: menüsü yönetme
+menu_title: Menü Başlık
+menu_alias: Menüsü takma
+show_in_menu: menüsünde göster
+page_layout: Sayfa düzeni
+content_from: gelen İçeriği
+url: URL
+seo_options: SEO seçenekleri
+meta_description: Meta açıklama
+key_words: Anahtar kelimeler
+crawl_after: (gün) sonra Tarama
+all_plugins: tüm eklentileri
+no_plugins: eklenti yok
+name_and_version: adı ve sürüm
+change_password: Şifre değiştir
+current_password: Geçerli şifre
+new_password: Yeni şifre
+retype_password: tekrar yazın şifre
+password_reset_info_msg: Önce Yeni Şifre Set Lütfen
+profile_picture: Profil Resmi
+username: Adı
+email: Email
+first_name: Ad
+last_name: Soyad
+gender: Cinsiyet
+phone: Telefon
+company_name: Firma Adı
+about_me: Hakkımda
+facebook_account: Facebook hesabı
+twitter_account: Heyecan hesabı
+linkedin_account: Linkedin hesabı
+gp_account: Google+ hesabı
+account_msg: olmadan linki, girin http //
+web_email_settings: Web E-posta Ayarları
+contact_email: E-posta İletişim
+webadmin_name: İsim webadmin
+webadmin_email: Webadmin Email
+update: Güncelleme
+upload: yükle
+site_settings: Site Ayarları
+site_title: Site Başlığı
+footer_text: Altbilgi Metin
+site_logo: Sitesi Logo
+site_language: Site Dili
+site_text_direction: Sitesi Metin Yönü
+per_page: Sayfa Başına Sayfalandırmayı
+default_page_layout: Varsayılan Sayfa Düzeni
+tracking_code: İzleme Kodu
+smtp_email_settings: SMTP E-posta Ayarları
+smtp_email: SMTP E-posta
+smtp_host: SMTP Sunucu
+smtp_port: SMTP Bağlantı Noktası
+smtp_timeout: SMTP Zaman Aşımı
+smtp_user: SMTP Kullanıcı
+smtp_password: SMTP Şifre
+generate_site_map: site haritası oluşturma
+sitemap_info_msg: NB Eğer site haritası xml dahil edilmesini istediğiniz seçiniz. Sonra başarılı nesil sitemap.xml KÖK dizinine kaydedilir. Ayrıca kendi URL'ler dahil olmak üzere bu dosyayı düzenleyebilirsiniz.
+pages: Sayfalar
+blog_posts: Mesajlar Blog
+articles: Makaleler
+blog_post: Blog'a
+blog: Blog yayını
+article: Madde
+news: Haber
+view_xml: Görünüm XML
+create_xml: XML oluşturma
+manage_backups: Yedekler yönetme
+create_sql_backup: SQL Yedekleme oluştur
+create_image_backup: Görüntü Yedekleme oluştur
+restore: Restore
+download: İndir
+dashboard: Dashboard
+overview_stats_more: Bakış, İstatistikleri ve fazla
+visit_site: Ziyaret Sitesi
+logout: Çıkış
+themes: Temalar
+locations: Konumları
+paypal_settings: Paypal Ayarları
+payment_history: Ödeme Geçmişi
+profile: Profil
+packages: Paketleri
+widgets: Koruyucuları
+all_widgets: Tüm Widget'lar
+widget_positions: Widget Konumları
+blog_news_article: Blog / Haber / Madde
+new_post: Yeni Mesaj
+pages_and_menu: Sayfalar & Menüsü
+new_page: Yeni Sayfa
+menu: Menüsü
+system: Sistem
+manage_languages: Diller yönetme
+auto_translate: Otomatik Çeviri
+edit_email_text: Düzenleme E-posta Metni
+admin_settings: Web Yönetici Ayarları
+sitemap: Site Haritası
+activate: etkinleştirme
+active_theme: Aktif Tema
+available_themes: Mevcut Temalar
+all_users: Tüm Kullanıcılar
+create_user: Kullanıcı oluşturma
+export_user_email: İhracat Kullanıcı E-postalar (.csv)
+profile_info: Profil Bilgisi
+ban_forever: Ban Sonsuza
+edit_page: Sayfayı Düzenle
+create_widget: Widget oluştur
+widget_name: araç Adı
+activate_deactivate: Etkinleştir / De-etkinleştirme
+show: göster
+available_widgets: Temin Widget'lar
+active_widgets: Aktif Widget'lar
+delete_warning: emin silmek istiyor musunuz
+yes: "Evet"
+no: Hayır ""
+product_name: İçerik
+fa_icon: FA simgesi sınıfı
+post_ad: araba ekle
+post_ad_subtitle: araç bilgi koy
+signin: signin
+signup: Kayıt
+signup_title: hesabınızı oluşturun
+not_found: bulunamadı
+purpose: Amaç
+purpose_buy: satın
+purpose_sell: Sat
+select_category: Kategori Seç
+contact_for_price: fiyat için İletişim
+address_info: Adresi Bilgisi
+general_info: Genel Bilgi
+upload_later_msg: Sen sonrası oluşturma sonra galeri fotoğrafları ve video url yüklemek mümkün olacak
+user_panel: Kullanıcı paneline
+put_as_comma_seperated: olarak koymak (,) virgül sperated
+added: Eklendi
+location: Konum
+views: Görüntüleme
+package_type: Tipi
+post_package: Post kargosunu
+featured_package: Seçme paket
+both_package: Yayınla ve özellikli
+select_package: seç paket
+package_created: oluşturulan paket
+package_updated: paket güncellenmiş
+slider: Slider
+add_new: yeni ekle
+new_slide: yeni slayt
+update_slide: Güncelleme slayt
+save_order: kaydet sırasını
+slider_sort_instruction: Sen tablo satırlarını sıralamak için damla sürükleyebilirsiniz. Sipariş tasarruf sıraladıktan sonra
+search: ara
+results: Sonuçları
+location_on_map: Harita üzerinde Yer
+contact_mode: İletişim Modu
+reset: Sıfırlama
+contact: İletişim
+default_site_view: Standart sitesi görünümünde
+type_your_message: Mesajınızı buraya yazın ..
+mail_sent: Posta Gönderilen
+search_classifieds: Arama Otomobil
+advanced_search: Gelişmiş Arama
+narrow_down_your_search: Arama daraltın
+home: Ana
+print: Print
+remember_me: Beni hatırla
+forgot_password: Şifre Unuttum
+login_failed: Giriş başarısız
+login_to_your_account: Hesabınıza Giriş
+register_your_account: Hesabınızı Kayıt
+male: Erkek
+female: Kadın
+no_location_found: Yok Yer Bulundu
+state: Devlet
+ad_creation_error: reklamda Hata yaratma! Lütfen kontrol edin.
+users: Kullanıcılar
+show_admin_user: Yönetici Kullanıcı göster
+send_email_to_owner: araç sahibinin e-posta gönder
+categories: Kategoriler
+top_posts: En Mesajlar
+show_state_province: Göster Devlet İli
+package_settings: Paketi Ayarları
+default_site_settings: Standart Site Ayarları
+webadmin_settings: Webadmin Ayarları
+banner_settings: Afiş Ayarları
+max_price_for_search: Arama Max Fiyat
+search_filters: Ara Filtreler
+posts_per_page: Günlük Sayfa
+recent_posts: Yeni Cars
+featured_posts: Mesajlar Seçme
+top_locations: En Konumları
+top_users: En Kullanıcılar
+approve: onaylama
+make_featured: özellikli olun
+remove_featured: Kaldır özellikli
+renew_featured: özellikli yenileyin
+renew_package: paket Renew
+no_renew_post_id: Geçersiz yayın kimliği yenilemek
+approve_payment: ödeme onaylama
+transaction: İşlem
+transaction_id: İşlem kimliği
+post_id: Mesaj id
+amount: Tutar
+request_date: İstek tarihi
+expiration_date: Son kullanma tarihi
+transaction_deleted: İşlem silinmiş
+payment_approved: Ödeme onaylı
+logged_in_as: olarak giriş
+posted_on: Yayınlanan üzerinde
+confirm_email_send: Onay e-posta send.Please bu e-posta gelen yönergeleri izleyin.
+email_confirmed: E-posta doğruladı. Artık giriş yapabilirsiniz
+email_confirmed_failed: E-posta onayı başarısız
+password_change_success: Şifre başarıyla değiştirildi
+email_sent_inbox: Bir e-posta inbox.Check bu e-postaya göndermek olduğunu.
+password_recovery_link_invalid: Şifre Kurtarma Bağlantı Geçerli Olmayan mi
+user_updated: Kullanıcı Güncelleme
+user_deleted: Kullanıcı Silinen
+user_banned: Kullanıcı Yasaklı
+user_unbanned: Kullanıcı yasağı kaldırıldı
+user_confirmed: Onaylandı Kullanıcı
+post_deleted: silinen ileti
+post_updated: gönder Güncelleme
+post_created: Mesaj düzenlendi
+post_featured: Mesaj özellikli
+data_inserted: Veri eklenen
+data_updated: Veri Güncelleme
+feature_renewed: Özelliği Yenilendi
+post_feature_removed: Kaldırılan Mesaj Özelliği
+post_approved: Onaylı Gönder
+invalid_post: Geçersiz Yayın
+email_sent: E-posta Gönderim
+settings_updated: Ayarları Güncellendi
+package_removed: Paketi kaldırıldı
+page_updated: Sayfa Güncel
+page_created: Sayfa düzenlendi
+page_deleted: Sayfa silinmiş
+menu_updated: Menüsü Güncelleme
+site_map_generation_success:Site haritası başarıyla oluşturuldu.
+select_option: Üzerinde seçmek veya daha seçenekleri seçin lütfen.
+image_backup_created: Görüntü Yedekleme düzenlendi
+language_translated: Dil Çeviri
+unable_to_write_file: Dosya yazmak için açılamıyor
+backup_deleted: Yedekleme Silinmiş
+database_restored: Veri Tabanı restore
+theme_activated: Tema Aktif
+user_created: Kullanıcı Oluşturulma
+widget_position_updated: Pozisyon Widget Updated
+widget_created: Araç düzenlendi
+widget_data_updated: Araç Veri Güncelleme
+unable_to_write_widget: widget'ı yazılamıyor
+post_created_and_published: Yayın oluşturuldu ve yayınlanmış
+post_created_approval: Yayınla oluşturulan ve yönetici onayı bekliyor
+post_package_renewed: Post kargosunu yenilenen
+payment_finish: Ödeme bitirmek
+payment_cancelled: iptal Ödeme
+admin_change_pass_help: değişiklik gerekirse boş bırak
+go_to_paypal: Git Paypal
+login_with_google: , Google ile Giriş
+login_with_facebook: Facebook ile Giriş
+load_more_recent_posts: Daha Yeni Otomobil Yük
+load_more_featured_posts: Daha Sunulan Otomobil Yük
+register_for_new_account: Yeni Hesap için Kayıt
+site_map: Site Haritası
+show_site_map: göster site haritası
+service: Servis
+features: Özellikleri
+about: Hakkında
+view_posts: Görünüm mesajların
+see_full_documentation: tam belgelere bakın
+select_city:Il seçiniz
+parallax_slider: Paralaks Slider
+all_slides: Tüm slaytlar
+no_slide: yok slayt
+slide_order: slayt düzeni
+edit_profile: Profili düzenle
+post_price_settings: Mesaj fiyat ayarları
+enable_post_pricing: sonrası fiyatlandırma Enable
+enable_paypal_transfer: paypal Enable
+enable_bank_transfer: banka havalesi etkinleştirme
+bank_transfer_instruction_for_posts: Banka Transferi Talimatı
+featured_price_settings: Seçme fiyat ayarları
+enable_featured_pricing: özellikli fiyatlandırma Enable
+enable_featured_paypal: Enable paypal
+enable_featured_bank_transfer: banka havalesi etkinleştirme
+bank_transfer_instruction_for_featured_posts: Banka havalesi talimat
+bank_currency_settings: Banka döviz ayarları
+bank_currency: Banka döviz
+use_same_as_paypal_currency: paypal para birimiyle aynı kullanın
+admin: Yönetici
+re_password: parolası tekrar yazın
+explain_widget_position: Widget pozisyonları açıklar
+post: Mesaj
+post_renew: Gönder yenileyin
+feature: Özelliği
+feature_renew: Özelliği Renew
+payment_for: için Ödeme
+select_country: seç Ülke
+select_one: seç Bir
+video_url: Vidoe URL'ye
+confirm_payment: Onay Ödeme
+package_title: Paket Başlığı
+number_of_featured_days: gün sayısı özellikli edilecek
+no_of_days: günlerin Hayır
+any_city: Herhangi İl
+any_category: Herhangi Kategori
+product_admin_panel: Carbiz Yönetici
+username_or_email: Kullanıcı adı veya e-posta
+car_detail: Araç detay
+posts_by: mesaj gönderdiği
+featured: Sunulan
+edit_user: Düzenleme kullanıcı
+the_field_is_required: % s alan gereklidir.
+valid_email: % S alanı geçerli e-posta adresi içermelidir.
+min_length: % S alan uzunluğu en az% s karakter olmalıdır.
+numeric: % S sadece sayı içermelidir.
+matches: % S alan% s alanını eşleşmiyor.
+greater_than: % S% s alanı daha büyük bir sayı içermelidir.
+agree_terms: Ben% s Şartlar ve koşullar% s okudum
+must_accept_terms: Sen şartlarını kabul etmelidir ve kondisyon
+dont_have_permission: Bu sayfa erişmek için izniniz yok
+email_already_in_use: zaten kullanımda Email
+username_already_in_use: Zaten kullanım içinde adı
+current_password_not_matched: Akım şifre eşleşmedi
+email_or_password_not_mathed: uymuyor Email veya şifre
+email_not_matched: değil eşleşti Email
+account_not_confirmed: Hesabı doğrulanmadı
+all_locations: Tüm konumlar
+add_country: ülkeyi ekle
+add_state: devlet ekle
+add_city: şehir ekle
+no_locations: Hiçbir konumda
+banner_type: Banner tipi
+bg_image: Arkaplan görüntüsü
+unique_alias: % s alan benzersiz olması gerekir
+error_occurred: hata oluştu. Aşağıdaki alanları kontrol edin
+user_profile: Kullanıcı profili
+user_email: Kullanıcı e-posta
+target_lang_name: Hedef dili
+no_emails: yok e-postalar
+to: için
+classified_settings: Seri Ayarlar
+publish_posts_directly: doğrudan da yayınla
+system_currency: Sistem para
+enable_signup: kaydolma Enable
+if_package_expired: paket süresi dolmuşsa
+do_not_hide: saklanma
+hide: gizle
+show_price_like: Fiyat biçimini
+facebook_app_settings: Facebook uygulaması ayarları
+enable_facebook_login: facebook girişini etkinleştirme
+fb_app_id: Facebook uygulaması id
+fb_secret_key: Facebook gizli anahtar
+comment_settings: Yorum ayarları
+enable_comment: açıklama Enable
+disqus_shortname: Disqus shortname
+sandbox_mode: Sandbox Modu
+item_name: Öğe adı
+paypal_email: Paypal e-posta
+currency: Döviz
+finish_url: Finish url
+cancel_url: url İptal
+menu_background: Menü arka plan
+menu_text_color: Menüsü metin rengi
+activated_menu_color: Aktif menü rengi
+top_bar_bg: bg Üst çubuğu
+activated_menu_text_color: Aktif menü metin rengi
+latitude: Enlem
+longitude: Boylam
+map_zoom: Harita yakınlaştırma
+search_panel_settings: Arama paneli ayarları
+search_panel_bg_color: Arama paneli bg renk
+show_background_image: göster arka plan görüntüsü
+active_widget_position: Aktif Widget pozisyon
+upload_and_install: Yükle ve yükleyin
+install_updates: Güncellemeler yükleme / Temalar / eklentiler / Widget'lar
+confirmation_email: Onay E-posta
+recovery_email: Kurtarma E-posta
+signup_notification_email: Kayıt Bildirim E-posta
+payment_confirmation_email: Ödeme Onayı E-posta
+click_and_edit: Bir şablon dosyasını seçin ve düzenle bağlantısını tıklayın]
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Standart SEO ayarları
+find_us_on_facebook: Facebook'ta bizi bulun
+category_featured_posts: mesajlar Seçme
+load_more_posts: Daha Yük
+home_page_title: Satın arabaları satmak Arama
+no_posts_found: Yayın yok
+type_anything: burya yaz
+chosen_not_found: Hata, hiçbir şey bulunamadı!
+rating_asc: Puanlama Artan
+rating_desc: Değerlendirmesi Azalan
+id_desc: Kimliği Azalan
+id_asc: Kimliği Artan
+price_range: Fiyat Aralığı
+additional_features: Ek Özellikler
+add_more_fields: fazla alan ekle
+remove: kaldır
+distance_around_my_position: Arama yarıçapı
+show_distance_in: içinde göster Distance
+car_listed: Otomobil Tarih
+show_street_view: Göster Sokak Görünümü
+list_car: Araçları Listele
+search_cars: Otomobil Ara
+top_cars: En Otomobiller
+featured_cars: Seçme Otomobil
+content_settings: İçerik Ayarları
+hide_email: eposta gizle
+hide_phone: gizle telefon
+review: İnceleme
+comment: Yorum
+submit_review: İnceleme Gönder
+rating: Puanı
+review_alert: Sen yorumunuzu göndermek için oturum açmanız gerekir.
+new_car: Araba ekle
+identify_my_location: konumum tanımlayın
+data_deleted: Verileri silindi
+recent_reviews: Son yorumlar
+view_all_reviews: Tüm yorumlar görüntüle
+review_deleted: İnceleme Silinen
+review_detail: Detay
+all_reviews: Tüm yorumlar
+monday: Pazartesi
+tuesday: Salı
+wednesday: Çarşamba
+thursday: Perşembe
+friday: Cuma
+saturday: Cumartesi
+sunday: Pazar
+opening_hour: Saat Açılış
+closed: Kapalı
+review_submitted: İnceleme sunulan
+social_links: Sosyal bağlantıları
+upgrade_browser: Yükseltme tarayıcı
+please_upgrade_your_browser: tarayıcınızı yükseltin lütfen
+car: Araç
+introduction: Tanıtım
+terms: Şartlar ve durum
+email_not_found: bulunamadı Eposta
+city_dropdown: Şehir açılır
+published: Yayın
+publish: Yayınlama
+drafted: Draft
+draft: Taslak
+from: itibaren
+send_bulk_email: gönder Toplu E-posta
+ive_read_the: Okudum
+title_city_category: Başlık, şehir veya kategori
+dt_first: İlk
+dt_last: Son
+dt_next: Sonraki
+dt_prev: Önceki
+dt_no_data: tablodaki veri yok
+dt_show_empty: 0 0 girişlere 0 Gösterilen
+dt_no_match: Eşleşen kayıt bulunamadı
+dt_search: Arama
+dt_processing: İşleme ...
+dt_loading: Yükleniyor ...
+dt_info: _TOTAL_ girişlerinin _END_ için _START_ gösteriliyor
+dt_filter_info: (_MAX_ toplam süzülür kayıt)
+dt_show_entries: _MENU_ girişleri göster
+get_directions: Yön alın
+review_not_submitted : zaten bir yorum verdik
+debug_email : ayıklama eposta
+email_to : adresine e-posta
+report_the_car : bu arabayı bildirme
+reported : bildirilen
+already_reported : zaten bildirilen
+reported_post : bildirilen arabalar
+all_reported_posts : arabalar bildirilen
+report: rapor et
+assigned_to: Atanan
+select_assigned_to: kullanıcı seçin
+css_compression: Css sıkıştırma
+gallery_notes: Sen galeri fotoğrafları yeniden düzenlemek için damla sürükleyebilirsiniz. Fotoğraflar yeniden boy değildir.
+video_notes: Youtube veya Vimeo url
+post_expiration_notification: Mesaj sona erme bildirimi
+days_left: Günleri sol
+AM: AM
+PM: PM
+upload_invalid_min_dimensions: görüntü boyutu çok düşük
+view_on_front: ön görüntüleme
+clear_unused_img: Temizle kullanılmayan görüntüleri
+unused_files_found: Kullanılmayan dosya bulundu
+unused_images_cleared: Kullanılmayan görüntüleri temizlenir
+unused_info_msg: Bu fonksiyon sadece arabalar, kullanıcılar, kategoriler, sayfalar, bloglar tarafından kullanılmayan görüntüleri temizler. Bu el elle Hiçbir resmi yükledi ve silinebilir kodu içinde onları kullanılırsa images.So bulmak için veritabanı arar.
+no_unused_img: Hiçbir kullanılmayan görüntü bulunamadı
+search_panel_filter_type: Filtre tipi
+basic_options: Temel seçenekler
+advanced_options: Peşin seçenekleri
+sorting_order: sipariş Sıralama
+car_listed_on: Car listelenen
+car_listed_under: altında listelenen Car
+all_sub_categories: tüm alt kategoriler
+no_sub_categories: Hiçbir alt kategoriler
+hide_my_email : benim email gizle
+disable_email_contact: Devre Dışı E-ileti
+enable_review: yorumu etkinleştirme
+disable_google_street_view: google sokak görünümü devre dışı bırakın
+location_chorome_msg: google tarafından Yeri servisi (Yalnızca Chrome tarayıcıda) sigara ssl siteleri için kullanılamaz. Kendi konumunuzu almak için ip adresini kullanmak istiyor musunuz? Google olarak NB sonuç tam olarak aynı olmayabilir
+send_email_to_users: kullanıcılara e-posta gönder
+show_banner: afiş göster
+hide_my_phone: benim telefon Hide
+kms: Km
+miles: Mil
+logo_text: Logo Metin
+logo_type: Logo Tipi
+logo_text_color: Logo metin rengi
+Jan: Ocak
+Feb: Şubat
+Mar: Mart
+Apr: Nisan
+May: Mayıs
+Jun: Haziran
+Jul: Temmuz
+Aug: Ağustos
+Sep: Eylül
+Oct: Ekim
+Nov: Kasım
+Dec: Aralık
+show_search_panel: göster arama paneli
+delete_selected: seçilen Sil
+map_api_key: gmap api anahtarı
+pricing: Fiyatlandırma
+post_package_instruction: Web sitemizde araba yazabilmek için aşağıdaki paketleri var
+feature_package_instruction: Bir araba özellikli yapmak için aşağıdaki paketleri var
+MENU: MENÜ
+gplus_app_settings: Google+ uygulaması ayarları
+auth_redirect_url: yönlendirme URL Yetkili
+enable_gplus_login: giriş Google + etkinleştirme
+gplus_client_id: Google+ müşteri kimliği
+gplus_client_secret: Google+ istemcisi gizli
+how_to_get_gplus_api: Google+ Müşteri kimliği almak ve Gizli Nasıl
+gallery_upload_limit: Galeri sınırlamak yüklemek
+you_can_upload_max: You maksimum yükleyebilir
+gallery_photos: Galeri Fotoğraf
+advanced_options_with_country_state: ülke ve devlet ile Peşin seçeneği
+select_state: seçin devlet
+recent_posts_order: Son mesajlar sipariş
+featured_posts_order: Öne mesajlar sipariş
+default_posts_order: Standart mesajları sipariş
+ASC: Artan
+DESC: Azalan
+RANDOM: Rastgele
+useremail: Kullanıcı e-posta
+enable_adblocker_alert: adblock uyarısı etkinleştirme
+adblock_detected: Adblock algılandı
+adblock_msg: Adblock devre dışı bırakılsın Lütfen tekrar sayfayı yenileyin
+enable_cookie_policy_popup: Çerez Politikası Popup
+cookie_policy_page_url: Kurabiye politika sayfası url
+cookie_policy: Çerez Politikası
+cookie_policy_alert: Bu site çerezleri kullanır. Eğer çerez kullanmamızı kabul Bu siteyi kullanmaya devam ederek.
+read_more: Devamı
+i_agree: Kabul ediyorum
+instagram: Instagram
+newsletter_subscription: Bültene Abone Ol
+your_email: E-posta
+email_saved: E-posta bülteni için kaydedilen
+send_newsletter: Bülten Gönder
+unsubscribe: Aboneliği
+to_unsubscribe: Bu hizmete çıkmak istiyorsanız bu bağlantıyı tıklayın
+successfully_unsubscribed: Artık bülten hizmeti aboneliğinden olan
+export_user_phone: İhracat kullanıcı telefonu
+enable_blog_comment: blog yorumu etkinleştirme
+fb_blog_app_id: blog için Fb Uygulama kimliği
+disqus_blog_shortname: için Disqus kısa adı Blog
+sample_page: Örnek sayfa
+senders_phone: Gönderenin telefon
+alias: Alias
+atleast_a_country_city: en az ülke ve şehir girmelisiniz
+email_not_shared: Facebook id e paylaşma izniniz yok gibi görünüyor. Değiştirmek veya kullanıcı başka bir hesap ya da sadece e-posta kaydolmayı ediniz.
+votes: Oylar
+food_corner: Gıda köşe
+show_map_instead_of_street_view: yerine caddenin haritasını göster görüntülemek
+post_published_email: Mesaj e-posta yayınlanan
+max_upload_file_size: Max yükleme boyutu (KB)
+site_mode: Site Modu
+maintenance_msg: bakım altında Siteyi
+brandmodels: Marka modelleri
+add_brand: marka ekle
+add_model: modeli Ekle
+no_brandmodels: yok brandmodels
+sel_brand: Seç Marka
+carconditions: Araba koşulları
+STATUS_DELETED: Silinmiş
+STATUS_ACTIVE: Aktif
+STATUS_PENDING: Beklemede
+STATUS_PAYMENT_PENDING: Ödeme Beklemede
+STATUS_EXPIRED: Süresi Dolmuş
+USER_PENDING: Beklemede
+USER_BANNED: Yasaklı
+USER_ACTIVE: Aktif
+car_options: Araç Yapılandırma Seçenekleri
+transmissions: İletim türleri
+convertible: Dönüştürülebilir
+coupe: Coupe
+hatchback: Hatchback
+luxury_car: Lüks Araç
+sedan: Sedan
+sports_car: Spor Araba
+suv: SUV
+trucks: Kamyon
+van: Van
+customfields: Özel alanlar
+customfield: Özel alan
+sel_fieldtype: seç alan türü
+text: Metin
+textarea: Metin alanı
+richtext: Zengin Metin
+select: Açılır
+radio: Radyo
+checkbox: Onay Kutusu
+is_required: gerekli mi
+field_added: Özel alan katma
+field_updated: Özel alan güncellenmiş
+field_deleted: Özel alan silindi
+field_order_updated: Alan sırası güncellendi.
+field_sort_help: ^ Sen tablo satırlarını sıralamak için damla sürükleyebilirsiniz. Sırasını kaydetmek sıraladıktan sonra
+help_url_slug: benzersiz bir değer koyun (url kullanılacaktır)
+NA: N / A
+condition_new: Yeni
+condition_used: Kullanılmış
+condition_pre_owned: Kullanım Durumu
+condition_recondition: Yenilenmiş
+condition_other: Diğer
+year: Yıl
+brand: Marka
+model: Model
+mileage: Kilometre
+transmission: İletim
+condition: Durumu
+fuel_type: Yakıt Tipi
+fueltypes: Yakıt Türleri
+gas: Gaz
+diesel: Disel
+petrol: Benzin
+octane: Oktan
+electricity: Elektrik
+others: Diğerleri
+select_condition: Kullanım Durumu Belirle
+select_transmission: Vites Türü Seç
+automatic: Otomatik
+manual: Manuel
+semi_automatic: Yarı Otomatik
+select_brand: Marka Belirle
+select_year: Yıl Belirle
+select_fuel_type: Seç Yakıt Tipi
+url_slug: URL Slug
+registration_no: Sicil No
+engine_size: Motor Hacmi
+help_engine_size: (Litre olarak) Motor Hacmi
+steering_type: Direksiyon Tipi
+help_steering_type: Seç Direksiyon Tip
+safety_rating: Emniyet Değerlendirme
+sel_safety_rating: Seç Güvenlik Değerlendirmesi
+engine_type: Motor Tipi
+help_engine_type: Seç motor Tipi
+no_of_seats: Koltuk Hayır
+help_no_of_seats: Sandalyelerinin Hayır
+gear_type: Vites Tipi
+help_gear_type: seç Vites Tipi
+new_brand: Yeni Marka
+brand_names: Marka İsimler
+new_model: Yeni Model
+select_model: Modeli seçin
+model_names: Modeli İsimler
+mileage_unit: Kilometre Birim
+brand_model: Marka ve Model
+help_text: Yardım metni
+fieldtype: Alanı Türü
+fieldname: Alan Adı
+comma_separated_help: birini koyun veya daha fazla "" (virgül) ayrılmış olarak adlandırılan. Newyork, Dallas, Idaho gibi
+category_id: Araba Kategori
+show_in_detail: ayrıntı sayfası olarak göster
+power_steering: Hidrolik Direksiyon
+manual_steering: Manuel Direksiyon
+inline: Inline
+straight: Düz
+vee: VEE
+flat: Düz
+vr_w: VR-Beyaz
+other: Diğer
+other_information: Diğer Bilgiler
+dual: Çift
+all_cars: Tüm Otomobil
+reported_cars: Otomobil Bildirilen
+no_reviews: Henüz değerlendirmeleri
+optional_info: Opsiyonel Bilgi
+car_posts: Araba Mesajlar
+featured_expiration_time: Seçme geçerlilik süresini (gün)
+max_gallery_photos: Azami galeri fotoğraflar
+gallery_limit: Galeri
+take_package: Paketi alın
+photos: Fotoğraflar
+mileage_range: Kilometre Aralığı
+pls_share: web sitemizin paylaşın
+facebook_page_name: FB Sayfa Adı
+google_plus_name: Google+ Adı
+twitter_page_name: Heyecan Kullanıcı Adı
+normal: Normal
+free: Ücretsiz
+ultimate: Ultimate
+premium: Premium
+update_post: Güncelleme sonrası
+Clear unused images: Temizle kullanılmayan görüntü
+home: Anasayfa
+post_ad: İlan Ver
+advanced_search: Gelişmiş Arama
+pages: sayfalar
+users: Üyeler
+all_users: Tüm Üyeler
+phone:Tel
+top_locations: Bölgeler
+categories: Kategoriler
+signup:Kaydol
+logout: Çıkış
+user_panel: Panel
+contact:İletişim
+name:üye adı
+search:ara
+recent_posts:Yeni İlanlar
+contact:İletişim
+locations:Bölgeler
+about:Hakkımızda
+news:Haberler
+articles:Makaleler
+turkish:Türkçe
+category:Kategori
+any_category:Her Hangi Kategori
+load_more_recent_posts:DAHA FAZLA
+top_users:Top Üyeler
+Save:Onayla
+send_email_to_owner:İlan sahibine soru sor
+
+subject:Konu
+agree_terms: Kullanım Şartlarını Kabul Ediyorum
+car_detail:Araç Detayları
+For Sale: Satılık
+signin:Giriş
+remember_me: Şifremi Hatırla
+reset: Yenile
+forgot_password: Şifremi Unuttum
+login_to_your_account: Hesabınıza giriş yapın
+email_or_password_not_mathed:Şirfe yada kullanıcı adı yanlış
+noconfirm_reg_success_message: Your account registration is successful. You may login now. Thanks
+

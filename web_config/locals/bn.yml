@@ -1,0 +1,824 @@
+ ---
+sign_in: সাইন ইন
+sign_up: সাইন আপ
+agent_panel: এজেন্ট প্যানেল
+admin_panel: অ্যাডমিন প্যানেল
+country: দেশ
+state_province: রাজ্য / প্রদেশ
+city: সিটি
+register: নিবন্ধন
+details: বিবরণ
+view_all: দেখুন সকল
+order_by: আদেশ দ্বারা
+none: কোনটি
+terms_and_conditions: শর্তাবলী এবং অবস্থা
+reg_success_message: আপনার অ্যাকাউন্ট নিবন্ধন সফল হয়। একটি ইমেল আপনার ইমেল পাঠানো হয়েছে। যে ইমেইল আপনার অ্যাকাউন্ট সক্রিয় করতে অনুসরণ করুন। ধন্যবাদ
+limit: সীমা
+usage: ব্যবহারের
+recover: উদ্ধার করুন
+oops: পৃষ্ঠাটি পাওয়া যায় নি
+share_this: শেয়ার
+location_map: অবস্থান মানচিত্র
+image_gallery: ইমেজ গ্যালারি
+gallery: গ্যালারি
+summary: সারাংশ
+overview: সংক্ষিপ্ত বিবরণ
+address: ঠিকানা
+message: পাঠান
+email_subject: ইমেলে বিষয়ের
+all: সকল
+contact_us: আমাদের সঙ্গে যোগাযোগ করুন
+featured_video: বৈশিষ্ট্যযুক্ত ভিডিও
+embed_video_url: Embeded ভিডিও URL
+email_tracker: ইমেইল ট্র্যাকার
+bulk_email: বাল্ক ইমেইল
+advanced_filters: অ্যাডভান্সড ফিল্টার
+result: ফলাফল
+payment_notification: আপনি একটি পেমেন্ট করতে যাচ্ছি। একটি ইমেল আপনার পাঠানো হয়। আপনি যে ইমেইল লিঙ্ক থেকে যেকোনো সময়ে এই পদক্ষেপে ফিরে পারবেন না।
+confirmation: নিশ্চিতকরণ
+tags: ট্যাগ্স
+zip_code: জিপ কোড
+embed_preview: এম্বেড পূর্বরূপ
+login: লগইন
+post_not_found: পোস্ট পাওয়া যায়নি
+view_more: আরও
+choose_a_package: চয়ন করুন একটি প্যাকেজ
+choose_feature_package: একটি বৈশিষ্ট্য প্যাকেজ বেছে নিন
+no_package_found: কোনো প্যাকেজ খুঁজে পাওয়া
+days: দিন
+posts: পোস্টগুলি
+change: পরিবর্তন
+subscribe: সদস্যতা
+image: ভাবমূর্তি
+view_on_map: (অটো পূরণ লাত ল্যাঙ) মানচিত্র দেখুন
+create: তৈরি করুন
+basic_info: প্রাথমিক তথ্য
+send: পাঠান
+all_email_to_users: ব্যবহারকারীদের সমস্ত ইমেল
+email_detail: ইমেইল বিস্তারিত
+change_package: পরিবর্তন প্যাকেজ
+bank_transfer: ব্যাংক স্থানান্তর
+contact_subject: যোগাযোগের ইমেল
+payment_finish_title: পেমেন্ট সম্পূর্ণ
+payment_renew_title: পেমেন্ট সম্পূর্ণ
+payment_finish_text: আপনার অর্থ প্রদান সম্পূর্ণ। যত তাড়াতাড়ি আমরা PayPal আপনার অ্যাকাউন্টের সক্রিয় করা হবে থেকে নিশ্চিতকরণ গৃহীত
+payment_renew_text: আপনার অর্থপ্রদান সম্পূর্ণ। যত তাড়াতাড়ি আমরা PayPal আপনার অ্যাকাউন্টের থেকে নিশ্চিতকরণ প্রাপ্ত করা হবে পুনর্নবীকরণ
+payment_cancel_title: পেমেন্ট বাতিল
+payment_cancel_text: আপনার অর্থপ্রদান বাতিল করা হয়েছে
+feature_payment_finish: আপনার অর্থপ্রদান সম্পূর্ণ। আমরা পেপাল থেকে নিশ্চিতকরণ গ্রহণ যত তাড়াতাড়ি, আপনার এস্টেট বৈশিষ্ট্যযুক্ত হবে।
+feature_payment_cancel: আপনার অর্থ প্রদান বাতিল করা হয়েছে।
+selected_package: নির্বাচিত প্যাকেজ
+signup_with_social_account: সঙ্গে সামাজিক অ্যাকাউন্ট সাইন আপ
+password: পাসওয়ার্ড
+confirm_password: নিশ্চিত পাসওয়ার্ড
+all_posts: সকল পোস্ট
+no_posts: কোন পোস্ট
+title: শিরোনাম
+description: বর্ণনা
+status: স্থিতি
+actions: পদক্ষেপ
+action: অ্যাকশন
+type: প্রকার
+type_something: প্রকার কিছু
+content: বিষয়বস্তু
+featured_image: আলোচিত চিত্র [300x226 মিনিট]
+category: গাড়ি বিভাগ
+all_categories: সকল গাড়ী বিভাগ
+edit_category: সম্পাদনা বিভাগ
+new_category: নতুন গাড়ির বিভাগ
+parent: মূল
+edit: সম্পাদনা
+delete: মুছুন
+name: নাম
+save: সংরক্ষণ
+no_parent: কোন পিতা বা মাতা
+edit_email_template: সম্পাদনা ইমেইল টেমপ্লেট
+select_template_file: টেমপ্লেট ফাইল নির্বাচন করুন
+subject: সাপেক্ষে
+body: দেহ
+available_variables: পাওয়া যায় ভেরিয়েবল
+select_language: ভাষা নির্বাচন
+select_language_file: ভাষা নির্বাচন ফাইল
+edit_as_new: সম্পাদনা নতুন
+language: ভাষা
+add_another: আরেকটি জুড়ুন
+export_to_file: ফাইলে রপ্তানি
+import_from_file: ফাইল থেকে আমদানি
+auto_translator: অটো অনুবাদক
+from_lang: ল্যাঙ থেকে
+target_lang_full_name: উদ্দিষ্ট ল্যাঙ পুরো নাম
+target_lang_short_name: উদ্দিষ্ট ল্যাঙ সংক্ষিপ্ত নাম
+create_new_package: তৈরি করুন নতুন প্যাকেজ
+price: মূল্য
+ask_for_price: মূল্য জন্য জিজ্ঞাসা করুন
+maximum_post_by_user: সর্বোচ্চ পোস্ট ব্যবহারকারী দ্বারা
+expiration_time: মেয়াদপূর্তির সময় (দিন)
+create_package: তৈরি করুন প্যাকেজ
+edit_package: প্যাকেজ সম্পাদনা
+update_package: আপডেট প্যাকেজ
+add_packages: প্যাকেজ যোগ করুন
+all_packages: সমস্ত প্যাকেজ
+no_packages: কোনো প্যাকেজ
+options: বিকল্প
+all_pages: সমস্ত পৃষ্ঠা
+no_pages: কোনো পৃষ্ঠা
+manage_menu: পরিচালনা মেনু
+menu_title: মেনু শিরোনাম
+menu_alias: মেনু ওরফে
+show_in_menu: মেনু দেখান
+page_layout: পৃষ্ঠার লেআউট
+content_from: থেকে সামগ্রী
+url: ইউআরএল
+seo_options: এসইও অপশন
+meta_description: মেটা বিবরণ
+key_words: মূল শব্দ
+crawl_after: পরে (দিন) ক্রল
+all_plugins: সব প্লাগ-
+no_plugins: কোনও প্ল্যাগইন
+name_and_version: নাম এবং সংস্করণ
+change_password: পরিবর্তন করুন পাসওয়ার্ড
+current_password: বর্তমান পাসওয়ার্ড
+new_password: নতুন পাসওয়ার্ড
+retype_password: আবার টাইপ পাসওয়ার্ড
+password_reset_info_msg: প্রথমে আপনার নতুন পাসওয়ার্ড সেট করুন
+profile_picture: প্রোফাইল ছবি
+username: ব্যবহারকারীর নাম
+email: ইমেইল
+first_name: নামের প্রথম অংশ
+last_name: নামের শেষ অংশ
+gender: জেন্ডার
+phone: ফোন
+company_name: কোম্পানি নাম
+about_me: আমার সম্পর্কে
+facebook_account: ফেসবুক অ্যাকাউন্ট
+twitter_account: টুইটার একাউন্টে
+linkedin_account: লিঙ্কডইন অ্যাকাউন্ট
+gp_account: Google+ অ্যাকাউন্ট
+account_msg: ছাড়া লিঙ্ক, লিখুন দয়া করে HTTP //
+web_email_settings: ওয়েব ইমেল সেটিংস
+contact_email: যোগাযোগ ইমেল
+webadmin_name: Webadmin নাম
+webadmin_email: Webadmin ইমেইল
+update: আপডেট
+upload: আপলোড
+site_settings: সাইট সেটিংস
+site_title: সাইট শিরোনাম
+footer_text: পাদলেখ পাঠ্য
+site_logo: সাইট লোগো
+site_language: সাইটের ভাষা
+site_text_direction: সাইট পাঠ্যের দিকবিন্যাস
+per_page: প্রতি পৃষ্ঠা পত্রাঙ্কন
+default_page_layout: ডিফল্ট পৃষ্ঠা লেআউট
+tracking_code: ট্র্যাকিং কোড
+smtp_email_settings: SMTP এর ইমেল সেটিংস
+smtp_email: SMTP এর ইমেইল
+smtp_host: SMTP এর হোস্ট
+smtp_port: SMTP এর পোর্ট
+smtp_timeout: SMTP এর সময়সীমা সমাপ্ত
+smtp_user: SMTP এর ব্যবহারকারী
+smtp_password: SMTP এর পাসওয়ার্ড
+generate_site_map: সাইট ম্যাপ জেনারেট করুন
+sitemap_info_msg: বিশেষ দ্রষ্টব্য দয়া করে আপনি সাইটম্যাপ XML অন্তর্ভুক্ত করতে চান তা নির্বাচন করুন। পরে সফল প্রজন্ম sitemap.xml রুট ডিরেক্টরিটি অধীনে সংরক্ষিত হয়। এছাড়াও আপনি আপনার নতুন URL সহ যে ফাইল সম্পাদনা করতে পারেন।
+pages: পেজ
+blog_posts: ব্লগ পোস্ট
+articles: প্রবন্ধ
+blog_post: ব্লগ পোস্ট
+blog: ব্লগ পোস্ট
+article: ধারা
+news: সংবাদ
+view_xml: দেখুন এক্সএমএল
+create_xml: তৈরি করুন এক্সএমএল
+manage_backups: পরিচালনা ব্যাকআপ
+create_sql_backup: এসকিউএল ব্যাকআপ তৈরি করুন
+create_image_backup: তৈরি করুন প্রতিচ্ছবি ব্যাকআপ
+restore: পুনরুদ্ধার করুন
+download: ডাউনলোড
+dashboard: ড্যাশবোর্ড
+overview_stats_more: সংক্ষিপ্ত বিবরণ, পরিসংখ্যান ও আরও
+visit_site: পরিদর্শন সাইট
+logout: লগআউট
+themes: থিমস
+locations: অবস্থানগুলিতে
+paypal_settings: পেপ্যাল সেটিং
+payment_history: পেমেন্ট ইতিহাস
+profile: প্রোফাইল
+packages: প্যাকেজগুলি
+widgets: উইজেট
+all_widgets: সকল উইজেট
+widget_positions: উইজেট পজিশন
+blog_news_article: ব্লগ / খবর / আর্টিকেল
+new_post: নতুন পোস্ট
+pages_and_menu: পেজ ও মেনু
+new_page: নতুন পৃষ্ঠা
+menu: মেনু
+system: সিস্টেম
+manage_languages: পরিচালনা ভাষাসমূহ
+auto_translate: অটো অনুবাদ
+edit_email_text: সম্পাদনা করুন ইমেল পাঠ্য
+admin_settings: ওয়েব অ্যাডমিন সেটিং
+sitemap: সাইট ম্যাপ
+activate: সক্রিয়
+active_theme: সক্রিয় থিম
+available_themes: উপলব্ধ থিম
+all_users: সকল ব্যবহারকারীর
+create_user: ইউজার তৈরি করুন
+export_user_email: রপ্তানি ব্যবহারকারী ইমেইল (.csv)
+profile_info: প্রোফাইল তথ্য
+ban_forever: বান সব সময় প্রবেশ করুন
+edit_page: করুন পৃষ্ঠার
+create_widget: উইজেট তৈরি করুন
+widget_name: উইজেট নাম
+activate_deactivate: সক্রিয় / ডি-সক্রিয়
+show: দেখান
+available_widgets: উপলব্ধ উইজেট
+active_widgets: সক্রিয় উইজেট
+delete_warning: আপনি কি নিশ্চিতরূপে মুছে দেওয়ার বিষয়ে নিশ্চিত
+yes: "হ্যাঁ"
+no: "না"
+product_name: বিষয়বস্তু
+fa_icon: এফএ আইকন বর্গ
+post_ad: গাড়ী যোগ করুন
+post_ad_subtitle: আপনার গাড়ী তথ্য রাখুন
+signin: সাইন ইন
+signup: সাইনআপ
+signup_title: আপনার অ্যাকাউন্ট তৈরি করুন
+not_found: পাওয়া যায় না
+purpose: উদ্দেশ্য
+purpose_buy: কিনুন
+purpose_sell: বিক্রি
+select_category: বিভাগ নির্বাচন করুন
+contact_for_price: দাম জন্য যোগাযোগ
+address_info: ঠিকানা তথ্য
+general_info: সাধারণ তথ্য
+upload_later_msg: আপনি পোস্ট সৃষ্টির পর গ্যালারি ছবি ও ভিডিও URL আপলোড করতে সক্ষম হতে হবে
+user_panel: ব্যবহারকারী প্যানেল
+put_as_comma_seperated: যেমন করা (,) কমা sperated
+added: যোগ করা হয়েছে
+location: অবস্থানের
+views: প্রতি
+package_type: প্রকার
+post_package: পোস্ট প্যাকেজে
+featured_package: আলোচিত প্যাকেজ
+both_package: পোস্ট এবং বৈশিষ্ট্যযুক্ত
+select_package: প্যাকেজটি নির্বাচন
+package_created: প্যাকেজ নির্মিত
+package_updated: প্যাকেজ আপডেট
+slider: স্লাইডার
+add_new: নতুন জুড়ুন
+new_slide: নতুন স্লাইড
+update_slide: আপডেট স্লাইড
+save_order: সংরক্ষণ অর্ডার
+slider_sort_instruction: আপনি সারণী সারিগুলি সাজাতে ড্রপ টেনে আনতে পারেন। সংরক্ষণ অর্ডার বাছাই করার পর
+search: অনুসন্ধান
+results: ফলাফল
+location_on_map: মানচিত্রে অবস্থান
+contact_mode: যোগাযোগ মোড
+reset: রিসেট
+contact: করুন
+default_site_view: ডিফল্ট সাইটটি দেখতে
+type_your_message: আপনার বার্তা এখানে টাইপ করুন ..
+mail_sent: প্রেরিত মেল
+search_classifieds: অনুসন্ধান গাড়ি
+advanced_search: উন্নত অনুসন্ধান
+narrow_down_your_search: আপনার অনুসন্ধানকে সংক্ষিপ্ত
+home: বাড়ি
+print: প্রিন্ট
+remember_me: আমাকে মনে রেখো
+forgot_password: পাসওয়ার্ড ভুলে গেছেন
+login_failed: লগইন ব্যর্থ হয়েছে
+login_to_your_account: আপনার অ্যাকাউন্টে লগইন
+register_your_account: করে আপনার অ্যাকাউন্ট নিবন্ধন
+male: পুরুষ
+female: মহিলা
+no_location_found: কোনো অবস্থান পাওয়া
+state: রাজ্য
+ad_creation_error: বিজ্ঞাপনে ত্রুটি সৃষ্টি! চেক করুন।
+users: ব্যবহারকারীরা
+show_admin_user: দেখান প্রশাসন ব্যবহারকারী
+send_email_to_owner: থেকে গাড়ির মালিক ইমেল পাঠান
+categories: ধরন
+top_posts: শীর্ষ পোস্ট
+show_state_province: দেখান রাজ্য প্রদেশ
+package_settings: প্যাকেজ সেটিং
+default_site_settings: ডিফল্ট সাইট সেটিংস
+webadmin_settings: Webadmin সেটিং
+banner_settings: ব্যানার সেটিং
+max_price_for_search: জন্য অনুসন্ধান করুন ম্যাক্স দাম
+search_filters: অনুসন্ধান ফিল্টার
+posts_per_page: ভাগ পোস্ট প্রতি পৃষ্ঠা
+recent_posts: সাম্প্রতিক গাড়ি
+featured_posts: আলোচিত পোস্ট
+top_locations: শীর্ষ অবস্থানগুলিতে
+top_users: শীর্ষ ব্যবহারকারীরা
+approve: অনুমোদন
+make_featured: বৈশিষ্ট্যযুক্ত করুন
+remove_featured: সরান বৈশিষ্ট্যযুক্ত
+renew_featured: বৈশিষ্ট্যযুক্ত নবীকরণ
+renew_package: পুনর্নবীকরণ প্যাকেজ
+no_renew_post_id: অবৈধ পুনর্নবীকরণ পোস্ট ID
+approve_payment: অনুমোদন পেমেন্ট
+transaction: লেনদেন
+transaction_id: লেনদেন নাম্বার
+post_id: পোস্ট ID
+amount: পরিমাণ
+request_date: অনুরোধ তারিখ
+expiration_date: মেয়াদ শেষ তারিখ
+transaction_deleted: লেনদেন মোছা
+payment_approved: পেমেন্ট অনুমোদিত
+logged_in_as: লগ ইন হিসাবে
+posted_on: পোস্ট উপর
+confirm_email_send: নিশ্চিতকরণ ইমেল send.Please যে ইমেইল থেকে নির্দেশাবলী অনুসরণ করুন।
+email_confirmed: ইমেইল নিশ্চিত করেছে। আপনাকে অবশ্যই প্রবেশ এখন
+email_confirmed_failed: ইমেল নিশ্চয়তা ব্যর্থ
+password_change_success: পাসওয়ার্ড সফলভাবে পরিবর্তন
+email_sent_inbox:একটি ইমেল আপনার inbox.Check যে ইমেলে পাঠাতে হবে।
+password_recovery_link_invalid: পাসওয়ার্ড রিকভারি লিংক বৈধ নয়
+user_updated: ব্যবহারকারী আপডেট করা
+user_deleted: ব্যবহারকারী মোছা হয়েছে
+user_banned: ব্যবহারকারী নিষিদ্ধ
+user_unbanned: ব্যবহারকারী নিষেধমুক্ত
+user_confirmed: নিশ্চিত ব্যবহারকারী
+post_deleted: পোস্ট মুছে ফেলা হয়েছে
+post_updated: পোস্টটি আপডেট
+post_created: পোস্ট তৈরি
+post_featured: পোস্ট বৈশিষ্ট্যযুক্ত
+data_inserted: ডেটা সন্নিবেশিত
+data_updated: আপডেট হওয়া ডেটা
+feature_renewed: বৈশিষ্ট্য পুনর্নবীকরণ
+post_feature_removed: পোস্ট বৈশিষ্ট্য সরানো হয়েছে
+post_approved: পোস্টটি অনুমোদিত
+invalid_post: অবৈধ পোস্ট
+email_sent: ইমেল পাঠানো হয়েছে
+settings_updated: সেটিংস আপডেট করা
+package_removed: প্যাকেজ সরানোর
+page_updated: পৃষ্ঠা Updated
+page_created: পাতা তৈরী
+page_deleted: পৃষ্ঠা মোছা হয়েছে
+menu_updated: মেনু Updated
+site_map_generation_success: সাইট মানচিত্র সফলভাবে উত্পন্ন।
+select_option: নির্বাচন বা তার বেশি অপশন নির্বাচন করুন দয়া করে।
+image_backup_created: প্রতিচ্ছবি ব্যাকআপ তৈরি করা হয়েছে
+language_translated: ভাষাটি অনুবাদ
+unable_to_write_file: লিখতে ফাইল অক্ষম
+backup_deleted: ব্যাকআপ মোছা
+database_restored: ডাটাবেস পুনঃস্থাপিত
+theme_activated: থিম সক্রিয়
+user_created: ব্যবহারকারী তৈরি
+widget_position_updated: উইজেট অবস্থান আপ টু ডেট
+widget_created: উইজেট তৈরি করা হয়েছে
+widget_data_updated: উইজেট আপডেট হওয়া ডেটা
+unable_to_write_widget: উইজেট লিখতে অক্ষম
+post_created_and_published: পোস্ট তৈরি করেছেন এবং প্রকাশিত
+post_created_approval: পোস্ট তৈরি করেছেন এবং অ্যাডমিন অনুমোদনের জন্য অপেক্ষা করছে
+post_package_renewed: পোস্ট প্যাকেজে পুনর্নবীকরণ
+payment_finish: পেমেন্ট ফিনিস
+payment_cancelled: বাতিল করা হয়েছে পেমেন্ট
+admin_change_pass_help: ফাঁকা ছেড়ে কোন পরিবর্তনের প্রয়োজন
+go_to_paypal: যাও পেপ্যাল
+login_with_google: লগইন Google এর সাথে
+login_with_facebook: লগইন ফেসবুকে
+load_more_recent_posts: আরো সাম্প্রতিক গাড়ি লোড
+load_more_featured_posts: লোড করুন আরো বৈশিষ্ট্যযুক্ত কার
+register_for_new_account: জন্য নতুন অ্যাকাউন্ট নিবন্ধন
+site_map: সাইট ম্যাপ
+show_site_map: দেখান সাইট ম্যাপ
+service: পরিষেবা
+features: বৈশিষ্ট্য
+about: সম্বন্ধে
+view_posts: দেখুন পোস্ট
+see_full_documentation: পূর্ণ ডকুমেন্টেশন দেখুন
+select_city: শহর নির্বাচন করুন
+parallax_slider: লম্বন স্লাইডার
+all_slides: সকল স্লাইড
+no_slide: কোন স্লাইড
+slide_order: স্লাইড অর্ডার
+edit_profile: প্রোফাইল সম্পাদনা
+post_price_settings: পোস্ট মূল্য সেটিংস
+enable_post_pricing: পোস্ট মূল্যের সক্ষম করুন
+enable_paypal_transfer: পেপাল সক্ষম
+enable_bank_transfer: সক্ষম ব্যাংক স্থানান্তর
+bank_transfer_instruction_for_posts: ব্যাংক স্থানান্তর নির্দেশ
+featured_price_settings: আলোচিত মূল্য সেটিংস
+enable_featured_pricing: বৈশিষ্ট্যযুক্ত মূল্যের সক্ষম
+enable_featured_paypal: সক্ষম করুন পেপাল
+enable_featured_bank_transfer: ব্যাংক স্থানান্তর সক্ষম
+bank_transfer_instruction_for_featured_posts: ব্যাঙ্ক ট্রান্সফার নির্দেশ
+bank_currency_settings: ব্যাংক মুদ্রা সেটিংসের
+bank_currency: ব্যাংক মুদ্রা
+use_same_as_paypal_currency: পেপাল মুদ্রা হিসাবে একই ব্যবহার করুন
+admin: এডমিন
+re_password: পাসওয়ার্ড পুনরায় টাইপ করুন
+explain_widget_position: উইজেট অবস্থানের ব্যাখ্যা কর
+post: পোস্ট
+post_renew: পোস্ট পুনর্নবীকরণ
+feature: বৈশিষ্ট্য
+feature_renew: বৈশিষ্ট্য পুনর্নবীকরণ
+payment_for: জন্য পেমেন্ট
+select_country: দেশ নির্বাচন
+select_one: একটি নির্বাচন করুন
+video_url: Vidoe URL টি
+confirm_payment: নিশ্চিত করুন পেমেন্ট
+package_title: প্যাকেজ শিরোনাম
+number_of_featured_days: দিনের সংখ্যা ফিচার করার
+no_of_days: দিন কোন
+any_city: কোন শহরের
+any_category: কোন শ্রেণী
+product_admin_panel: Carbiz এডমিন
+username_or_email: ব্যবহারকারীর নাম অথবা ইমেইল
+car_detail: গাড়ি বিস্তারিত
+posts_by: পোস্ট দ্বারা
+featured: বৈশিষ্ট্যযুক্ত
+edit_user: ব্যবহারকারী সম্পাদনা করুন
+the_field_is_required: % s এর ক্ষেত্র প্রয়োজন বোধ করা হয়।
+valid_email: % S এর ক্ষেত্র একটি বৈধ ইমেইল ঠিকানা থাকা আবশ্যক।
+min_length: % S এর ক্ষেত্র দৈর্ঘ্য কমপক্ষে% s- অক্ষরের হতে হবে।
+numeric: % S এর ক্ষেত্র শুধুমাত্র সংখ্যা থাকা আবশ্যক।
+matches: % S এর ক্ষেত্র% s এর ক্ষেত্র সাথে মিলছে না।
+greater_than: % S এর ক্ষেত্র একটি সংখ্যা% s এর চেয়ে অনেক বেশী থাকা আবশ্যক।
+agree_terms: আমি% s এর চুক্তি ও শর্তাদি% s- পড়েছেন
+must_accept_terms: আপনি শর্তাবলী স্বীকার করুন এবং শর্ত আবশ্যক
+dont_have_permission: আপনি এই পৃষ্ঠায় যাওয়ার অনুমতি দেওয়া হয়নি
+email_already_in_use: ইতিমধ্যে ব্যবহারে ইমেইল
+username_already_in_use: ইতিমধ্যে ব্যবহারে রয়েছে ব্যবহারকারীর নাম
+current_password_not_matched: বর্তমান পাসওয়ার্ড মেলেনি
+email_or_password_not_mathed: ইমেল বা পাসওয়ার্ড মিলছে না
+email_not_matched: ইমেলটি মিলেছে
+account_not_confirmed: অ্যাকাউন্ট নিশ্চিত করা
+all_locations: সমস্ত অবস্থান
+add_country: দেশ জুড়ুন
+add_state: রাষ্ট্র যোগ
+add_city: শহর যোগ করুন
+no_locations: কোনো অবস্থান
+banner_type: ব্যানার টাইপ
+bg_image: পটভূমি চিত্র
+unique_alias: % s এর ক্ষেত্র অনন্য হওয়া প্রয়োজন
+error_occurred: ত্রুটি হয়েছে। নিচের ক্ষেত্র দয়া করে চেক করুন
+user_profile: ব্যবহারকারী প্রফাইল
+user_email: ব্যবহারকারী ইমেল
+target_lang_name: টার্গেট ভাষা
+no_emails: কোন ইমেল
+to: করার জন্য
+classified_settings: শ্রেণীবদ্ধ সেটিং
+publish_posts_directly: সরাসরি পোস্ট প্রকাশ করুন
+system_currency: সিস্টেম মুদ্রা
+enable_signup: সাইনআপ সক্ষম
+if_package_expired: প্যাকেজ মেয়াদ শেষ হয়ে যদি
+do_not_hide: লুকাবেন না
+hide: লুকান
+show_price_like: দাম বিন্যাস
+facebook_app_settings: ফেসবুক অ্যাপ সেটিংস
+enable_facebook_login: ফেসবুক লগইন সক্ষম করুন
+fb_app_id:ফেসবুক অ্যাপ আইডি
+fb_secret_key: ফেসবুক গোপন কীটি
+comment_settings: মন্তব্য সেটিংস
+enable_comment: মন্তব্য সক্ষম করুন
+disqus_shortname: নিচে SHORTNAME
+sandbox_mode: স্যান্ডবক্স মোড
+item_name: আইটেমের নাম
+paypal_email: পেপাল ইমেল
+currency: মুদ্রা
+finish_url: ফিনিস URL
+cancel_url: বাতিল URL
+menu_background: মেনু পটভূমি
+menu_text_color: মেনু পাঠ্যের রঙ
+activated_menu_color: সক্রিয় মেনু রঙ
+top_bar_bg: শীর্ষ দণ্ড BG
+activated_menu_text_color: সক্রিয় মেনু পাঠ্যের রঙ
+latitude: অক্ষাংশ
+longitude: দ্রাঘিমাংশের
+map_zoom: ম্যাপ জুম
+search_panel_settings: অনুসন্ধান প্যানেল সেটিংস
+search_panel_bg_color: অনুসন্ধান প্যানেল বিজি রঙ
+show_background_image: দেখান পটভূমির চিত্র
+active_widget_position: সক্রিয় উইজেট অবস্থান
+upload_and_install: আপলোড ও ইন্সটল
+install_updates: আপডেট ইনস্টল / থিমস / plugins / উইজেট
+confirmation_email: নিশ্চিতকরণ ইমেল
+recovery_email: রিকভারি ইমেইল
+signup_notification_email: নিবন্ধন সূচনা ইমেল
+payment_confirmation_email: পেমেন্ট নিশ্চিতকরণ ইমেল
+click_and_edit: একটি টেমপ্লেট ফাইল নির্বাচন করুন এবং সম্পাদনা ক্লিক]
+google_analytics_settings: গুগল AnalyticsSettings
+default_seo_settings: ডিফল্ট SEO সেটিংস
+find_us_on_facebook: ফেসবুকে আমাদের দেখুন
+category_featured_posts: আলোচিত পোস্ট
+load_more_posts: আরো লোড করুন
+home_page_title: অনুসন্ধান কিনুন গাড়ি বিক্রি
+no_posts_found: কোনও পোস্ট নেই
+type_anything: কিছু টাইপ করুন
+chosen_not_found: ওহো, কিছুই পাওয়া যায় নি!
+rating_asc: রেটিং আরোহী
+rating_desc: রেটিং সাজানো
+id_desc: আইডি সাজানো
+id_asc: আইডি আরোহী
+price_range: মূল্যের শ্রেণি
+additional_features: অতিরিক্ত বৈশিষ্ট্য
+add_more_fields: যোগ করুন আরও বেশি ক্ষেত্র
+remove: সরান
+distance_around_my_position: অনুসন্ধান ব্যাসার্ধ
+show_distance_in: দেখান দূরত্ব
+car_listed: কার পোস্ট
+show_street_view: দেখান রাস্তার দৃশ্য
+list_car: তালিকা গাড়ি
+search_cars: অনুসন্ধান গাড়ি
+top_cars: শীর্ষ গাড়ি
+featured_cars: আলোচিত গাড়ি
+content_settings: সামগ্রী সেটিংস
+hide_email: লুকান ইমেল
+hide_phone: লুকান ফোন
+review: পর্যালোচনা
+comment: মন্তব্য
+submit_review: পর্যালোচনা জমা দিন
+rating: নির্ধারণ
+review_alert: আপনি পর্যালোচনা জমা দিতে লগ ইন করতে হবে।
+new_car: গাড়ি যোগ
+identify_my_location: সনাক্ত আমার অবস্থান
+data_deleted: ডেটা মুছে ফেলা
+recent_reviews: সাম্প্রতিক পর্যালোচনাগুলি
+view_all_reviews: সমস্ত পর্যালোচনাগুলি দেখুন
+review_deleted: পর্যালোচনা মোছা
+review_detail: বিস্তারিত
+all_reviews: সকল পর্যালোচনার
+monday: সোমবার
+tuesday: মঙ্গলবার
+wednesday: বুধবার
+thursday: বৃহস্পতিবার
+friday: শুক্রবার
+saturday: শনিবার
+sunday: রবিবার
+opening_hour: খোলা কেয়ামত
+closed: বন্ধ
+review_submitted: পর্যালোচনা জমা দেওয়া হয়েছে
+social_links: সামাজিক সংযোগগুলি
+upgrade_browser: আপগ্রেড ব্রাউজার
+please_upgrade_your_browser: আপনার ব্রাউজার আপগ্রেড করুন
+car: গাড়ি
+introduction: ভূমিকা
+terms: শর্তাবলী এবং শর্ত
+email_not_found: ইমেইল পাওয়া
+city_dropdown: সিটি ড্রপডাউন
+published: প্রকাশিত
+publish: প্রকাশ করুন
+drafted: ড্রাফট
+draft: খসড়া
+from: থেকে
+send_bulk_email: পাঠান বাল্ক ইমেইল
+ive_read_the: আমি পড়েছি
+title_city_category: শিরোনাম, শহর বা বিভাগের
+dt_first: প্রথম
+dt_last: গত
+dt_next: পরবর্তী
+dt_prev: পূর্ববর্তী
+dt_no_data: কোন ডেটা টেবিল পাওয়া
+dt_show_empty: 0 0 এন্ট্রি 0 দেখানো
+dt_no_match: আপনার সাথে মেলে এমন রেকর্ড পাওয়া
+dt_search: অনুসন্ধান
+dt_processing: প্রক্রিয়া হচ্ছে ...
+dt_loading: লোড হচ্ছে ...
+dt_info: _TOTAL_ এন্ট্রির _END_ করার _START_ দেখানো
+dt_filter_info: (_MAX_ মোট থেকে ফিল্টার এন্ট্রি)
+dt_show_entries: প্রদর্শন করা হবে _MENU_ এন্ট্রি
+get_directions: দিকনির্দেশনা পান
+review_not_submitted : আপনি ইতিমধ্যে একটি পর্যালোচনা দিয়েছি
+debug_email : ডিবাগ ইমেল
+email_to : ইমেল
+report_the_car : এই গাড়ী প্রতিবেদন
+reported : রিপোর্ট
+already_reported : ইতিমধ্যে রিপোর্ট
+reported_post : রিপোর্ট কার
+all_reported_posts : রিপোর্ট কার
+report: প্রতিবেদন
+assigned_to: নিয়োগ
+select_assigned_to: ব্যবহারকারী নির্বাচন করুন
+css_compression: CSS কম্প্রেশন
+gallery_notes: আপনি গ্যালারি ফটো পুনর্বিন্যাস করতে ড্রপ টেনে আনতে পারেন। ফটো পুনরায় মাপের নেই।
+video_notes: Youtube বা Vimeo URL
+post_expiration_notification: পোস্ট মেয়াদ প্রজ্ঞাপন
+days_left: দিন বাকি
+AM: পূর্বাহ্ণ
+PM: অপরাহ্ণ
+upload_invalid_min_dimensions: ইমেজ মাত্রা অত্যন্ত কম
+view_on_front: সামনে এ দেখুন
+clear_unused_img: সাফ অব্যবহৃত ইমেজ
+unused_files_found: অব্যবহৃত ফাইল পাওয়া যায়নি
+unused_images_cleared: অব্যবহৃত চিত্র সাফ
+unused_info_msg: এই ফাংশনটি শুধুমাত্র ইমেজ যা দ্বারা কার, ব্যবহারকারী, বিভাগ, পৃষ্ঠা, ব্লগ ব্যবহার করা হয় না মুছে যায়। এটা তোলে images.So খোঁজার যদি আপনি নিজে কোনও চিত্র ম্যানুয়ালি আপলোড করা হয়েছিল এবং তাদের কোড এটা মুছে ফেলা হতে পারে মধ্যে ব্যবহার জন্য ডাটাবেসের মাধ্যমে অনুসন্ধান করে।
+no_unused_img: কোন অব্যবহৃত ইমেজ পাওয়া
+search_panel_filter_type: ফিল্টার টাইপ
+basic_options: বেসিক অপশন
+advanced_options: অগ্রিম অপশন
+sorting_order: অর্ডার বাছাই
+car_listed_on: গাড়ি তালিকাভুক্ত
+car_listed_under: অধীন তালিকাভুক্ত গাড়ি
+all_sub_categories: সকল সাব আরও
+no_sub_categories: কোন সাব আরও
+hide_my_email : লুকান আমার ইমেল
+disable_email_contact: ইমেইল যোগাযোগ নিষ্ক্রিয়
+enable_review: সক্ষম পর্যালোচনা
+disable_google_street_view: গুগল স্ট্রিট ভিউ অক্ষম
+location_chorome_msg: Google দ্বারা অবস্থান পরিষেবা না (শুধুমাত্র Chrome ব্রাউজারে) অ SSL সাইটগুলির জন্য পাওয়া যায়। আপনি আপনার অবস্থান পাওয়ার জন্য আপনার আইপি ঠিকানা ব্যবহার করতে চান? বিশেষ দ্রষ্টব্য: ফলাফলের ঠিক একই হতে পারে Google Now এর মত
+send_email_to_users: ব্যবহারকারীদের নিম্নলিখিত ঠিকানায় ইমেল পাঠান
+show_banner: শো ব্যানার
+hide_my_phone: আমার ফোন লুকান
+kms: Kms
+miles: মাইলস
+logo_text: লোগো টেক্সট
+logo_type: লোগো প্রকার
+logo_text_color: লোগো পাঠ্যের রঙ
+Jan: জানুয়ারী
+Feb: ফেব্রুয়ারী
+Mar: মার্চ
+Apr: এপ্রিল
+May: মে
+Jun: জুন
+Jul: জুলাই
+Aug: আগস্ট
+Sep: সেপ্টেম্বর
+Oct: অক্টোবর
+Nov: নভেম্বর
+Dec: ডিসেম্বর
+show_search_panel: দেখান অনুসন্ধান প্যানেল
+delete_selected: নির্বাচিত মুছুন
+map_api_key: Gmap API কী
+pricing: প্রাইসিং
+post_package_instruction: আমরা আমাদের ওয়েবসাইটে একটি গাড়ী পোস্ট করার জন্য নিম্নলিখিত প্যাকেজগুলি আছে
+feature_package_instruction: আমরা একটি গাড়ী বৈশিষ্ট্যযুক্ত তৈরীর জন্য নিম্নলিখিত প্যাকেজগুলি আছে
+MENU: মেনু
+gplus_app_settings: Google+ অ্যাপ সেটিংস
+auth_redirect_url: অনুমোদিত পুনঃনির্দেশ URL
+enable_gplus_login: Google+ এ সক্ষম করুন লগ-ইন
+gplus_client_id: Google+ এ ক্লায়েন্ট আইডি
+gplus_client_secret: Google+ এ ক্লায়েন্ট সিক্রেট
+how_to_get_gplus_api: Google+ এ ক্লায়েন্ট আইডি পেতে কিভাবে এবং সিক্রেট
+gallery_upload_limit: গ্যালারি সীমিত আপলোড
+you_can_upload_max: আপনি সর্বাধিক আপলোড করতে পারেন
+gallery_photos: গ্যালারি ফটো
+advanced_options_with_country_state: দেশ ও রাষ্ট্রের সঙ্গে অগ্রিম বিকল্প
+select_state: রাষ্ট্র নির্বাচন
+recent_posts_order: সাম্প্রতিক পোস্ট অর্ডার
+featured_posts_order: বৈশিষ্ট্যযুক্ত পোস্ট অর্ডার
+default_posts_order: ডিফল্ট পোস্ট অর্ডার
+ASC: আরোহী
+DESC: সাজানো
+RANDOM: এলোমেলো
+useremail: ব্যবহারকারী ইমেল
+enable_adblocker_alert: সক্ষম করুন Adblock সতর্কতা
+adblock_detected: Adblock সনাক্ত
+adblock_msg: দয়া করে Adblock disbale এবং পৃষ্ঠার আবার রিফ্রেশ
+enable_cookie_policy_popup: কুকি নীতি পপআপ
+cookie_policy_page_url: কুকি নীতি পৃষ্ঠা URL
+cookie_policy: কুকি নীতি
+cookie_policy_alert: এই সাইটটি কুকি ব্যবহার করে। এই সাইটের আপনি আমাদের কুকিজ ব্যবহারের সাথে সম্মত হন ব্যবহার করতে চালিয়ে যাওয়ার মাধ্যমে।
+read_more: আরও পড়ুন
+i_agree: আমি সম্মত
+instagram: ইনস্টাগ্রাম
+newsletter_subscription: নিউজলেটার পান
+your_email: আপনার ইমেল
+email_saved: ইমেইল নিউজলেটার জন্য সংরক্ষিত
+send_newsletter: পাঠান নিউজলেটার
+unsubscribe: সদস্যতা ত্যাগ করুন
+to_unsubscribe: যদি এই পরিষেবাটি থেকে সদস্যতামুক্ত হওয়ার বিষয়ে এই লিঙ্কে ক্লিক করুন
+successfully_unsubscribed: আপনি এখন নিউজলেটার সেবা থেকে সদস্যতা রদ করেছেন
+export_user_phone: ব্যবহারকারী রপ্তানি ফোন
+enable_blog_comment: ব্লগ মন্তব্য সক্ষম করুন
+fb_blog_app_id: ব্লগের জন্য ফেসবুক অ্যাপ আইডি
+disqus_blog_shortname: করার জন্য Disqus সংক্ষিপ্ত নাম ব্লগ
+sample_page: নমুনা পৃষ্ঠা
+senders_phone: প্রেরকের ফোন
+alias: ওরফে
+atleast_a_country_city: আপনাকে অন্তত দেশ ও শহরের নাম দিতে হবে
+email_not_shared: মনে হচ্ছে যে ফেসবুক আইডি ইমেল ভাগ করার অনুমতি নেই। অন্য একটি অ্যাকাউন্ট পরিবর্তন করতে বা ব্যবহারকারী বা শুধু ইমেল ব্যবহার করে সাইনআপ করুন।
+votes: ভোট
+food_corner: খাদ্য কোণ
+show_map_instead_of_street_view: রাস্তার পরিবর্তে মানচিত্র দেখান দেখতে
+post_published_email: পোস্ট প্রকাশিত ইমেল
+max_upload_file_size: ম্যাক্স আপলোডের আকার (কিলোবাইট)
+site_mode: সাইট মোড
+maintenance_msg: সাইট রক্ষণাবেক্ষণ অধীনে
+brandmodels: ব্র্যান্ড মডেলের
+add_brand: ব্র্যান্ড যোগ
+add_model: মডেল যোগ
+no_brandmodels: কোন brandmodels
+sel_brand: নির্বাচন ব্র্যান্ড
+carconditions: গাড়ি অবস্থার
+STATUS_DELETED: মোছা
+STATUS_ACTIVE: সক্রিয়
+STATUS_PENDING: অপেক্ষারত
+STATUS_PAYMENT_PENDING: পেমেন্ট মুলতুবি
+STATUS_EXPIRED: মেয়াদ উত্তীর্ণ
+USER_PENDING: মুলতুবি
+USER_BANNED: নিষিদ্ধ
+USER_ACTIVE: সক্রিয়
+car_options: গাড়ি কনফিগ বিকল্প
+transmissions: ট্রান্সমিশন ধরনের
+convertible: পরিবর্তনীয়
+coupe: কুপ
+hatchback: হ্যাচব্যাক
+luxury_car: বিলাসিতা গাড়ী
+sedan: সেডান
+sports_car: স্পোর্টস কার
+suv: এস এউ ভি
+trucks: ট্রাক
+van: ভ্যান
+customfields: কাস্টম ক্ষেত্র
+customfield: কাস্টম ক্ষেত্র
+sel_fieldtype: নির্বাচন ক্ষেত্র প্রকার
+text: টেক্সট
+textarea: পাঠ্য ক্ষেত্র
+richtext: রিচ টেক্সট
+select: ড্রপডাউন
+radio: রেডিও
+checkbox: চেকবক্স
+is_required: প্রয়োজন বোধ করা হয়
+field_added: কাস্টম ক্ষেত্র যোগ
+field_updated: কাস্টম ক্ষেত্র আপডেট
+field_deleted: কাস্টম ক্ষেত্র মুছে ফেলা
+field_order_updated: ফিল্ড অর্ডার আপডেট করা হয়েছে।
+field_sort_help: ^ আপনি সারণী সারিগুলি সাজাতে ড্রপ টেনে আনতে পারেন। অর্ডার রক্ষা বাছাই করার পর
+help_url_slug: একটি অনন্য মান রাখুন (URL ব্যবহার করা হবে)
+NA: এন / এ
+condition_new: নিউ
+condition_used: ব্যবহৃত
+condition_pre_owned: প্রাক মালিকানাধীন
+condition_recondition: reconditioned
+condition_other: অন্যান্য
+year: শারীরিক প্রকার
+brand: গাড়ির ব্র্যান্ড
+model: কার মডেল
+mileage: মাইলেজ
+transmission: ট্রান্সমিশন
+condition: অবস্থা
+fuel_type: ফুয়েল টাইপ
+fueltypes: জ্বালানীর প্রকার
+gas: গ্যাস
+diesel: Disel
+petrol: পেট্রোল
+octane: Octane
+electricity: বিদ্যুৎ
+others: অন্যরা
+select_condition: নির্বাচন অবস্থা
+select_transmission: নির্বাচন ট্রান্সমিশন
+automatic: স্বয়ংক্রিয়
+manual: ম্যানুয়াল
+semi_automatic: আধা স্বয়ংক্রিয়
+select_brand: নির্বাচন ব্র্যান্ড
+select_year: নির্বাচন শরীরের আকৃতি
+select_fuel_type: নির্বাচন ফুয়েল টাইপ
+url_slug: ইউআরএল স্লাগ্
+registration_no: রেজ কোন
+engine_size: ইঞ্জিন সাইজ
+help_engine_size: ইঞ্জিন ফাইলের আকার (লিটার)
+steering_type: স্টিয়ারিং প্রকার
+help_steering_type: স্টিয়ারিং নির্বাচন টাইপ করুন
+safety_rating: সেফটি নির্ধারণ
+sel_safety_rating: নির্বাচন সেফটি রেটিং
+engine_type: ইঞ্জিন প্রকার
+help_engine_type: নির্বাচন করুন ইঞ্জিন প্রকার
+no_of_seats: আসন এর কোনো
+help_no_of_seats: আসন এর কোনো
+gear_type: গিয়ার প্রকার
+help_gear_type: নির্বাচন করুন গিয়ার প্রকার
+new_brand: নতুন ব্র্যান্ড
+brand_names: ব্র্যান্ড নাম
+new_model: নিউ মডেল
+select_model: নির্বাচন করুন মডেল
+model_names: মডেল নাম
+mileage_unit: মাইলেজ ইউনিট
+brand_model: ব্র্যান্ড & মডেল
+help_text: সহায়তা পাঠ্য
+fieldtype: ক্ষেত্র প্রকার
+fieldname: ফিল্ড নাম
+comma_separated_help: এক রাখুন অথবা এমন আরো অনেক "," (কমা) পৃথক করা করেছে। Newyork ডালাস, আইডাহো-এর মতো
+category_id: গাড়ি শ্রেণী
+show_in_detail: বিবরণ পৃষ্ঠাতে দেখান
+power_steering: পাওয়ার স্টিয়ারিং
+manual_steering: ম্যানুয়াল স্টিয়ারিং
+inline: ইনলাইন
+straight: স্ট্রেইট
+vee: ভি
+flat: ফ্ল্যাট
+vr_w: ভি & ওয়াট
+other: অন্যান্য
+other_information: অন্যান্য তথ্য
+dual: ডুয়েল
+all_cars: সকল গাড়ি
+reported_cars: রিপোর্ট কার
+no_reviews: কোন রিভিউ এখনো
+optional_info: ঐচ্ছিক তথ্য
+car_posts: গাড়ি পোস্টগুলি
+featured_expiration_time: আলোচিত মেয়াদ সময় (দিন)
+max_gallery_photos: ম্যাক্স গ্যালারি ফটো
+gallery_limit: গ্যালারি
+take_package: প্যাকেজ নিন
+photos: ফটো
+mileage_range: মাইলেজ বিন্যাস
+pls_share: শেয়ার করুন আমাদের ওয়েবসাইটে
+facebook_page_name: এফবি পৃষ্ঠার নাম
+google_plus_name: Google+ নাম
+twitter_page_name: টুইটার ব্যবহারকারী নাম
+normal: সাধারন
+free: ফ্রি
+ultimate: আলটিমেট
+premium: প্রিমিয়াম
+update_post: পোস্ট আপডেট
+Clear unused images: সাফ অব্যবহৃত ইমেজ

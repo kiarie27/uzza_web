@@ -1,0 +1,824 @@
+ ---
+sign_in: Вход
+sign_up: Регистрация
+agent_panel: Агент Panel
+admin_panel: Панель администратор
+country: Страна
+state_province: Штат / Область
+city: Город
+register: Регистрация
+details: Подробности
+view_all: Смотреть все
+order_by: Заказывайте
+none: Отсутствуют
+terms_and_conditions: условия и сроки
+reg_success_message: регистрации Вашего аккаунта успешно. Письмо было отправлено на ваш электронный адрес. Пожалуйста , следует , что по электронной почте , чтобы активировать свой аккаунт. Благодаря
+limit: Ограничить
+usage: использование
+recover: Восстановление
+oops: Страница не найдена
+share_this: Поделиться этой
+location_map: Location Map
+image_gallery: Image Gallery
+gallery: Галерея
+summary: Резюме
+overview: Обзор
+address: Адрес
+message: Сообщение
+email_subject: E - mail Тема
+all: Все
+contact_us: Контакты
+featured_video: Лучшее видео
+embed_video_url: Embeded URL видео
+email_tracker: Email Tracker
+bulk_email: Bulk Email
+advanced_filters: Дополнительные фильтры
+result: Результат
+payment_notification: Вы собираетесь совершить платеж. Адрес электронной почты : отправляются по электронной почте. Вы можете вернуться к этому шагу в любое время с помощью ссылки на эту электронную почту.
+confirmation: Подтверждающие
+tags: Метки
+zip_code: Индекс
+embed_preview: Вставить изображение
+login: Логин
+post_not_found: Сообщения не найдены
+view_more: Больше
+choose_a_package: Выберите пакет
+choose_feature_package: Выберите пакет функций
+no_package_found: Нет Пакет найденных
+days: дни
+posts: Сообщения
+change: Изменить
+subscribe: Подписаться
+image: Image
+view_on_map: Посмотреть на карте (Автозаполнение Lat Ланг)
+create: Создать
+basic_info: Основную информацию
+send: Отправить
+all_email_to_users: Все сообщения электронной почты для пользователей
+email_detail: Email Detail
+change_package: Изменения пакет
+bank_transfer: Банковского перевода
+contact_subject: Контактный Email
+payment_finish_title: Оплата Полная
+payment_renew_title: оплата Полная
+payment_finish_text: Ваш платеж будет завершен. Как только мы получили подтверждение от PayPal ваш счет будет активирован
+payment_renew_text: Ваш платеж будет завершена. Как только мы получили подтверждение от Paypal Вашего счета будет обновлена
+payment_cancel_title: Оплата Отмены
+payment_cancel_text: Вашего платежа будет отменен
+feature_payment_finish: Ваш платеж будет завершен. Как только мы получим подтверждение от PayPal, ваше имущество будет признаки.
+feature_payment_cancel: Ваш платеж будет отменен.
+selected_package: Выбранный пакет
+signup_with_social_account: Регистрация с социальной счета
+password: Пароль
+confirm_password: Подтверждение пароля
+all_posts: Все сообщения
+no_posts: Нет сообщений
+title: Название
+description: Описание
+status: Статус
+actions: Действия
+action: Действие
+type: Тип
+type_something: Тип нечто
+content: Содержание
+featured_image: Рекомендуемые изображения [мин] 300x226
+category: категории автомобилей
+all_categories: Все категории автомобиля
+edit_category: Изменить категорию
+new_category: Нового автомобиля категория
+parent: Родителя
+edit: Редактировать
+delete: Удалить
+name: Имя
+save: Сохранить
+no_parent: Нет Родитель
+edit_email_template: Редактировать шаблон электронной почты
+select_template_file: Выберите файл шаблона
+subject: Темы
+body: Body
+available_variables: Доступных переменного
+select_language: Выбора языка
+select_language_file: файла Выбор языка
+edit_as_new: Изменить как новый
+language: язык
+add_another: Добавить еще
+export_to_file: Экспорт в файл
+import_from_file: Импорт из файла
+auto_translator: Автоматического переводчика
+from_lang: С Лангом
+target_lang_full_name: Target языками полного имени
+target_lang_short_name: Целевые языки Краткое наименование
+create_new_package: Создать новый пакет
+price: Цена
+ask_for_price: цены по запросу
+maximum_post_by_user: Максимального количества сообщений от пользователя
+expiration_time: времени истечения (дни)
+create_package: Создать пакет
+edit_package: пакета Редактировать
+update_package: пакет обновления
+add_packages: Добавить пакеты
+all_packages: Все пакеты
+no_packages: Нет пакетов
+options: Параметры
+all_pages: Все страницы
+no_pages: Нет страниц
+manage_menu: не Manage меню
+menu_title: Название меню
+menu_alias: Меню псевдоним
+show_in_menu: Показать в меню
+page_layout: страницы макета
+content_from: контента из
+url: Url
+seo_options: вариантов SEO
+meta_description: Мета описание
+key_words: Ключевые слова
+crawl_after: Crawl после (дней)
+all_plugins: Все плагины
+no_plugins: Нет плагинов
+name_and_version: Имя и версия
+change_password: Изменить пароль
+current_password: Текущий пароль
+new_password: Новый пароль
+retype_password: Повторите пароль
+password_reset_info_msg: Пожалуйста Первый Установить новый пароль
+profile_picture: Профиль Фото
+username: Имя пользователя
+email: E - mail
+first_name: Имя
+last_name: Фамилия
+gender: Пол
+phone: Телефон
+company_name: Название компании
+about_me: О себе
+facebook_account: Facebook счета
+twitter_account: Twitter аккаунт
+linkedin_account: Linkedin счет
+gp_account: Google+ счет
+account_msg: Пожалуйста , введите ссылку, без HTTP //
+web_email_settings: Web Настройки электронной почты
+contact_email: Контактный Email программы
+webadmin_name: WebAdmin Имя
+webadmin_email: Webadmin Email
+update: Update
+upload: Загрузить
+site_settings: Настройки сайта
+site_title: Сайт Заголовок
+footer_text: Footer Текст
+site_logo: Логотип сайта
+site_language: Язык
+site_text_direction: текста Направление сайта
+per_page: разбиении на страницы на одной странице по
+default_page_layout: умолчанию Макет страницы
+tracking_code: код отслеживания
+smtp_email_settings: SMTP Настройки электронной почты
+smtp_email: SMTP электронной почты
+smtp_host: SMTP хост
+smtp_port: SMTP Порт
+smtp_timeout: SMTP Таймаут
+smtp_user: SMTP Пользователь
+smtp_password: Пароль SMTP
+generate_site_map: Генерировать карту сайта
+sitemap_info_msg: NB Пожалуйста , выберите который вы хотите быть включены в XML карты сайта. После успешного sitemap.xml поколения сохраняется в директории ROOT. Вы также можете редактировать этот файл для включения собственной URL.
+pages: Страницы
+blog_posts: Дневник Сообщения
+articles: Статьи
+blog_post: Блог Сообщение
+blog: Сообщение в блоге
+article: статьи
+news: Новости
+view_xml: Просмотр XML
+create_xml: Создание XML
+manage_backups: Управление Резервные
+create_sql_backup: Создание резервного копирования SQL
+create_image_backup: Создание резервных изображений
+restore: Восстановление
+download: Скачать
+dashboard: Dashboard
+overview_stats_more: Обзор, статистика и многое другое
+visit_site: Посетите сайт
+logout: Выйти
+themes: Темы
+locations: Locations
+paypal_settings: Paypal Настройки
+payment_history: История платежей
+profile: Профиль
+packages: ПАКЕТЫ
+widgets: Widgets
+all_widgets: Все Widgets
+widget_positions: позиции Widget
+blog_news_article: Блог / Новости / Статья
+new_post: Новое сообщение
+pages_and_menu: Страницы и меню
+new_page: Новая страница
+menu: меню
+system: системы
+manage_languages: Управление Языки
+auto_translate: Авто Перевести
+edit_email_text: Редактировать E - mail Текст
+admin_settings: Web Настройки администратора
+sitemap: Карта сайта
+activate: Активация
+active_theme: активной темы
+available_themes: Доступные темы
+all_users: Все пользователи
+create_user: Создать пользователя
+export_user_email: Сообщения электронной почты Экспорт пользователей (.csv)
+profile_info: Profile Info
+ban_forever: Ban Навсегда
+edit_page: Редактировать страницу
+create_widget: Создать виджет
+widget_name: Виджет Имя
+activate_deactivate: Активировать / деактивировать
+show: Показать
+available_widgets: Доступные Widgets
+active_widgets: Активные Виджеты
+delete_warning: вы уверены , что хотите удалить
+yes: «Да»
+no: «нет»
+product_name: Content
+fa_icon: FA класса значок
+post_ad: Добавить автомобиль
+post_ad_subtitle: Положите вашу информацию автомобиль для
+signin: входа в аккаунт
+signup:Регистрация
+signup_title: Создать учетную запись
+not_found: Не найдено
+purpose: Цели
+purpose_buy: Купить
+purpose_sell: Продать
+select_category: Выбрать категорию
+contact_for_price: Контакт для цены
+address_info: Адреса Info
+general_info: Дополнительной информации
+upload_later_msg: Вы сможете загрузить галерею фото и видео URL после создания поста
+user_panel: пользователя панели
+put_as_comma_seperated: положить в (,) Запятой sperated
+added: Добавлена
+location: Место
+views: Views
+package_type: Типа
+post_package: сообщение пакета
+featured_package: Рекомендуемого пакет
+both_package: Post и признаки
+select_package: Выбрать пакет
+package_created: Пакет созданного
+package_updated: пакет обновлен
+slider: Slider
+add_new: Добавить новый
+new_slide: новый слайд
+update_slide: обновления слайд
+save_order: Сохранить заказ
+slider_sort_instruction: Вы можете перетащить падение сортировать строки таблицы. После сортировки сохранения заказа
+search: Поиск
+results: результатов
+location_on_map: Положение на карте
+contact_mode: Контакт Режим
+reset: сброса
+contact: Контакт
+default_site_view: Вид по умолчанию сайта
+type_your_message: Введите Ваше сообщение здесь ..
+mail_sent: Почта Направлено
+search_classifieds: Поиск Автомобили
+advanced_search: Расширенный поиск
+narrow_down_your_search: сузить поиск
+home: Главная
+print: Печать
+remember_me: Запомнить меня
+forgot_password: Забыли пароль ?
+login_failed: Войти не удалось
+login_to_your_account: войти в свой аккаунт
+register_your_account: Зарегистрировать свой аккаунт
+male: Мужской
+female: Женский
+no_location_found: нет Откуда Найдено
+state: государство
+ad_creation_error: Ошибка в объявлении создание! Пожалуйста, проверьте.
+users: Пользователи
+show_admin_user: Показать Пользователь Admin
+send_email_to_owner: Отправить личное сообщение для владельца автомобиля
+categories: Категории
+top_posts: Топ сообщения
+show_state_province: Показать Государственную Province
+package_settings: Настройка пакета
+default_site_settings: сайт по умолчанию Настройки программы
+webadmin_settings: WebAdmin Настройка
+banner_settings: банер Настройка
+max_price_for_search: Max Цена Поиск
+search_filters: Поиск Фильтры
+posts_per_page: Сообщений в страницу
+recent_posts: Последние автомобили
+featured_posts: Рекомендуемые Сообщения
+top_locations: Топ Locations
+top_users: Топ
+approve: Approve
+make_featured: Сделать признакам
+remove_featured: Удалить признакам
+renew_featured: Заменить признакам
+renew_package: Заменить пакет
+no_renew_post_id: Invalid возобновлять идентификатор сообщения
+approve_payment: Утвердить платеж
+transaction: Транзакция
+transaction_id: Идентификатор транзакции
+post_id: Сообщение Идентификатор
+amount: Сумма
+request_date: Дата запроса
+expiration_date: Дата истечения срока
+transaction_deleted: действия удален
+payment_approved: Компенсацию утвержденное
+logged_in_as: Зашли как
+posted_on: Опубликовано на
+confirm_email_send: подтверждение по электронной почте send.Please следовать инструкциям из этой электронной почты.
+email_confirmed: Email подтвержден. Вы можете войти на
+email_confirmed_failed: подтверждение адреса электронной почты не удалось
+password_change_success: Пароль успешно изменен
+email_sent_inbox: Адрес электронной почты : это отправить на ваш inbox.Check что электронная почта.
+password_recovery_link_invalid: Восстановление пароля ссылка недействителен
+user_updated: Пользователь Обновлено
+user_deleted: Пользователь Удален
+user_banned: Пользователь Banned
+user_unbanned: Пользователя Unbanned
+user_confirmed: Пользователь Подтверждено
+post_deleted: сообщение Deleted
+post_updated: Сообщение Обновление
+post_created: Сообщение Создано
+post_featured: Сообщение признаки
+data_inserted: данные вставлены
+data_updated: данные Обновлены
+feature_renewed: Feature Обновленного
+post_feature_removed: сообщение Feature Удалено
+post_approved: сообщение Подтвердили
+invalid_post: Invalid сообщение
+email_sent: электронной почты , отправляемой
+settings_updated: Настройка Обновление
+package_removed: пакет Удалено
+page_updated: Page Обновления
+page_created: страницы создания
+page_deleted: страницы Удалена
+menu_updated: меню Обновленный
+site_map_generation_success: Карта сайта успешно создан .
+select_option: Пожалуйста , выберите или более выбора параметров.
+image_backup_created: Image Резервное копирование Создан
+language_translated: язык Переведено
+unable_to_write_file: Невозможно записать файл
+backup_deleted: резервного копирования удаленных
+database_restored: баз данных Восстановлены
+theme_activated: Тема Активированный
+user_created: пользователя Дата создания
+widget_position_updated: виджета Позиция Обновленный
+widget_created: виджет создания
+widget_data_updated: виджетов данных Обновлено
+unable_to_write_widget: Невозможно написать виджет
+post_created_and_published: Сообщение создан и опубликован
+post_created_approval: пост создан и ждет одобрения администратором
+post_package_renewed: сообщение пакета возобновлен
+payment_finish: финишного оплаты
+payment_cancelled: Оплата отмененного
+admin_change_pass_help: Оставьте поле пустым , если никаких изменений не требуется
+go_to_paypal: Перейти к Paypal
+login_with_google: войти с Google
+login_with_facebook: войти с Facebook
+load_more_recent_posts: Загрузить еще Последние автомобили
+load_more_featured_posts: Загрузить Популярные автомобили
+register_for_new_account: Регистрация для новой учетной записи
+site_map: Карта сайта
+show_site_map: Показать на карте сайта
+service: службы
+features: Особенности
+about: О
+view_posts: Просмотр сообщений
+see_full_documentation: Посмотреть полную документацию
+select_city: Выбрать город
+parallax_slider: Parallax Slider
+all_slides: Все слайды
+no_slide: Нет слайд
+slide_order: слайдов Порядок
+edit_profile: редактирования профиля
+post_price_settings: постнастройки цена
+enable_post_pricing: РАЗРЕШЕНИЕ после цены
+enable_paypal_transfer: Включить PayPal
+enable_bank_transfer: Включить банковский перевод
+bank_transfer_instruction_for_posts: Банковский перевод Инструкция
+featured_price_settings: Настройки Рекомендуемые цены
+enable_featured_pricing: Enable признакам цены
+enable_featured_paypal: Включить PayPal
+enable_featured_bank_transfer: Включить банковский перевод
+bank_transfer_instruction_for_featured_posts: Банковский перевод инструкции
+bank_currency_settings: банка настройки валюты
+bank_currency: банка валюты
+use_same_as_paypal_currency: Используйте так же , как PAYPAL валюты
+admin: Администратор
+re_password: Повторите пароль
+explain_widget_position: Объяснить виджет позиции
+post: сообщение
+post_renew: сообщение Renew
+feature: Feature
+feature_renew: Feature Renew
+payment_for: Оплата
+select_country: Выберите страну
+select_one: Выберите один
+video_url: URL Vidoe
+confirm_payment: Подтверждение не оплаты
+package_title: пакета Название
+number_of_featured_days: Количество дней фигурировать
+no_of_days: Нет дней
+any_city: Любой город
+any_category: Любой Категория
+product_admin_panel: Carbiz Администратор
+username_or_email: Имя пользователя или адрес электронной почты
+car_detail: детали автомобиля
+posts_by: Сообщения По
+featured: Рекомендованный
+edit_user: пользователя Редактировать
+the_field_is_required: требуется поле% S в .
+valid_email: Поле% S в должно содержать действительный адрес электронной почты.
+min_length: Поле The% S должно быть , по крайней мере , % S символов в длину.
+numeric: Поле В% S должно содержать только числа.
+matches: Поле% S в не соответствует полю в% S.
+greater_than: Поле В% S должно содержать число больше% с.
+agree_terms: Я прочитал% S в сроки и условия% S
+must_accept_terms: Вы должны принять условия и состояние У
+dont_have_permission: вас нет разрешения на доступ к этой странице
+email_already_in_use: Email уже используется
+username_already_in_use: Имя пользователя уже используется
+current_password_not_matched: паролю не соответствует
+email_or_password_not_mathed: E - mail или пароль не совпадает с
+email_not_matched: e - mail не соответствует
+account_not_confirmed: учетной записи не подтверждена
+all_locations: Все места
+add_country: Добавить страну
+add_state: Добавить государство
+add_city: Добавить город
+no_locations: Нет месторасположении
+banner_type: Баннер Тип
+bg_image: Фоновое изображение
+unique_alias: поля% S в должна быть уникальной
+error_occurred: произошла ошибка. Пожалуйста , проверьте поля ниже
+user_profile: Профиль пользователя
+user_email: электронной почты пользователя
+target_lang_name: целевого языка
+no_emails: Нет письмо
+to: До
+classified_settings: объявления Настройки
+publish_posts_directly: не публиковать сообщения , непосредственно
+system_currency: Система валюты
+enable_signup: Включить Регистрация
+if_package_expired: Если пакет истек
+do_not_hide: Не скрывайте
+hide: Скрыть
+show_price_like: формат Цену
+facebook_app_settings: настройка Facebook приложения
+enable_facebook_login: Включить facebook логин
+fb_app_id: Facebook идентификатор приложения
+fb_secret_key: Facebook секретные ключевые
+comment_settings: параметры комментарий
+enable_comment: Включить комментарии
+disqus_shortname: Disqus ShortName
+sandbox_mode: Mode Песочница
+item_name: Пункт имя
+paypal_email: Paypal электронной
+currency: валюты
+finish_url: Готово URL
+cancel_url: Отменить URL
+menu_background: Меню фон
+menu_text_color: цвет текста меню
+activated_menu_color: Активированный меню цвет
+top_bar_bg: верхней панели Б.Г.
+activated_menu_text_color: Активированный меню цвет текста
+latitude: Широта
+longitude: Долгота
+map_zoom: Карта Увеличить
+search_panel_settings: Поиск параметров панели
+search_panel_bg_color: поиска панели Б.Г. цвета
+show_background_image: Показать фоновое изображение
+active_widget_position: Активная позиция виджета
+upload_and_install: загрузки и установки
+install_updates: установка обновлений / Темы / Плагины / Widgets
+confirmation_email: Подтверждение Email
+recovery_email: Recovery Email
+signup_notification_email: Регистрация Уведомление Email
+payment_confirmation_email: Email Подтверждение платежа
+click_and_edit: Выберите файл шаблона и нажмите кнопку редактировать]
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Настройки SEO По умолчанию
+find_us_on_facebook: Найти нас на Facebook
+category_featured_posts: Популярные сообщения
+load_more_posts: Загрузка Больше
+home_page_title: Поиск Купить Продать Авто
+no_posts_found: Нет сообщений
+type_anything: нет ничего Типа К
+chosen_not_found: сожалению, ничего не найдено!
+rating_asc: Рейтинг по возрастанию
+rating_desc: Рейтинг по убыванию
+id_desc: Id по убыванию
+id_asc: Id возрастанию
+price_range: Диапазон цен
+additional_features: Дополнительные возможности
+add_more_fields: Добавить несколько полей
+remove: Удалить
+distance_around_my_position: радиус поиска
+show_distance_in: Показать расстояние в
+car_listed: Автомобили Добавлено
+show_street_view: Show View Street
+list_car: Список автомобилей
+search_cars: Поиск Автомобили
+top_cars: Лучшие Автомобили
+featured_cars: Рекомендуемые Автомобили
+content_settings: Настройки контента
+hide_email: Скрыть электронной почты
+hide_phone: Скрыть телефон
+review: Обзор
+comment: Комментарий
+submit_review: Добавить отзыв
+rating: Оценка
+review_alert: Вы должны войти в систему, чтобы представить обзор.
+new_car: Добавить автомобиля
+identify_my_location: Определить мои местоположение
+data_deleted: данных удалены
+recent_reviews: Последние отзывы
+view_all_reviews: Просмотреть все отзывы
+review_deleted: Обзор Удаляется
+review_detail: Detail
+all_reviews: Все обзоры
+monday: Понедельник
+tuesday: Вторник
+wednesday: Среда
+thursday: Четверг
+friday: Пятница
+saturday: Суббота
+sunday: Воскресенье Время
+opening_hour: открытия Час
+closed: Закрыто
+review_submitted: Обзор представлен
+social_links: Социальные ссылки
+upgrade_browser: Upgrade браузер
+please_upgrade_your_browser: Пожалуйста , обновите ваш браузер
+car: автомобиля
+introduction: Введение
+terms: Правила и условия
+email_not_found: электронной почты не найден
+city_dropdown: Город выпадающий
+published: Опубликовано
+publish: Опубликовать
+drafted: Составленный
+draft: Проект
+from: от
+send_bulk_email: массовых рассылок Email
+ive_read_the: Я прочитал
+title_city_category: название, город или категорию
+dt_first: Первая
+dt_last: Предыдущая
+dt_next: Следующая
+dt_prev: Предыдущая
+dt_no_data: Нет доступных в таблице данных
+dt_show_empty: показывает 0 до 0 из 0 записей
+dt_no_match: Нет соответствующих записей не найдено
+dt_search: Поиск
+dt_processing: Обработка ...
+dt_loading: Loading ...
+dt_info: Показаны _START_ к _END_ записей _TOTAL_
+dt_filter_info: (отфильтрованных от общего _MAX_ записей)
+dt_show_entries: Показать записи _MENU_
+get_directions: Получить направление
+review_not_submitted : Вы уже дали обзор
+debug_email : Debug электронной почты
+email_to : E - mail для
+report_the_car : Доложить об этом автомобиле
+reported : сообщил
+already_reported : уже сообщалось
+reported_post : о КДК
+all_reported_posts : о КДК
+report: Сообщи
+assigned_to: Назначена
+select_assigned_to: Выберите пользователя
+css_compression: компрессию Css
+gallery_notes: Вы можете перетащить падение переупорядочить галереи фотографий. Фотографии не повторно размера.
+video_notes: Youtube или Vimeo гиперссылка
+post_expiration_notification: сообщение уведомление об истечении срока
+days_left: осталось
+AM: AM
+PM: PM
+upload_invalid_min_dimensions: Размер изображения слишком низкая
+view_on_front: Посмотреть на передней
+clear_unused_img: Четкие неиспользуемых изображений
+unused_files_found: Неиспользуемые файлы найдены
+unused_images_cleared: Неиспользуемые изображения очищается
+unused_info_msg: Эта функция удаляет только изображения , которые не используются на автомобилях, пользователей, категорий, страниц, блогов. Он просматривает базу данных для поиска images.So если вручную загружали изображения вручную и использовать их в коде может быть удалено.
+no_unused_img: Нет неиспользованными изображение найдено
+search_panel_filter_type: Тип фильтра
+basic_options: Основные опции
+advanced_options: Advance варианты
+sorting_order: сортировки заказа
+car_listed_on: автомобиля не перечислены на
+car_listed_under: автомобиль , перечисленной в
+all_sub_categories: Все подкатегории
+no_sub_categories: Нет подкатегорий
+hide_my_email : не показывать мой адрес электронной почты
+disable_email_contact: Отключить контактный адрес электронной почты
+enable_review: Включить обзор
+disable_google_street_view: Отключить Google Просмотр улица
+location_chorome_msg: Расположение службы по Google не доступны для не сайты SSL (только в браузере Chrome). Вы хотите использовать Ваш IP - адрес для получения вашего местоположения? НБ Результат не может быть точно так же , как Google
+send_email_to_users: Отправить электронную почту для пользователей
+show_banner: Показать баннер
+hide_my_phone: Скрыть мой телефон
+kms: Kms
+miles: Miles
+logo_text: Логотип Текст
+logo_type: логотипа Тип
+logo_text_color: логотипа цвета текст
+Jan: Я
+Feb: Февраль
+Mar: Март
+Apr: Апрель
+May: Май
+Jun: Июнь
+Jul: Июль
+Aug: Август
+Sep: Сентябрь
+Oct: Октябрь
+Nov: Ноябрь
+Dec: Декабрь
+show_search_panel: Показать панель поиска
+delete_selected: Удалить выбранные
+map_api_key: Gmap апи ключ
+pricing: ценообразование
+post_package_instruction: Мы имеем следующие пакеты для размещения автомобиля на нашем сайте ,
+feature_package_instruction: мы имеем следующие пакеты для создания автомобиля признакам
+MENU: МЕНЮ
+gplus_app_settings: Настройки Google+ приложение
+auth_redirect_url: Авторизованный Перенаправление URL
+enable_gplus_login: Включить Google+ Логин
+gplus_client_id: Google+ идентификатор клиента
+gplus_client_secret: Google+ клиента секрет
+how_to_get_gplus_api: Как получить Google+ идентификатор клиента и Secret
+gallery_upload_limit: Gallery загрузить ограничить
+you_can_upload_max: Вас можно загрузить максимум
+gallery_photos: Галерея фотографий
+advanced_options_with_country_state: Advance вариант со страной и государством
+select_state: Выбор государственных
+recent_posts_order: Последние сообщения заказать
+featured_posts_order: Популярные сообщения заказать по
+default_posts_order: умолчанию сообщения заказа по
+ASC: возрастанию по
+DESC: убыванию
+RANDOM: Случайный
+useremail: пользователь электронной почты
+enable_adblocker_alert: Включить Adblock оповещения
+adblock_detected: Adblock Обнаружен
+adblock_msg: Пожалуйста disbale AdBlock и обновите страницу
+enable_cookie_policy_popup: Cookie Policy Popup
+cookie_policy_page_url: Cookie страница политики URL
+cookie_policy: Политика Cookie
+cookie_policy_alert: Этот сайт использует куки - файлы. Продолжая использовать этот сайт , вы соглашаетесь с нашим использованием куки.
+read_more: Подробнее
+i_agree: Я согласен
+instagram: Instagram
+newsletter_subscription: Получить бюллетень
+your_email: Ваш адрес электронной почты
+email_saved: Email сохраненную на рассылку
+send_newsletter: Отправить бюллетень
+unsubscribe: Отказаться
+to_unsubscribe: Нажмите эту ссылку , если вы хотите отказаться от подписки на эту услугу
+successfully_unsubscribed: вы сейчас отписались от рассылки службы
+export_user_phone: экспорта телефона пользователя
+enable_blog_comment: Включить блог комментарий
+fb_blog_app_id: Fb идентификатор приложения для блога
+disqus_blog_shortname: Disqus короткое имя для дневник
+sample_page: Пример страницы
+senders_phone: телефон отправителя
+alias: Псевдоним
+atleast_a_country_city: Вы должны ввести хотя бы страну и город
+email_not_shared: Кажется , что facebook идентификатор не имеет разрешения на передачу по электронной почте. Пожалуйста , измените или пользователь другую учетную запись или просто подписаться по электронной почте.
+votes: Голоса
+food_corner: еда углу
+show_map_instead_of_street_view: Показать карту вместо улицы просмотр
+post_published_email: Сообщение опубликована электронной почта
+max_upload_file_size: Максимального размера загрузки (КБ)
+site_mode: Site Mode
+maintenance_msg: Сайт под обслуживанием
+brandmodels: моделей бренда
+add_brand: Добавить бренд
+add_model: Добавить модель
+no_brandmodels: Нет brandmodels
+sel_brand: Выбрать Марк
+carconditions: Условие автомобилей
+STATUS_DELETED: Удалено
+STATUS_ACTIVE: Активное В
+STATUS_PENDING: ожидании
+STATUS_PAYMENT_PENDING: оплаты В ожидании
+STATUS_EXPIRED: Expired В
+USER_PENDING: ожидании
+USER_BANNED: Banned
+USER_ACTIVE: Активен
+car_options: Автомобиль Конфигурационных параметров
+transmissions: типов передач
+convertible: Конвертируемых
+coupe: Купе
+hatchback: Хэтчбек
+luxury_car: Luxury Car
+sedan: Sedan
+sports_car: Спортивный автомобиль
+suv: внедорожник
+trucks: Грузовики
+van: Ван
+customfields: Пользовательские поля
+customfield: Пользовательские поля
+sel_fieldtype: Выберите тип поля
+text: Текст
+textarea: Текстовая область
+richtext: Rich Text
+select: Dropdown
+radio: Радио
+checkbox: Checkbox
+is_required: Требуется
+field_added: Пользовательские поля добавил
+field_updated: Пользовательские поля обновляются
+field_deleted: Пользовательские поля удален
+field_order_updated: порядок поле обновляется.
+field_sort_help: ^ Вы можете перетащить падение сортировать строки таблицы. После сортировки сохранить порядок
+help_url_slug: Поместить уникальное значение (будет использоваться в URL)
+NA: N / A
+condition_new: Новый
+condition_used: Б
+condition_pre_owned: подержанная
+condition_recondition: восстановленное
+condition_other: Другой
+year: тип кузова
+brand: автомобиля Марка
+model: автомобиля Модель
+mileage: Пробег
+transmission: Коробка передач
+condition: Состояние
+fuel_type: Тип топлива
+fueltypes: Виды топлива
+gas: Газ
+diesel: Disel
+petrol: Бензин
+octane: Октановое
+electricity: Электричество
+others: Другие
+select_condition: Выберите Состояние
+select_transmission: Выбор передач
+automatic: Автоматическая
+manual: Ручная
+semi_automatic: Полуавтоматическая
+select_brand: Выберите марку
+select_year: Выберите тип кузова
+select_fuel_type: Выберите Тип топлива
+url_slug: Url Slug
+registration_no: Reg Нет
+engine_size: Размер двигателя
+help_engine_size: двигателя Размер (в литрах)
+steering_type: Тип руля
+help_steering_type: Выбор рулевого управления Тип
+safety_rating: Рейтинг безопасности
+sel_safety_rating: Выбор безопасности Рейтинг
+engine_type: Тип двигателя
+help_engine_type: Выберите нет Тип двигателя
+no_of_seats: Количество мест
+help_no_of_seats: Количество мест
+gear_type: передач Тип
+help_gear_type: Выберите тип передач
+new_brand: Новые Марка
+brand_names: Торговые марки
+new_model: New Model
+select_model: Выбор модели
+model_names: Модель имен
+mileage_unit: Пробег Раздел
+brand_model: Марка и модель
+help_text: Текст справки
+fieldtype: Тип поле
+fieldname: Имя поля
+comma_separated_help: Положите один или более названа «» (запятая) разделена. Как Ньюйорк, Даллас, штат Айдахо
+category_id: автомобилей категория
+show_in_detail: подробно показать страницу
+power_steering: Усилителя рулевого управления
+manual_steering: ручным управления
+inline: Инлайн
+straight: Straight
+vee: ВЭЛ
+flat: Flat
+vr_w: VR & W
+other: Другой
+other_information: Другой информации
+dual: Сдвоенных
+all_cars: Все автомобили
+reported_cars: Сообщили Автомобили
+no_reviews: Отзывов пока нет
+optional_info: факультативного информации
+car_posts: Автомобиля сообщений
+featured_expiration_time: Рекомендуемого Времени истечения (дни)
+max_gallery_photos: Кол - галерея фотографий
+gallery_limit: Галереи
+take_package: Принять пакет
+photos: фотографии
+mileage_range: Range Пробега
+pls_share: Пожалуйста , поделитесь нашим сайтом
+facebook_page_name: FB страница
+google_plus_name: Google+ Имя
+twitter_page_name: Twitter Имя пользователя
+normal: Normal
+free: Free
+ultimate: Окончательный
+premium: Премиум
+update_post: обновления пост
+Clear unused images: Очистить неиспользуемое изображение

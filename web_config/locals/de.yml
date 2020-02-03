@@ -1,0 +1,824 @@
+---
+sign_in: Anmelden
+sign_up: Sign Up -
+agent_panel: Agent - Panel
+admin_panel: Admin Panel
+country: Land
+state_province: Staat / Provinz
+city: Stadt
+register: Register
+details: Einzelheiten
+view_all: Alle
+order_by: Sortierung nach
+none: keine
+terms_and_conditions: Bedingungen und den Zustand
+reg_success_message: Ihr Konto Registrierung erfolgreich ist. Eine E - Mail an Ihre E - Mail geschickt. Bitte beachten Sie, dass die E - Mail - Konto zu aktivieren. Dank
+limit: Limit -
+usage: Usage
+recover: Recover
+oops: Seite nicht gefunden
+share_this: Share This
+location_map: Lageplan
+image_gallery: Bildergalerie
+gallery: Galerie
+summary: Zusammenfassung
+overview: Übersicht
+address: Adresse
+message: Nachricht
+email_subject: E - Mail Betreff
+all: Alle
+contact_us: Kontakt
+featured_video: Angesagtes Video
+embed_video_url: Embeded Video URL
+email_tracker: Email Tracker
+bulk_email: Bulk Email
+advanced_filters: Erweiterte Filter
+result: Ergebnis
+payment_notification: Sie werden eine Zahlung leisten. Eine E - Mail an Ihre E - Mail gesendet. Sie können auf diese E - Mail jederzeit über den Link zu diesem Schritt zurück.
+confirmation: Bestätigung
+tags: Schlagwörter
+zip_code: Postleitzahl
+embed_preview: einbetten Vorschau
+login: Anmelden
+post_not_found: Beitrag nicht gefunden
+view_more: Mehr anzeigen
+choose_a_package: ein Paket Wählen Sie
+choose_feature_package: ein Feature - Paket wählen
+no_package_found: Kein Paket gefunden
+days: Tage
+posts: Beiträge
+change: ändern
+subscribe: Abonnieren
+image: Bild
+view_on_map: Auf der Karte (Auto füllen Lat lang)
+create: erstellen
+basic_info: Basisinformationen
+send: senden
+all_email_to_users: Alle E - Mails an Benutzer
+email_detail: E - Mail - Detail
+change_package: ändern Package
+bank_transfer: Banküberweisung
+contact_subject: Kontakt E - Mail
+payment_finish_title: Zahlung Komplette
+payment_renew_title: Zahlung komplett
+payment_finish_text: Ihre Zahlung ist abgeschlossen. Sobald wir die Bestätigung von PayPal Konto empfangen wird aktiviert
+payment_renew_text: Ihre Zahlung ist abgeschlossen. Sobald wir die Bestätigung von PayPal Konto empfangen wird erneuert
+payment_cancel_title: Zahlung stornieren
+payment_cancel_text: Ihre Zahlung wird storniert
+feature_payment_finish: Ihre Zahlung ist abgeschlossen. Sobald wir die Bestätigung von Paypal erhalten, wird Ihre Immobilie sehen sein.
+feature_payment_cancel: Ihre Zahlung wird gelöscht.
+selected_package: Ausgewählte Paket
+signup_with_social_account: Anmelden mit sozialen Konto
+password: Passwort
+confirm_password: Kennwort bestätigen
+all_posts: Alle Beiträge
+no_posts: Keine Beiträge
+title: Titel
+description: Beschreibung
+status: Status -
+actions: Aktionen
+action: Aktion
+type: Typ
+type_something: Typ etwas
+content: Inhalt
+featured_image: Bild Ausgewähltes [min 300x226]
+category: Auto - Kategorien
+all_categories:Alle Auto Kategorien
+edit_category: bearbeiten Kategorie
+new_category: Neue Auto - Kategorie
+parent: Elternteil
+edit: bearbeiten
+delete: Löschen
+name: Namen
+save: speichern
+no_parent: Kein Elternteil
+edit_email_template: bearbeiten E - Mail - Vorlage
+select_template_file: Template wählen Datei
+subject: Betreff
+body: Körper
+available_variables: Verfügbare Variablen
+select_language: Sprache auswählen
+select_language_file: Sprache auswählen Datei
+edit_as_new: bearbeiten als neue
+language: Sprache
+add_another: Weitere hinzufügen
+export_to_file: In Datei exportieren
+import_from_file: Import von Datei
+auto_translator: Auto Übersetzer
+from_lang: Von lang
+target_lang_full_name: Ziel lang vollständigen Namen
+target_lang_short_name: Kurzname Ziel lang
+create_new_package: Neues Paket erstellen
+price: Preis
+ask_for_price: Preis auf Anfrage
+maximum_post_by_user: Maximale Beiträge Benutzer
+expiration_time: Verfallszeit (Tage)
+create_package: Paket erstellen
+edit_package: bearbeiten Paket
+update_package: Update - Paket
+add_packages: In Pakete
+all_packages: Alle Pakete
+no_packages: keine Pakete
+options: Optionen
+all_pages: Alle Seiten
+no_pages: Keine Seite
+manage_menu: Menü verwalten
+menu_title: Menü Titel
+menu_alias: Menü Alias
+show_in_menu: Show in Menü
+page_layout: Seitenlayout
+content_from: Inhalt von
+url: URL
+seo_options: SEO Optionen
+meta_description: Meta Beschreibung
+key_words: Schlüsselwörter
+crawl_after: Crawl nach (Tage)
+all_plugins: Alle Plugins
+no_plugins: Keine Plugins
+name_and_version: Name und Version
+change_password:Passwort ändern
+current_password: Aktuelles Passwort
+new_password: Neues Passwort
+retype_password: erneut eingeben Passwort
+password_reset_info_msg: Bitte zuerst Ihr neues Passwort festlegen
+profile_picture: Profil Bild
+username: Benutzername
+email: E - Mail
+first_name: Vorname
+last_name: Nachname
+gender: Geschlecht
+phone: Telefon
+company_name: Firmenname
+about_me: Über mich
+facebook_account: Facebook - Account
+twitter_account: Twitter - Account
+linkedin_account: Linkedin Konto
+gp_account: Google+ Konto
+account_msg: Bitte den Link eingeben, ohne http //
+web_email_settings: Web E - Mail - Einstellungen
+contact_email: E - Mail Kontakt
+webadmin_name: WebAdmin Namen
+webadmin_email: Webadmin E - Mail -
+update: Update
+upload: Hochladen
+site_settings: Site Settings
+site_title: Site Title
+footer_text: Footer Text
+site_logo: Site - Logo
+site_language: Website - Sprache -
+site_text_direction: Site Textrichtung
+per_page: Paginierung pro Seite
+default_page_layout: Standard - Seitenlayout -
+tracking_code: Tracking - Code
+smtp_email_settings: SMTP E - Mail - Einstellungen
+smtp_email: SMTP - E - Mail -
+smtp_host: SMTP - Host
+smtp_port: SMTP - Port
+smtp_timeout: SMTP Timeout
+smtp_user: SMTP Benutzer
+smtp_password: SMTP - Kennwort
+generate_site_map: -Sitemap generieren
+sitemap_info_msg: NB Bitte wählen Sie die Sie auf Sitemap xml enthalten sein sollen. Nach dem erfolgreichen Generation sitemap.xml unter ROOT - Verzeichnis gespeichert. Sie können auch diese Datei bearbeiten Sie Ihre eigene URLs für einschließlich.
+pages: Seiten
+blog_posts: Blog - Beiträge
+articles: Beiträge
+blog_post: Beitrag Blog
+blog: Blog post
+article: Artikel
+news: Nachrichten
+view_xml: anzeigen XML
+create_xml: Erstellen von XML -
+manage_backups: Sicherungen verwalten
+create_sql_backup:Sicherungskopie erstellen SQL
+create_image_backup: Bild Sicherungskopie erstellen
+restore: Wiederherstellen
+download: herunterladen
+dashboard: Dashboard -
+overview_stats_more: Übersicht, Statistik und mehr
+visit_site: Besuchen Sie die Seite
+logout: Logout
+themes: Themen
+locations: Standorte
+paypal_settings: Paypal Einstellungen
+payment_history: Zahlung Geschichte
+profile: Profil
+packages: Pakete
+widgets: Widgets
+all_widgets: Alle Widgets
+widget_positions: Widget Positionen
+blog_news_article: Blog / News / Artikel
+new_post: Neuer Beitrag
+pages_and_menu: Seiten & Menü
+new_page: Neue Seite
+menu: Menü -
+system: System
+manage_languages: verwalten Sprachen
+auto_translate: Auto Übersetzen
+edit_email_text: Bearbeiten E - Mail Text
+admin_settings: Web Admin - Einstellungen
+sitemap: Site Map
+activate: Aktivieren
+active_theme: Aktiv Thema
+available_themes: Verfügbare Themen
+all_users: Alle Benutzer
+create_user: Benutzer erstellen
+export_user_email: Export User - E - Mails (.csv)
+profile_info: Profil - Information
+ban_forever: Ban immer
+edit_page: Seite bearbeiten
+create_widget: Widget erstellen
+widget_name: Widget - Name
+activate_deactivate: Aktivieren / De-Activate
+show: anzeigen
+available_widgets: Verfügbare Widgets
+active_widgets: Aktive Widgets
+delete_warning: Sind Sie sicher löschen möchten
+yes: „Ja“ ,
+no: „Nein“
+product_name: Inhalt
+fa_icon: FA Symbol Klasse
+post_ad: hinzufügen Auto
+post_ad_subtitle: Setzen Sie Ihr Auto info
+signin: Signin
+signup: Anmelden
+signup_title: Erstellen Sie Ihr Konto
+not_found:nicht gefunden
+purpose: Zweck
+purpose_buy: Kaufen
+purpose_sell: Verkaufen
+select_category: Kategorie auswählen
+contact_for_price: Kontakt für Preis -
+address_info: Adresse Kunden
+general_info: Allgemeines
+upload_later_msg: Sie werden in der Lage Galerie von Fotos und Video - URL nach Post Erstellung hochladen
+user_panel: Benutzer - Panel
+put_as_comma_seperated: setzen , wie (,) Komma sperated
+added: Added
+location: Ort
+views: Ansichten
+package_type: Typ
+post_package: Beitrag Paket
+featured_package: Ausgewähltes Paket
+both_package: Beitrag und kennzeichnete
+select_package: Select - Paket
+package_created: Paket erstellt
+package_updated: Paket aktualisiert
+slider: Slider
+add_new: neue Add
+new_slide: New Dia -
+update_slide: Update Dia
+save_order: Speichern , um
+slider_sort_instruction: Sie Drop ziehen die Tabellenzeilen zu sortieren. Nach dem Speichern der Ordnungs- Suchergebnisse
+search:
+results:
+location_on_map: Standort
+contact_mode: Kontakt - Modus
+reset: Zurücksetzen
+contact: Kontakt
+default_site_view: Standard Aufstellungsortansicht
+type_your_message: Ihre Nachricht ..
+mail_sent: Mail - Sent
+search_classifieds: Suche Autos
+advanced_search: Erweiterte Suche
+narrow_down_your_search: Verfeinern Sie Ihre Suche
+home: Startseite
+print: Drucken
+remember_me: Angemeldet bleiben
+forgot_password: Passwort vergessen
+login_failed: Anmeldung fehlgeschlagen
+login_to_your_account: Login Ihr Konto
+register_your_account: Ihr Konto Registrieren
+male: Männlich
+female: Weiblich
+no_location_found: Kein Ort gefunden
+state: Staat
+ad_creation_error: Fehler bei Anzeige Schaffung! Bitte prüfe.
+users: Benutzer
+show_admin_user: anzeigen Admin Benutzer
+send_email_to_owner:senden E - Mail an Autobesitzer
+categories: Kategorien
+top_posts: Top Beiträge
+show_state_province: zeigen Status der Provinz
+package_settings: Paketeinstellungen
+default_site_settings: Standard - Site - Einstellungen
+webadmin_settings: Webadmin Einstellungen
+banner_settings: Banner Einstellungen
+max_price_for_search: Max Preis für Suche
+search_filters: Suchfilter
+posts_per_page: Beiträge pro Seite
+recent_posts: Aktuelle Autos
+featured_posts: Aktuelle Beiträge
+top_locations: Top Locations
+top_users: Top Benutzer
+approve: Genehmigen
+make_featured: Stellen funktions
+remove_featured: Entfernen vorge
+renew_featured: Erneuern funktions
+renew_package: ersetzen Paket
+no_renew_post_id: ungültig Post - ID erneuern
+approve_payment: genehmigen Zahlung
+transaction: Transaktion
+transaction_id: Transaktion id
+post_id: Post - ID
+amount: Betrag
+request_date: anfordern Datum
+expiration_date: Ablaufdatum der
+transaction_deleted: Transaktion gelöscht
+payment_approved: Zahlung genehmigt
+logged_in_as: Angemeldet als
+posted_on: Posted auf
+confirm_email_send: Bestätigung E - Mail send.Please die Anweisungen aus der E - Mail folgen.
+email_confirmed: E - Mail bestätigt. Sie können jetzt anmelden
+email_confirmed_failed: E - Mail - Bestätigung fehlgeschlagen
+password_change_success: Passwort erfolgreich geändert
+email_sent_inbox: Eine E - Mail ist an Ihrem inbox.Check dieser E - Mail senden.
+password_recovery_link_invalid: Password Recovery Link ist nicht gültig
+user_updated: Benutzer aktualisiert
+user_deleted: Benutzer gelöscht
+user_banned: Benutzer Gebannt
+user_unbanned: unbanned Benutzer
+user_confirmed: Benutzer bestätigt
+post_deleted: Beitrag gelöscht
+post_updated: Beitrag Aktualisiert
+post_created: Beitrag Erstellt
+post_featured: Beitrag vorgestellten
+data_inserted: Daten eingefügt
+data_updated: Daten aktualisiert
+feature_renewed: Eigenschaft Erneute
+post_feature_removed: Beitrag Funktion entfernt
+post_approved: Beitrag Approved
+invalid_post: Ungültige Beitrag
+email_sent:E - Mail gesendet
+settings_updated: Einstellungen aktualisiert
+package_removed: Paket entfernt
+page_updated: Seite aktualisiert
+page_created: Seite erstellt
+page_deleted: Seite gelöscht
+menu_updated: Menü Aktualisiert
+site_map_generation_success: Sitemap erfolgreich generiert.
+select_option: Bitte wählen Sie ein oder mehr Optionen auswählen.
+image_backup_created: Image - Backup Erstellt
+language_translated: Sprache übersetzt
+unable_to_write_file:Kann nicht Datei schreiben
+backup_deleted: Backup gelöscht
+database_restored: Datenbank wiederhergestellt
+theme_activated: Theme aktivierte
+user_created: Benutzer erstellt
+widget_position_updated: Widget Position aktualisiert
+widget_created: Widget Erstellt
+widget_data_updated: Widget Daten aktualisiert
+unable_to_write_widget: kann nicht geschrieben Widget
+post_created_and_published: Beitrag erstellt und veröffentlicht
+post_created_approval: Beitrag erstellt und wartet auf Admin - Zulassung
+post_package_renewed: Beitrag Paket erneuert
+payment_finish: Zahlung beenden
+payment_cancelled: abgebrochen Zahlung
+admin_change_pass_help: leer lassen , wenn keine Änderung erforderlich
+go_to_paypal: Zum Paypal
+login_with_google: Anmeldung mit Google
+login_with_facebook: Anmeldung mit Facebook
+load_more_recent_posts: Mehr laden Neue Autos
+load_more_featured_posts: Mehr laden Besondere Autos
+register_for_new_account: Register für New Account
+site_map: Sitemap
+show_site_map: anzeigen Sitemap
+service: Service -
+features: Funktionen
+about: Über
+view_posts: Beiträge anzeigen
+see_full_documentation: Komplette Dokumentation
+select_city: Stadt wählen
+parallax_slider: Parallax Slider
+all_slides: Alle Folien
+no_slide: Keine Rutsche
+slide_order: Slide bestellen
+edit_profile: Profil bearbeiten
+post_price_settings: Beitrag Preis Einstellungen
+enable_post_pricing: Post Preis aktivieren
+enable_paypal_transfer: paypal Aktivieren
+enable_bank_transfer: Banküberweisung aktivieren
+bank_transfer_instruction_for_posts: Banküberweisung Instruction
+featured_price_settings: Hervorgehoben Preiseinstellungen
+enable_featured_pricing: funktions Aktivieren der Preis
+enable_featured_paypal: paypal aktivieren
+enable_featured_bank_transfer: Banküberweisung aktivieren
+bank_transfer_instruction_for_featured_posts: Überweisung Unterweisung
+bank_currency_settings: Bank Währung Einstellungen
+bank_currency: Bank Währung
+use_same_as_paypal_currency: verwenden gleiche wie paypal Währung
+admin: Admin
+re_password: Passwort wiederholen
+explain_widget_position: Widget Positionen Erklären
+post: Beitrag
+post_renew: Beitrag Erneuern
+feature: Feature -
+feature_renew: Funktion ersetzen
+payment_for: Zahlung
+select_country: Land auswählen
+select_one: Select One
+video_url: Vidoe URL
+confirm_payment: Bestätigen Zahlung
+package_title: Paket Titel
+number_of_featured_days: Anzahl der Tage zu sehen sein
+no_of_days: Anzahl der Tage
+any_city: Jede Stadt
+any_category: Jede Kategorie
+product_admin_panel: Carbiz Admin
+username_or_email: Benutzername oder E - Mail -
+car_detail: Auto Detail
+posts_by: Beiträge von
+featured: Feature -
+edit_user: Benutzer bearbeiten
+the_field_is_required: Die% s ist erforderlich.
+valid_email: Das Feld% s muss eine gültige E - Mail - Adresse enthalten.
+min_length: Die% s - Feld muss mindestens% s Zeichen lang sein.
+numeric: Das Feld% s darf nur Zahlen enthalten.
+matches: Das% s Feld nicht das Feld s% entspricht.
+greater_than: Die% s - Feld muss eine Zahl größer als% s enthalten.
+agree_terms: Ich habe das% s AGB% s lesen
+must_accept_terms: Sie müssen Bedingungen akzeptieren und konditionieren
+dont_have_permission: Sie haben keine Berechtigung , diese Seite zuzugreifen
+email_already_in_use: E - Mail bereits im Einsatz
+username_already_in_use: Benutzername bereits verwendet
+current_password_not_matched: Aktuelles Passwort stimmen nicht überein
+email_or_password_not_mathed: E - Mail oder Passwort nicht überein
+email_not_matched: E - Mail nicht abgestimmt
+account_not_confirmed: Konto nicht bestätigt
+all_locations: Alle Orte
+add_country: hinzufügen Land
+add_state: Zustand hinzufügen
+add_city: hinzufügen Stadt
+no_locations: keine Lokal
+banner_type: Banner Art
+bg_image: Hintergrundbild
+unique_alias: Das Feld% s muss eindeutig sein
+error_occurred: Fehler aufgetreten. Überprüfen Sie bitte die folgenden Felder aus
+user_profile: Benutzerprofil
+user_email: Benutzer E - Mail -
+target_lang_name: Zielsprache
+no_emails: keine E - Mails
+to: zu
+classified_settings: Classified Einstellungen
+publish_posts_directly: veröffentlichen Beiträge direkt
+system_currency: Systemwährung
+enable_signup: Registrierung aktivieren
+if_package_expired: Wenn Paket abgelaufen
+do_not_hide: nicht verstecken,
+hide: verbergen
+show_price_like: Preis Format
+facebook_app_settings: Facebook Einstellungen App
+enable_facebook_login: facebook Anmeldung zu aktivieren
+fb_app_id: Facebook - App - ID
+fb_secret_key:Book geheimer Schlüssel
+comment_settings: Kommentar Einstellungen
+enable_comment: aktivieren Kommentare
+disqus_shortname: Disqus Kürzel
+sandbox_mode: Sandbox - Modus
+item_name: Artikel - Name
+paypal_email: Paypal E - Mail -
+currency: Währung -
+finish_url: Finish url
+cancel_url: Abbrechen url
+menu_background: Menü Hintergrund
+menu_text_color: Menü Textfarbe
+activated_menu_color: Aktivierte Menüfarbe
+top_bar_bg: Top bar bg
+activated_menu_text_color: Aktivierte Menütextfarbe
+latitude: Latitude
+longitude: Longitude
+map_zoom: Karte zoomen
+search_panel_settings: Suchfenster Einstellungen
+search_panel_bg_color: Suchfenster bg Farbe
+show_background_image: anzeigen Hintergrundbild
+active_widget_position: Aktiv - Widget Position
+upload_and_install: hochladen und installiert
+install_updates: Updates installieren / Themen / Plugins / Widgets
+confirmation_email: Bestätigung E - Mail
+recovery_email: Recovery - E - Mail
+signup_notification_email: anmelden Benachrichtigung per E - Mail
+payment_confirmation_email: Zahlung Bestätigung per E - Mail
+click_and_edit:Wählen Sie eine Vorlage - Datei und klicken Sie auf Bearbeiten]
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Standard SEO Einstellungen
+find_us_on_facebook: Finden Sie uns auf Facebook
+category_featured_posts: Aktuelle Beiträge
+load_more_posts: Mehr laden
+home_page_title: Suche kaufen Autos verkaufen
+no_posts_found: keine Beiträge
+type_anything: etwas Typ
+chosen_not_found: Oops, nichts gefunden!
+rating_asc: Rating aufsteigend
+rating_desc: Rating absteigend
+id_desc: Id absteigend
+id_asc: Id aufsteigend
+price_range: Preis
+additional_features: Zusätzliche Funktionen
+add_more_fields: hinzufügen mehr Felder
+remove: entfernen
+distance_around_my_position: Suchradius
+show_distance_in: anzeigen Entfernung in
+car_listed: Autos Posted
+show_street_view: anzeigen Street View
+list_car: Liste Auto
+search_cars: Suchen Autos
+top_cars: Top Autos
+featured_cars: Hervorgehoben Autos
+content_settings: Content - Einstellungen
+hide_email: E - Mail ausblenden
+hide_phone: ausblenden Telefon
+review: Bewertung
+comment: Kommentar
+submit_review: Abschicken
+rating: Bewertung
+review_alert: Sie müssen angemeldet sein , Bewertung zu senden.
+new_car: Hinzufügen Wagen
+identify_my_location: identifizieren meinen Standort
+data_deleted: Daten gelöscht
+recent_reviews: Neueste Bewertungen
+view_all_reviews: Alle Bewertungen ansehen
+review_deleted: Bewertung Gelöschte
+review_detail: Details
+all_reviews: Alle Bewertungen
+monday: Montag
+tuesday: Dienstag
+wednesday: Mittwoch
+thursday: Donnerstag
+friday: Freitag
+saturday: Samstag
+sunday: Sonntag
+opening_hour: Öffnungszeiten
+closed: Closed
+review_submitted: Bewertung abgegeben
+social_links: Social Links
+upgrade_browser: Upgrade - Browser
+please_upgrade_your_browser: Bitte aktualisieren Sie Ihren Browser
+car: Auto
+introduction: Einführung
+terms: Allgemeine Bedingung
+email_not_found: E - Mail nicht gefunden
+city_dropdown: Stadt Dropdown
+published: Veröffentlicht
+publish: Publish
+drafted: Drafted
+draft: Entwurf
+from: Von
+send_bulk_email: senden Bulk Email
+ive_read_the: Ich habe das gelesen
+title_city_category: Titel, Stadt oder Kategorie
+dt_first: Erste
+dt_last: Letzte
+dt_next: Nächste
+dt_prev: Zurück
+dt_no_data: Keine verfügbaren Daten in der Tabelle
+dt_show_empty: 0 bis 0 von 0 Einträge angezeigt
+dt_no_match: Keine passenden Datensätze gefunden
+dt_search: Suche in
+dt_processing: Bearbeitung ...
+dt_loading: Laden ...
+dt_info: Zeige _start_ bis _END_ von _TOTAL_ Einträge
+dt_filter_info: (von _MAX_ insgesamt gefiltert Einträge)
+dt_show_entries: anzeigen _MENU_ Einträge
+get_directions: Erhalten Richtung
+review_not_submitted : Sie haben bereits eine Überprüfung gegeben
+debug_email : Debug E - Mail
+email_to : E - Mail an
+report_the_car : dieses Auto Bericht
+reported : berichtet
+already_reported : bereits berichtet
+reported_post : berichtet Autos
+all_reported_posts : berichtet Autos
+report: Unzumutbar
+assigned_to: Zuordnung zum
+select_assigned_to: Benutzer auswählen
+css_compression: Css Kompression
+gallery_notes: Sie können Drop ziehen Sie die Galerie Fotos neu zu ordnen. Die Fotos werden nicht die Größe neu.
+video_notes: Youtube oder Vimeo url
+post_expiration_notification: Beitrag Ablaufbenachrichtigung
+days_left: Tage links
+AM: AM
+PM: PM
+upload_invalid_min_dimensions: Die Bilddimension ist zu niedrig
+view_on_front: Auf der Vorderseite
+clear_unused_img: Löschen nicht verwendeten Bilder
+unused_files_found: Nicht verwendete Dateien gefunden
+unused_images_cleared: Ungenutzte Bilder gelöscht
+unused_info_msg: Diese Funktion löscht nur die Bilder , die nicht verwendet werden , durch Autos, Benutzer, Kategorien, Seiten, Blogs. Es durchsucht die Datenbank für die Suche nach images.So , wenn Sie manuell alle Bilder manuell hochgeladen und verwendet sie im Code gelöscht werden kann.
+no_unused_img: Keine ungenutzten Bild gefunden
+search_panel_filter_type: Filtertyp
+basic_options: Grundoptionen
+advanced_options: Advance - Optionen ,
+sorting_order: um Sortierung
+car_listed_on: Auto auf aufgelistet
+car_listed_under: Auto unter aufgeführt
+all_sub_categories: Alle Unterkategorien
+no_sub_categories:Keine Unterkategorien
+hide_my_email : ausblenden per E - Mail
+disable_email_contact: deaktivieren E - Mail Kontakt
+enable_review: aktivieren Überprüfung
+disable_google_street_view: Google Street View deaktivieren
+location_chorome_msg: Location Service von Google ist nicht verfügbar für nicht ssl - Seiten (nur in Chrome - Browser). Wollen Sie für immer Ihre Position Ihre IP - Adresse benutzen? NB- Das Ergebnis kann nicht genau gleich wie Google
+send_email_to_users: E - Mail - Benutzer senden
+show_banner: anzeigen Banner
+hide_my_phone: mein Telefon ausblenden
+kms: Kms
+miles: Miles
+logo_text: Logo Text
+logo_type: Logo Typ
+logo_text_color: Logo Textfarbe
+Jan: Jan
+Feb: Februar
+Mar: März
+Apr: April
+May: Mai
+Jun: Juni
+Jul: Juli
+Aug: August
+Sep: September
+Oct: Oktober
+Nov: November
+Dec: Dezember
+show_search_panel: anzeigen Suchfeld
+delete_selected: ausgewählt Löschen
+map_api_key: Gmap api Schlüssel
+pricing: Pricing
+post_package_instruction: Wir haben die folgenden Pakete für ein Auto auf unserer Website veröffentlichen
+feature_package_instruction: haben wir die folgenden Pakete zur Herstellung eines Auto vorge
+MENU: MENU
+gplus_app_settings: Google+ App - Einstellungen
+auth_redirect_url: Umleitungs - URL Autorisierte
+enable_gplus_login: aktivieren Google+ Login
+gplus_client_id: Google+ Client - ID
+gplus_client_secret: Google+ Client - Schlüssel
+how_to_get_gplus_api: Wie Google+ Client - ID und Geheimnis bekommen
+gallery_upload_limit: Gallery hochzuladen begrenzen
+you_can_upload_max: Sie hochladen können maximal
+gallery_photos: Galerie Fotos
+advanced_options_with_country_state: Advance - Option mit Land und Staat
+select_state: auswählen Zustand
+recent_posts_order: Neue Beiträge bestellen
+featured_posts_order: Ausgewählte Beiträge bestellen
+default_posts_order: Standard Beiträge bestellen
+ASC: aufsteigend
+DESC: absteigend
+RANDOM: Zufall
+useremail: Benutzer E - Mail
+enable_adblocker_alert: adblock Benachrichtigung aktivieren
+adblock_detected: Adblock Erkannt
+adblock_msg: Bitte disbale adblock und aktualisieren Sie die Seite erneut
+enable_cookie_policy_popup: Cookie - Richtlinien Popup
+cookie_policy_page_url: Cookie - Richtlinien Seite url
+cookie_policy: Richtlinien zu Cookies
+cookie_policy_alert: Diese Seite verwendet Cookies. Durch die Fortsetzung dieser Website erklären Sie sich unsere Verwendung von Cookies einverstanden zu verwenden.
+read_more: Lesen Sie mehr
+i_agree: Ich bin damit einverstanden
+instagram: Instagram
+newsletter_subscription: Erhalten Newsletter
+your_email: Ihre E - Mail
+email_saved: E - Mail für Newsletter gespeichert
+send_newsletter: versenden Newsletter
+unsubscribe: abbestellen
+to_unsubscribe: Klicken Sie auf diesen Link , wenn Sie diesen Service abbestellen möchten
+successfully_unsubscribed: Sie sind jetzt abgemeldet aus dem Newsletter - Service
+export_user_phone: Export Benutzer - Telefon
+enable_blog_comment: Blog - Kommentar aktivieren
+fb_blog_app_id: Fb App - ID für Blog
+disqus_blog_shortname: Disqus Kurzname für Blog -
+sample_page: Musterseite
+senders_phone: Absendertelefon
+alias: Alias
+atleast_a_country_city: Sie müssen mindestens Land und Stadt eingeben
+email_not_shared: Es scheint , dass die Facebook - ID nicht die Erlaubnis hat die E - Mail zu teilen. Bitte ändern oder Benutzer ein anderes Konto oder registrieren nur E-Mail.
+votes: Stimmen
+food_corner: Essen Ecke
+show_map_instead_of_street_view: Karte anzeigen statt Blick auf die Straße
+post_published_email: Post veröffentlicht E - Mail
+max_upload_file_size: Max Upload - Größe (KB)
+site_mode: Standortmodus -
+maintenance_msg: Site unter Wartung
+brandmodels: Marke Modelle
+add_brand: hinzufügen Marke
+add_model: hinzufügen Modell
+no_brandmodels: Keine brandmodels
+sel_brand: Marke auswählen
+carconditions: Auto Bedingungen
+STATUS_DELETED: Gelöschte
+STATUS_ACTIVE: Aktiv
+STATUS_PENDING: Schwebende
+STATUS_PAYMENT_PENDING: Zahlung Pending
+STATUS_EXPIRED: Abgelaufene
+USER_PENDING: Ausstehende
+USER_BANNED: Banned
+USER_ACTIVE: Aktive
+car_options: Auto Config Optionen
+transmissions: Übertragungsarten
+convertible: Cabrio
+coupe: Coupe
+hatchback: Fließheck
+luxury_car: Luxusauto -
+sedan: Limousine
+sports_car:Sport - Auto -
+suv: SUV
+trucks: LKW
+van: Van
+customfields: Benutzerdefinierte Felder
+customfield: Benutzerdefinierte Feld
+sel_fieldtype: Wählen Sie Feldtyp
+text: Text
+textarea: Text Bereich
+richtext: Rich - Text -
+select: Dropdown -
+radio: Radio
+checkbox: Checkbox
+is_required: erforderlich ist
+field_added: benutzerdefiniertes Feld hinzugefügt
+field_updated: benutzerdefiniertes Feld aktualisiert
+field_deleted: Benutzerdefinierte Feld gelöscht
+field_order_updated: Feldreihenfolge aktualisiert.
+field_sort_help: ^ Sie können Drop ziehen Sie die Tabellenzeilen zu sortieren. Nach dem Sortieren der Reihenfolge speichert
+help_url_slug: einen eindeutigen Wert Put (wird in einem URL verwendet werden)
+NA: N / A
+condition_new: New
+condition_used: Used
+condition_pre_owned: Pre Owned
+condition_recondition: Reconditioned
+condition_other: Andere
+year: Körperbau
+brand: Automarken
+model: Auto - Modell
+mileage: Kilometerstand
+transmission: Getriebe
+condition: Zustand
+fuel_type: Kraftstoff - Art
+fueltypes: Kraftstoffart
+gas: Gas
+diesel: Disel
+petrol: Benzin
+octane: Octane
+electricity: Strom
+others: Andere
+select_condition: wählen Zustand
+select_transmission: Wählen Getriebe
+automatic: Automatik
+manual: Manuell
+semi_automatic: Semi-Automatic
+select_brand: Marke auswählen
+select_year: Wählen Körperbau
+select_fuel_type: Auswählen Kraftstoffart
+url_slug: URL Slug
+registration_no: Reg No
+engine_size: Motorgröße
+help_engine_size: Motorgröße (in Litern)
+steering_type: Lenkerart
+help_steering_type: Wählen LENKUG
+safety_rating: Sicherheitsbewertung
+sel_safety_rating: Select Sicherheitsbewertung
+engine_type: Motorart
+help_engine_type: Select Motorart
+no_of_seats: Anzahl der Sitzplätze
+help_no_of_seats: Anzahl der Sitzplätze
+gear_type: Getriebetyp
+help_gear_type: wählen Getriebetyp
+new_brand: Neue Marke
+brand_names: Markennamen
+new_model: Neues Modell
+select_model: Modell auswählen
+model_names: Modellnamen
+mileage_unit: Gefahrene Einheit
+brand_model: Marke und Modell
+help_text: Hilfetext
+fieldtype: Feldtyp
+fieldname: Feldname
+comma_separated_help: Legen Sie einen oder mehrere Namen wie „“ (Komma) getrennt. Wie Newyork, Dallas, idaho
+category_id: Auto Kategorie
+show_in_detail: Show in Detailseite
+power_steering: Servolenkung
+manual_steering: manuell Lenkung
+inline: Inline
+straight: Gerade
+vee: VEE
+flat: Wohnung
+vr_w: VR & W
+other: Andere
+other_information: Andere Informationen
+dual: Dual -
+all_cars: All Cars
+reported_cars: Berichtet Cars
+no_reviews: Noch keine Bewertungen
+optional_info: Optional Info
+car_posts: Car Beiträge
+featured_expiration_time: Hervorgehoben Ablaufzeit (Tage)
+max_gallery_photos: Max Galerie Fotos
+gallery_limit: Galerie
+take_package: Nehmen Sie Paket
+photos: Fotos
+mileage_range: gefahrene Strecke
+pls_share: Bitte teilen Sie unsere Website
+facebook_page_name: FB Seite Name
+google_plus_name: Google+ Namen
+twitter_page_name: Twitter Benutzername
+normal: Normale
+free: Kostenlose
+ultimate: ultimative
+premium: Premium -
+update_post: Update - Beitrag
+Clear unused images: löschen ungenutzt Bild

@@ -1,0 +1,824 @@
+ ---
+sign_in: Σύνδεση
+sign_up: Εγγραφείτε
+agent_panel: Agent πάνελ
+admin_panel: Admin Panel
+country: Χώρα
+state_province: Πολιτεία / Επαρχία
+city: Πόλη
+register: Εγγραφή
+details: Λεπτομέρειες
+view_all: Δείτε Όλα
+order_by: Ταξινόμηση
+none: Κανένα
+terms_and_conditions: όρους και τις προϋποθέσεις
+reg_success_message: εγγραφής του λογαριασμού σας είναι επιτυχής. Ένα μήνυμα ηλεκτρονικού ταχυδρομείου στάλθηκε στο email σας. Ακολουθήστε αυτό το email για να ενεργοποιήσετε το λογαριασμό σας. Χάρη
+limit: Όριο
+usage: Χρήσης
+recover: Ανάκτηση
+oops: σελίδα δεν βρέθηκε
+share_this: Μοιραστείτε αυτή
+location_map: Τοποθεσία Χάρτης
+image_gallery: Image Gallery
+gallery: Gallery
+summary: Περίληψη
+overview: Επισκόπηση
+address: Διεύθυνση
+message: μήνυμα
+email_subject: ηλεκτρονικού ταχυδρομείου Θέμα
+all: Όλα
+contact_us: Επικοινωνήστε μαζί μας
+featured_video: Προτεινόμενα βίντεο
+embed_video_url: embeded Βίντεο Url
+email_tracker: Email Tracker
+bulk_email: Μαζική Email
+advanced_filters: Σύνθετα φίλτρα
+result: Αποτέλεσμα
+payment_notification: Θα έχετε την ευκαιρία να κάνετε μια πληρωμή. Ένα μήνυμα ηλεκτρονικού ταχυδρομείου αποστέλλεται στο email σας. Μπορείτε να δημιουργήσετε αντίγραφα σε αυτό το βήμα ανά πάσα στιγμή από τον σύνδεσμο σε αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου.
+confirmation: Επιβεβαίωση
+tags: Ετικέτες
+zip_code: Ταχυδρομικός Κώδικας
+embed_preview: Ενσωματώστε Προεπισκόπηση
+login: Είσοδος
+post_not_found: Δημοσίευση δεν βρέθηκε
+view_more: Δείτε περισσότερα
+choose_a_package: Επιλέξτε ένα Πακέτο
+choose_feature_package: Επιλέξτε ένα πακέτο χαρακτηριστικό
+no_package_found: Όχι Πακέτο βρέθηκαν
+days: μέρες
+posts: Δημοσιεύσεις
+change: Αλλαγή
+subscribe: Εγγραφή
+image: Εικόνα
+view_on_map: Δείτε στον χάρτη (Auto συμπληρώστε Lat lang)
+create: Δημιουργία
+basic_info: Βασικές Πληροφορίες
+send: Αποστολή
+all_email_to_users: όλα τα μηνύματα σε χρήστες
+email_detail: ηλεκτρονικού ταχυδρομείου Λεπτομέρειες
+change_package: Αλλαγή Πακέτο
+bank_transfer: Τραπεζική Κατάθεση
+contact_subject: Επικοινωνία Email
+payment_finish_title: πληρωμής Πλήρης
+payment_renew_title: πληρωμή Πλήρης
+payment_finish_text: Η πληρωμή σας έχει ολοκληρωθεί. Μόλις λάβαμε την επιβεβαίωση από το paypal θα ενεργοποιηθεί ο λογαριασμός σας
+payment_renew_text: πληρωμή σας έχει ολοκληρωθεί. Μόλις λάβαμε την επιβεβαίωση από το paypal απολογισμό σας θα είναι ανανεωμένο
+payment_cancel_title: Πληρωμής Ακύρωση
+payment_cancel_text: πληρωμής σας ακυρώνεται
+feature_payment_finish: πληρωμή σας έχει ολοκληρωθεί. Μόλις λάβουμε την επιβεβαίωση από paypal, περιουσία σας θα πρέπει να εμφανίζεται.
+feature_payment_cancel: Η πληρωμή σας έχει ακυρωθεί.
+selected_package: Επιλεγμένα Πακέτο
+signup_with_social_account: Εγγραφή με τους κοινωνικούς λογαριασμό
+password: Κωδικός
+confirm_password: Επιβεβαίωση κωδικού πρόσβασης
+all_posts: όλα τα μηνύματα
+no_posts: Καμία δημοσίευση
+title: Τίτλος
+description: Περιγραφή
+status: Κατάσταση
+actions: Δράσεις
+action: Δράση
+type: Τύπος
+type_something: Τύπος κάτι
+content: Περιεχόμενο
+featured_image: Προτεινόμενα Εικόνα [min 300x226]
+category: κατηγορίες αυτοκινήτων
+all_categories: Όλες οι κατηγορίες αυτοκινήτων
+edit_category: Επεξεργασία κατηγορία
+new_category: Νέα κατηγορία αυτοκινήτων
+parent: Μητρικής
+edit: Επεξεργασία
+delete: Διαγραφή
+name: Όνομα
+save: Αποθήκευση
+no_parent: Κανένας γονιός δεν
+edit_email_template: Επεξεργασία προτύπου email
+select_template_file: Επιλέξτε το αρχείο προτύπου
+subject: Θέμα
+body: σώματος
+available_variables: Διαθέσιμο μεταβλητές
+select_language: Επιλέξτε Γλώσσα
+select_language_file: αρχείο Επιλέξτε τη γλώσσα
+edit_as_new: Επεξεργασία ως νέα
+language: γλώσσα
+add_another: Προσθήκη και άλλου
+export_to_file: Εξαγωγή σε αρχείο
+import_from_file: Εισαγωγή από αρχείο
+auto_translator: αυτόματης μεταφραστής
+from_lang: Από lang
+target_lang_full_name: στόχος lang πλήρες όνομα
+target_lang_short_name: στόχος lang σύντομο όνομα
+create_new_package: Δημιουργία νέου πακέτου
+price: τιμή
+ask_for_price: Ρωτήστε τιμή
+maximum_post_by_user: μέγιστη δημοσιεύσεων από τον χρήστη
+expiration_time: χρόνο λήξης (μέρες)
+create_package: Δημιουργία πακέτου
+edit_package: πακέτου Επεξεργασία
+update_package: πακέτο Ενημέρωση
+add_packages:Προσθέστε πακέτα
+all_packages: Όλα τα πακέτα
+no_packages: δεν υπάρχουν πακέτα
+options: Επιλογές
+all_pages: Όλες οι σελίδες
+no_pages: Δεν υπάρχουν σελίδες που
+manage_menu: Διαχειριστείτε μενού
+menu_title: Μενού τίτλου
+menu_alias: Μενού ψευδώνυμο
+show_in_menu: Εμφάνιση στο μενού
+page_layout: Σελίδα διάταξη
+content_from: Περιεχόμενο από
+url: το URL
+seo_options: επιλογές SEO
+meta_description: Meta Περιγραφή
+key_words: Λέξεις κλειδιά
+crawl_after: ανίχνευσης μετά (ημέρες)
+all_plugins: Όλα τα plugins
+no_plugins: Δεν plugins
+name_and_version: Όνομα και έκδοση
+change_password: Αλλαγή κωδικού πρόσβασης
+current_password: Ο τρέχων κωδικό
+new_password: Νέος κωδικός πρόσβασης
+retype_password: Πληκτρολογήστε ξανά κωδικό
+password_reset_info_msg: Παρακαλούμε Ορισμός Πρώτη Νέα κωδικό σας
+profile_picture: Προφίλ Φωτογραφία
+username: Όνομα
+email: Email
+first_name: Όνομα
+last_name: Επώνυμο
+gender: Φύλο
+phone: Τηλέφωνο
+company_name: Όνομα Εταιρίας
+about_me: Σχετικά με μένα
+facebook_account: λογαριασμό στο Facebook
+twitter_account: Twitter λογαριασμό
+linkedin_account: Linkedin λογαριασμό
+gp_account: Google+ λογαριασμό
+account_msg: Παρακαλώ εισάγετε το σύνδεσμο, χωρίς το http //
+web_email_settings: Web Ρυθμίσεις Email
+contact_email: Επικοινωνία Email
+webadmin_name: WebAdmin Όνομα
+webadmin_email: Webadmin Email
+update: Ενημέρωση
+upload: Ανεβάστε
+site_settings: Ρυθμίσεις τοποθεσίας
+site_title: ιστοσελίδας Τίτλος
+footer_text: Τελικοί Κείμενο
+site_logo: ιστοσελίδας Logo
+site_language: Γλώσσα
+site_text_direction: ιστοσελίδας κατεύθυνσης κειμένου
+per_page: Σελιδοποίηση ανά σελίδα
+default_page_layout: Προεπιλογή Διάταξη σελίδας
+tracking_code: κώδικα παρακολούθησης
+smtp_email_settings: SMTP Email Ρυθμίσεις
+smtp_email: SMTP ηλεκτρονικού ταχυδρομείου
+smtp_host: SMTP Host
+smtp_port: SMTP Port
+smtp_timeout: SMTP Χρονικό όριο
+smtp_user: SMTP χρήστη
+smtp_password: SMTP τον κωδικό
+generate_site_map: Δημιουργία site map
+sitemap_info_msg: Σημείωση: Παρακαλούμε να επιλέξετε ποια θέλετε να συμπεριληφθούν στο sitemap XML. Μετά την επιτυχή sitemap.xml γενιά έχει αποθηκευτεί κάτω από τον κατάλογο ρίζας. Μπορείτε επίσης να επεξεργαστείτε αυτό το αρχείο για συμπεριλαμβανομένης και της δικής σας διευθύνσεις URL.
+pages: Σελίδες
+blog_posts: θέσεις Blog
+articles: Άρθρα
+blog_post: Blog Post
+blog: Blog μετά
+article: το άρθρο
+news: News
+view_xml: Επισκόπηση XML
+create_xml: Δημιουργία XML
+manage_backups: Διαχείριση αντιγράφων ασφαλείας
+create_sql_backup: Δημιουργία αντιγράφων ασφαλείας του SQL
+create_image_backup: Δημιουργία αντιγράφων ασφαλείας Image
+restore: Restore
+download: Κατεβάστε το
+dashboard: ταμπλό
+overview_stats_more: Επισκόπηση, στατιστικά και Περισσότερα
+visit_site: Επισκεφτείτε τον χώρο
+logout: Αποσύνδεση
+themes: Θέματα
+locations: Περιοχές
+paypal_settings: Paypal Ρυθμίσεις
+payment_history: Ιστορικό πληρωμών
+profile: Προφίλ
+packages: Πακέτα
+widgets: Widgets
+all_widgets: Όλες οι Widgets
+widget_positions: Θέσεις Widget
+blog_news_article:Blog / Νέα / Το άρθρο
+new_post: New Post
+pages_and_menu: Σελίδες & Μενού
+new_page: Νέα σελίδα
+menu: μενού
+system: Σύστημα
+manage_languages: Διαχείριση Γλώσσες
+auto_translate: Auto Μετάφραση
+edit_email_text: Επεξεργασία Email Κείμενο
+admin_settings: Web Ρυθμίσεις διαχειριστή
+sitemap: Site Map
+activate: Ενεργοποίηση
+active_theme: Ενεργό Θέμα
+available_themes: Διαθέσιμο Θέματα
+all_users: Όλοι οι χρήστες
+create_user: Δημιουργία χρήστη
+export_user_email: Emails Εξαγωγή χρηστών (.csv)
+profile_info: Προφίλ
+ban_forever: Μπαν Forever
+edit_page: Επεξεργασία σελίδας
+create_widget: Δημιουργία Widget
+widget_name: Widget Όνομα
+activate_deactivate: Ενεργοποίηση / De-Ενεργοποίηση
+show: Εμφάνιση
+available_widgets: Διαθέσιμο Widgets
+active_widgets: Active Widgets
+delete_warning: είστε βέβαιοι ότι θέλετε να διαγράψετε το
+yes: «Ναι»
+no: «Όχι»
+product_name: Περιεχόμενο
+fa_icon: FA τάξη εικονίδιο
+post_ad: Προσθέστε το αυτοκίνητό
+post_ad_subtitle: Βάλτε πληροφορίες αυτοκίνητο
+signin: σύνδεση ήταν
+signup: Εγγραφή
+signup_title: Δημιουργήστε το λογαριασμό σας
+not_found: Δεν βρέθηκαν
+purpose: Σκοπός
+purpose_buy: Αγοράστε
+purpose_sell: Πουλήστε
+select_category: Επιλέξτε Κατηγορία
+contact_for_price: Επικοινωνήστε για την τιμή
+address_info: Διεύθυνση Πληροφορίες
+general_info: Γενικές Πληροφορίες
+upload_later_msg: Θα είστε σε θέση να φορτώσετε γκαλερί φωτογραφιών και βίντεο url μετά τη δημιουργία των υστέρων
+user_panel: πάνελ χρήστη
+put_as_comma_seperated: θέσει ως (,) κόμμα sperated
+added: Προστέθηκε
+location: Τοποθεσία
+views: Προβολές
+package_type: Τύπος
+post_package: δημοσίευσης πακέτο
+featured_package: Προτεινόμενα πακέτο
+both_package: Δημοσίευση και χαρακτήρισε
+select_package: Επιλέξτε το πακέτο
+package_created: πακέτο δημιουργήθηκε
+package_updated: πακέτο ενημέρωση
+slider: Slider
+add_new: Προσθήκη νέου
+new_slide: νέα διαφάνεια
+update_slide: Ενημέρωση διαφάνεια
+save_order: Save προκειμένου
+slider_sort_instruction: Μπορείτε να σύρετε drop για να ταξινομήσετε τις γραμμές του πίνακα. Μετά τη διαλογή αποθηκεύσετε το σκοπό
+search: Αναζήτηση
+results: Αποτελεσμάτων
+location_on_map: Τοποθεσία στο χάρτη
+contact_mode: Επικοινωνία λειτουργία
+reset: Reset
+contact: Επικοινωνήστε με
+default_site_view: θέα Προεπιλογή ιστοσελίδα
+type_your_message: Πληκτρολογήστε το μήνυμά σας εδώ ..
+mail_sent: Mail Sent
+search_classifieds: αναζήτησης μεταχειρισμένων αυτοκινήτων
+advanced_search: Σύνθετη Αναζήτηση
+narrow_down_your_search: Περιορίστε την αναζήτησή σας
+home: Αρχική
+print: Εκτύπωση
+remember_me: Να με θυμάσαι
+forgot_password: Ξεχάσατε τον κωδικό
+login_failed: Είσοδος απέτυχε
+login_to_your_account: Είσοδος στο Λογαριασμό σας
+register_your_account: Εγγραφή Ο Λογαριασμός σας
+male: Άνδρας
+female: Γυναίκα
+no_location_found: Δεν Τοποθεσία Βρέθηκαν
+state: μέλος
+ad_creation_error: Σφάλμα στην αγγελία δημιουργία! Παρακαλώ ελέγξτε.
+users: Οι χρήστες
+show_admin_user: Εμφάνιση διαχειριστή χρηστών
+send_email_to_owner: Αποστολή email στον ιδιοκτήτη του αυτοκινήτου
+categories: Κατηγορίες
+top_posts: Top Δημοσιεύσεις
+show_state_province: Εμφάνιση μέλος επαρχία
+package_settings: Ρυθμίσεις Πακέτο
+default_site_settings: προεπιλεγμένη τοποθεσία Ρυθμίσεις
+webadmin_settings: Webadmin Ρυθμίσεις
+banner_settings: Διαφήμιση Ρυθμίσεις
+max_price_for_search: Μέγιστη τιμή για την Αναζήτηση
+search_filters: Αναζήτηση Φίλτρα
+posts_per_page: Δημοσιεύσεις ανά σελίδα
+recent_posts: Πρόσφατες Αυτοκίνητα
+featured_posts: Προτεινόμενα Θέσεις
+top_locations: Δημοφιλείς Προορισμοί
+top_users: Top Χρήστες
+approve: Έγκριση
+make_featured: Κάντε χαρακτήρισε
+remove_featured: Αφαιρέστε χαρακτήρισε
+renew_featured: Ανανέωση χαρακτήρισε
+renew_package: Ανανεώστε το πακέτο
+no_renew_post_id: Μη έγκυρη ανανέωση των υστέρων id
+approve_payment: Έγκριση πληρωμής
+transaction: συναλλαγή
+transaction_id: αναγνωριστικό συναλλαγής
+post_id: Δημοσίευση id
+amount: Ποσό
+request_date: ημερομηνία Αίτημα
+expiration_date: ημερομηνία λήξης
+transaction_deleted: συναλλαγής διαγράφονται
+payment_approved: Πληρωμής εγκριθεί
+logged_in_as: Σύνδεση ως
+posted_on: Δημοσιεύτηκε για
+confirm_email_send: επιβεβαίωση e-mail send.Please ακολουθήστε τις οδηγίες από αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου.
+email_confirmed: Email επιβεβαιωθεί. Μπορείτε να συνδεθείτε τώρα
+email_confirmed_failed: επιβεβαίωση Email απέτυχε
+password_change_success: Κωδικός άλλαξε με επιτυχία
+email_sent_inbox:Ένα μήνυμα ηλεκτρονικού ταχυδρομείου αποστέλλεται σε σας inbox.Check αυτό το email.
+password_recovery_link_invalid: Ανάκτηση κωδικού πρόσβασης σύνδεσης δεν είναι έγκυρη
+user_updated: χρήστη Ενημερώθηκε
+user_deleted: χρήστη Καταργείται
+user_banned: χρήστη Αποκλεισμένο
+user_unbanned: χρήστη Κατάργηση αποκλεισμού του
+user_confirmed: χρήστη που βεβαιώθηκαν
+post_deleted: μετά Καταργείται
+post_updated: Δημοσίευση Ενημερώθηκε
+post_created: Δημοσίευση Δημιουργήθηκε
+post_featured: Δημοσίευση χαρακτήρισε
+data_inserted: δεδομένων εισάγεται
+data_updated: Δεδομένων Ενημέρωση
+feature_renewed: Χαρακτηριστικό Ενημερώθηκε
+post_feature_removed: Δημοσίευση Χαρακτηριστικό Αφαιρέθηκε
+post_approved: Δημοσίευση Εγκρίθηκε
+invalid_post: Άκυρη Δημοσίευση
+email_sent: Email Sent
+settings_updated: Ρυθμίσεις Ενημερώθηκε
+package_removed: Πακέτο Αφαιρέθηκε
+page_updated: Σελίδα Ενημέρωση
+page_created: Page Δημιουργήθηκε
+page_deleted: Σελίδα Διαγράφεται
+menu_updated: Μενού Ενημερώθηκε
+site_map_generation_success: χάρτης παράγεται με επιτυχία.
+select_option: Επιλέξτε ή περισσότερες επιλογές.
+image_backup_created: Εφεδρική εικόνα Δημιουργήθηκε
+language_translated: Γλώσσα Μεταφράστηκε
+unable_to_write_file: Δεν είναι δυνατή η εγγραφή του αρχείου
+backup_deleted: αντιγράφων ασφαλείας Διαγραφή
+database_restored: βάσης δεδομένων επαναφορά
+theme_activated: θέμα Ενεργός
+user_created: χρήστης δημιουργήσει
+widget_position_updated: Widget θέση Updated
+widget_created: Widget Δημιουργήθηκε
+widget_data_updated: Widget Δεδομένων Ενημέρωση
+unable_to_write_widget: Αδύνατη η εγγραφή widget
+post_created_and_published: Δημοσίευση δημιούργησε και δημοσίευσε
+post_created_approval: Δημοσίευση δημιουργήθηκε και η αναμονή για το admin έγκριση
+post_package_renewed: Δημοσίευση πακέτου ανανεώνεται
+payment_finish: φινίρισμα Πληρωμής
+payment_cancelled: Η πληρωμή ακυρώθηκε
+admin_change_pass_help: αφήστε κενό αν δεν υπάρχει αλλαγή χρειάζεται
+go_to_paypal: Μετάβαση στην Paypal
+login_with_google: Σύνδεση με την Google
+login_with_facebook: Σύνδεση με Facebook
+load_more_recent_posts: Τοποθετήστε Περισσότερες Πρόσφατες Αυτοκίνητα
+load_more_featured_posts: Τοποθετήστε Περισσότερα Προτεινόμενα Αυτοκίνητα
+register_for_new_account: Εγγραφή για νέο λογαριασμό
+site_map: Site Map
+show_site_map: Προβολή site map
+service: Υπηρεσία
+features: Χαρακτηριστικά
+about: Σχετικά
+view_posts: Προβολή των δημοσιεύσεων
+see_full_documentation: Δείτε την πλήρη τεκμηρίωση
+select_city: Επιλέξτε την πόλη
+parallax_slider: Parallax Slider
+all_slides: Όλες οι διαφάνειες
+no_slide: Δεν διαφάνεια
+slide_order: προκειμένου Slide
+edit_profile: προφίλ Επεξεργασία
+post_price_settings: ρυθμίσεων τιμή Δημοσίευση
+enable_post_pricing: Ενεργοποίηση μετά την τιμολόγηση
+enable_paypal_transfer: Ενεργοποίηση paypal
+enable_bank_transfer: Ενεργοποίηση τραπεζικό έμβασμα
+bank_transfer_instruction_for_posts: Τραπεζική Κατάθεση Οδηγίες
+featured_price_settings: Προτεινόμενα ρυθμίσεις των τιμών
+enable_featured_pricing: Ενεργοποίηση χαρακτήρισε την τιμολόγηση
+enable_featured_paypal: Ενεργοποίηση paypal
+enable_featured_bank_transfer: Ενεργοποίηση τραπεζική μεταφορά
+bank_transfer_instruction_for_featured_posts: Τραπεζική μεταφορά οδηγιών
+bank_currency_settings: Τράπεζας ρυθμίσεις νόμισμα
+bank_currency: Τράπεζα νόμισμα
+use_same_as_paypal_currency: Χρησιμοποιήστε ίδιο με paypal νόμισμα
+admin: Διαχειριστής
+re_password: Πληκτρολογήστε ξανά τον κωδικό πρόσβασης
+explain_widget_position: Εξηγήστε widget θέσεις
+post: Δημοσίευση
+post_renew: Δημοσίευση Ανανέωση
+feature: Χαρακτηριστικό
+feature_renew: Χαρακτηριστικό Ανανεώστε
+payment_for: πληρωμή για
+select_country: Επιλέξτε Χώρα
+select_one: Επιλέξτε ένα
+video_url: vidoe URL
+confirm_payment:Επιβεβαίωση πληρωμής
+package_title: Πακέτο Τίτλος
+number_of_featured_days: Αριθμός ημερών να εμφανίζεται
+no_of_days: Αριθμός ημερών
+any_city: Όλες οι πόλεις
+any_category: Κάθε Κατηγορία
+product_admin_panel: Carbiz διαχειριστή
+username_or_email: Όνομα Χρήστη ή Email
+car_detail: λεπτομέρεια Αυτοκίνητο
+posts_by: μηνύματα του
+featured: Επιλεγμένες
+edit_user: χρήστη Επεξεργασία
+the_field_is_required: τομέα του% s.
+valid_email: Τομέα του% s πρέπει να περιέχει μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου.
+min_length: Τομέα του% s πρέπει να είναι τουλάχιστον% s χαρακτήρες.
+numeric: Τομέα του% s πρέπει να περιέχει μόνο αριθμούς.
+matches: Τομέα του% s δεν ταιριάζει με το οπτικό πεδίο του% s.
+greater_than: Πεδίο Η% s πρέπει να περιέχει έναν αριθμό μεγαλύτερο από% s.
+agree_terms: Έχω διαβάσει% s όρους και προϋποθέσεις% s
+must_accept_terms: Πρέπει να αποδεχτείτε τους Όρους και Προϋποθέσεις
+dont_have_permission: Δεν έχετε δικαίωμα πρόσβασης σε αυτή τη σελίδα
+email_already_in_use: Email ήδη σε χρήση
+username_already_in_use: Όνομα Χρήστη ήδη σε χρήση
+current_password_not_matched: Τρέχων κωδικός πρόσβασης δεν ταιριάζει με
+email_or_password_not_mathed: E-mail ή τον κωδικό πρόσβασης δεν ταιριάζει
+email_not_matched: ηλεκτρονικού ταχυδρομείου δεν ταιριάζει
+account_not_confirmed: ο λογαριασμός δεν έχει επιβεβαιωθεί
+all_locations: Όλες οι περιοχές
+add_country: Προσθέστε τη χώρα
+add_state: Προσθήκη κατάσταση
+add_city: Προσθήκη πόλης
+no_locations: αριθ θέσεις
+banner_type: Banner τύπου
+bg_image: ανασκόπηση εικόνα από
+unique_alias: το πεδίο του% s πρέπει να είναι μοναδικό
+error_occurred: Παρουσιάστηκε σφάλμα. Παρακαλώ ελέγξτε τα παρακάτω πεδία
+user_profile: προφίλ των χρηστών
+user_email: χρήστη ηλεκτρονικού ταχυδρομείου
+target_lang_name: Γλώσσα στόχος
+no_emails: Δεν emails
+to: Για
+classified_settings: Μικρές Ρυθμίσεις
+publish_posts_directly: Δημοσίευση δημοσιεύσεις
+system_currency: νόμισμα συστήματος
+enable_signup: Ενεργοποίηση εγγραφής
+if_package_expired: Εάν το πακέτο λήξει
+do_not_hide: Μην κρύβετε
+hide: Απόκρυψη
+show_price_like: μορφή Τιμή
+facebook_app_settings: ρυθμίσεις Facebook app
+enable_facebook_login: Ενεργοποίηση σύνδεσης facebook
+fb_app_id: Facebook app id
+fb_secret_key: Facebook μυστικό κλειδί
+comment_settings: ρυθμίσεις σχόλιο
+enable_comment: Ενεργοποίηση σχολιάσει
+disqus_shortname: Disqus SHORTNAME
+sandbox_mode: Sandbox Λειτουργία
+item_name: Στοιχείο όνομα
+paypal_email: Paypal email
+currency: νομίσματος
+finish_url: Τέλος url
+cancel_url: Ακύρωση url
+menu_background: Μενού φόντο
+menu_text_color: χρώμα κειμένου Μενού
+activated_menu_color: Ενεργός μενού χρώμα
+top_bar_bg: Top γραμμή bg
+activated_menu_text_color: Ενεργός μενού χρώματος κειμένου
+latitude: Γεωγραφικό πλάτος
+longitude: Γεωγραφικό μήκος
+map_zoom: Χάρτης zoom
+search_panel_settings: ρυθμίσεις του πίνακα αναζήτησης
+search_panel_bg_color: πίνακα αναζήτησης χρωμάτων bg
+show_background_image: Εμφάνιση εικόνα φόντου
+active_widget_position: Active θέση widget
+upload_and_install: Ανεβάστε και να εγκαταστήσετε
+install_updates: την εγκατάσταση ενημερωμένων εκδόσεων / Θέματα / Πρόσθετα / Widgets
+confirmation_email: Επιβεβαίωση Email
+recovery_email: Recovery Email
+signup_notification_email: Εγγραφή Ειδοποίηση E-mail
+payment_confirmation_email: Επιβεβαίωση πληρωμής Email
+click_and_edit: Επιλέξτε ένα πρότυπο αρχείο και κάντε κλικ στην επιλογή Επεξεργασία]
+google_analytics_settings: AnalyticsSettings Google
+default_seo_settings: προεπιλεγμένες ρυθμίσεις SEO
+find_us_on_facebook: Βρείτε μας στο Facebook
+category_featured_posts: Προτεινόμενα θέσεις
+load_more_posts: Τοποθετήστε περισσότερα
+home_page_title: Αναζήτηση Αγοράστε Πουλήστε Cars
+no_posts_found: Δεν υπάρχουν αναρτήσεις
+type_anything: Πληκτρολογήστε τίποτα
+chosen_not_found: Ωχ, τίποτα δεν βρέθηκε!
+rating_asc: Βαθμολογία Αύξουσα
+rating_desc: Βαθμολογία Φθίνουσα
+id_desc: Κωδικός Φθίνουσα
+id_asc: Κωδικός Φθίνουσα
+price_range: Εύρος Τιμής
+additional_features: Πρόσθετα χαρακτηριστικά
+add_more_fields: Προσθέστε περισσότερα πεδία
+remove: Αφαιρέστε
+distance_around_my_position: Αναζήτηση ακτίνα
+show_distance_in: Εμφάνιση Απόσταση σε
+car_listed: αυτοκίνητα Δημοσιεύτηκε
+show_street_view: Δείτε το Street View
+list_car: Λίστα αυτοκινήτου
+search_cars: αναζήτησης μεταχειρισμένων αυτοκινήτων
+top_cars: Top Cars
+featured_cars: Προτεινόμενα Αυτοκίνητα
+content_settings: Ρυθμίσεις περιεχομένου
+hide_email: Απόκρυψη e-mail
+hide_phone: Απόκρυψη τηλεφώνου
+review: κριτική
+comment: σχόλιο
+submit_review: Υποβολή Αξιολόγησης
+rating: Αξιολόγηση
+review_alert: Πρέπει να συνδεθείτε για να υποβάλετε αξιολόγηση.
+new_car: Προσθέστε το αυτοκίνητο
+identify_my_location: Προσδιορίστε τη θέση μου
+data_deleted: δεδομένα διαγράφονται
+recent_reviews: πρόσφατες αξιολογήσεις
+view_all_reviews: Δείτε όλα τα σχόλια
+review_deleted: Επανεξέταση Διαγράφεται
+review_detail: Λεπτομέρεια
+all_reviews: Όλες οι κριτικές
+monday: Δευτέρα
+tuesday: Τρίτη
+wednesday: Τετάρτη
+thursday: Πέμπτη
+friday: Παρασκευή
+saturday: Σάββατο
+sunday: Κυριακή
+opening_hour: Άνοιγμα ώρα
+closed: κλεισίματος
+review_submitted: κριτική υποβληθεί
+social_links: Κοινωνικής συνδέσεις
+upgrade_browser: Αναβάθμιση του προγράμματος περιήγησης
+please_upgrade_your_browser: αναβαθμίστε το πρόγραμμα περιήγησής σας
+car: αυτοκίνητο
+introduction: Εισαγωγή
+terms: Όροι και συνθήκες
+email_not_found: Email δεν βρέθηκε
+city_dropdown: Πόλη αναπτυσσόμενο
+published: Δημοσιεύθηκε
+publish: Δημοσιεύστε
+drafted: Συνέταξε
+draft: σχέδιο
+from: Από
+send_bulk_email: Αποστολή Bulk Email
+ive_read_the: Έχω διαβάσει το
+title_city_category: τίτλο, την πόλη ή την κατηγορία
+dt_first: Πρώτη
+dt_last: Τελευταία
+dt_next: Επόμενο
+dt_prev: Προηγούμενο
+dt_no_data: Δεν υπάρχουν διαθέσιμα στον πίνακα δεδομένων
+dt_show_empty: Εμφάνιση 0 έως 0 από 0 εγγραφές
+dt_no_match: Δεν υπάρχουν αρχεία που να ταιριάζουν βρέθηκαν
+dt_search: αναζήτησης
+dt_processing: Επεξεργασία ...
+dt_loading: Φόρτωση ...
+dt_info: Εμφάνιση _START_ να _END_ των καταχωρήσεων _TOTAL_
+dt_filter_info: (φιλτράρονται από το σύνολο των _MAX_ καταχωρήσεις)
+dt_show_entries: Δείτε τις καταχωρήσεις _MENU_
+get_directions: Πάρτε κατεύθυνση
+review_not_submitted : έχετε ήδη μια κριτική
+debug_email : Debug email
+email_to : Αποστολή με
+report_the_car : Αναφέρετε αυτό το αυτοκίνητο
+reported : αναφέρθηκαν
+already_reported : ήδη αναφερθεί
+reported_post : αναφέρθηκαν αυτοκίνητα
+all_reported_posts : αναφέρθηκαν αυτοκίνητα
+report: Αναφορά
+assigned_to: Έσοδα για να
+select_assigned_to: Επιλέξτε το χρήστη
+css_compression: συμπίεσης Css
+gallery_notes: Μπορείτε να σύρετε drop για να αναδιατάξετε τις φωτογραφίες γκαλερί. Οι φωτογραφίες δεν είναι εκ νέου μεγέθους.
+video_notes: Youtube ή Vimeo url
+post_expiration_notification: μετά την κοινοποίηση λήξης
+days_left: Ημέρες που απομένουν
+AM: AM
+PM: PM
+upload_invalid_min_dimensions: Η διάσταση της εικόνας είναι πολύ χαμηλή
+view_on_front: Δείτε στο μπροστινό μέρος
+clear_unused_img: που δεν έχει χρησιμοποιηθεί εικόνες Clear
+unused_files_found: Αχρησιμοποίητα αρχεία που βρέθηκαν
+unused_images_cleared: Αχρησιμοποίητα εικόνες εκκαθαριστεί
+unused_info_msg: Αυτή η λειτουργία διαγράφει μόνο τις εικόνες που δεν χρησιμοποιούνται από τα αυτοκίνητα, τους χρήστες, τις κατηγορίες, τις σελίδες, blogs. Ψάχνει μέσω της βάσης δεδομένων για την εύρεση images.So αν ανεβάσει το χέρι τις εικόνες με το χέρι και τα χρησιμοποίησε στο πλαίσιο του κώδικα μπορεί να διαγραφεί.
+no_unused_img: Δεν αχρησιμοποίητο εικόνα βρέθηκε
+search_panel_filter_type: τύπος φίλτρου
+basic_options: Βασικές επιλογές
+advanced_options: Advance επιλογές
+sorting_order: Σειρά ταξινόμησης
+car_listed_on: αυτοκινήτων που απαριθμούνται στο
+car_listed_under: αυτοκίνητο που απαριθμούνται στο
+all_sub_categories: Όλες οι υποκατηγορίες
+no_sub_categories: Δεν υποκατηγορίες
+hide_my_email : Απόκρυψη e-mail μου
+disable_email_contact: κλειστό επαφών
+enable_review: Ενεργοποίηση επανεξέταση
+disable_google_street_view: Απενεργοποιήστε το google θέα στο δρόμο
+location_chorome_msg: υπηρεσιών Τοποθεσία από την Google δεν είναι διαθέσιμο για μη sites SSL (μόνο στο πρόγραμμα περιήγησης Chrome). Θέλετε να χρησιμοποιήσετε τη διεύθυνση IP σας για να πάρει τη θέση σας; NB- Το αποτέλεσμα μπορεί να μην είναι ακριβώς ίδιο με το Google
+send_email_to_users: Αποστολή e-mail σε χρήστες
+show_banner: Εμφάνιση banner
+hide_my_phone: Απόκρυψη τηλέφωνό μου
+kms: χλμ
+miles: Miles
+logo_text: Λογότυπο Κείμενο
+logo_type: Λογότυπο Τύπος
+logo_text_color: χρώμα λογότυπο κείμενο
+Jan: Ιαν
+Feb: Φεβ
+Mar: Μαρ
+Apr: Απρ
+May: Μαϊ
+Jun: Ιουν
+Jul: Ιουλ
+Aug: Αυγ
+Sep: Σεπ
+Oct: Οκτ
+Nov: Νοεμ
+Dec: Δεκ
+show_search_panel: Εμφάνιση πλαισίου αναζήτησης
+delete_selected: Διαγραφή επιλεγμένων
+map_api_key: gmap api κλειδί
+pricing: Τιμολόγηση
+post_package_instruction: Έχουμε τα ακόλουθα πακέτα για την απόσπαση ενός αυτοκινήτου στην ιστοσελίδα μας
+feature_package_instruction: έχουμε τα ακόλουθα πακέτα για την κατασκευή ενός αυτοκινήτου χαρακτήρισε
+MENU: MENU
+gplus_app_settings: ρυθμίσεις εφαρμογής Google+
+auth_redirect_url: Εξουσιοδοτημένο URL ανακατεύθυνσης
+enable_gplus_login: Ενεργοποίηση Google+ login
+gplus_client_id: id πελάτη Google+
+gplus_client_secret: πελάτη Google+ μυστικό
+how_to_get_gplus_api: Πώς να πάρει Google+ id πελάτη και μυστικό
+gallery_upload_limit: Gallery ανεβάσετε περιορίσει
+you_can_upload_max: Μπορείτε να ανεβάσετε το μέγιστο
+gallery_photos: φωτογραφίες Γκαλερί
+advanced_options_with_country_state: Advance επιλογή με τη χώρα και την κατάσταση
+select_state: Επιλέξτε κατάσταση
+recent_posts_order: Πρόσφατες δημοσιεύσεις παραγγείλετε
+featured_posts_order: παραγγείλετε Επιλεγμένες δημοσιεύσεις
+default_posts_order: Προεπιλογή δημοσιεύσεις παραγγελία
+ASC: Αύξουσα
+DESC: Φθίνουσα
+RANDOM: Τυχαία
+useremail: ηλεκτρονικού ταχυδρομείου των χρηστών
+enable_adblocker_alert: Ενεργοποίηση συναγερμού Adblock
+adblock_detected: Adblock Εντοπίστηκε
+adblock_msg: Παρακαλούμε disbale Adblock και ανανεώστε ξανά τη σελίδα
+enable_cookie_policy_popup: Πολιτική Cookies Popup
+cookie_policy_page_url: Cookie σελίδα πολιτικής url
+cookie_policy: Πολιτική Cookies
+cookie_policy_alert: Αυτό το site χρησιμοποιεί cookies. Εάν συνεχίσετε να χρησιμοποιείτε αυτή την ιστοσελίδα, συμφωνείτε με τη χρήση των cookies.
+read_more: Διαβάστε περισσότερα
+i_agree: Συμφωνώ
+instagram: Instagram
+newsletter_subscription: Πάρτε το ενημερωτικό δελτίο
+your_email: ηλεκτρονικού ταχυδρομείου σας
+email_saved: E-mail αποθηκεύονται στο newsletter
+send_newsletter: Αποστολή Ενημερωτικό Δελτίο
+unsubscribe: Διαγραφή
+to_unsubscribe: Κάντε κλικ σε αυτό το σύνδεσμο αν θέλετε να διαγραφείτε από την υπηρεσία αυτή
+successfully_unsubscribed: Είστε τώρα εγγραφή σας από την υπηρεσία ενημερωτικού δελτίου
+export_user_phone: τηλεφώνου του χρήστη κατά την εξαγωγή
+enable_blog_comment: Ενεργοποίηση σχόλιο στο blog
+fb_blog_app_id: Fb app id για το blog
+disqus_blog_shortname: Disqus σύντομο όνομα για την blog
+sample_page: σελίδα Δείγμα
+senders_phone: του τηλεφώνου του αποστολέα
+alias: Ψευδώνυμο
+atleast_a_country_city: πρέπει να εισάγετε τουλάχιστον χώρα και την πόλη
+email_not_shared: Φαίνεται ότι η ταυτότητα facebook δεν έχουν την άδεια να μοιραστούμε το email. Αλλάξτε ή οδηγό άλλο λογαριασμό ή απλά να εγγραφείτε μέσω email.
+votes: Ψηφοφορίες
+food_corner: Τροφίμων γωνία
+show_map_instead_of_street_view: Χάρτης αντί της οδού δείτε
+post_published_email: Δημοσίευση δημοσιεύθηκε ηλεκτρονικού ταχυδρομείου
+max_upload_file_size: Μέγιστο μέγεθος αποστολής (KB)
+site_mode: Τόπος λειτουργία
+maintenance_msg: του δικτυακού τόπου υπό συντήρηση
+brandmodels: μοντέλα Μάρκα
+add_brand: Προσθήκη μάρκα
+add_model: Προσθήκη μοντέλο
+no_brandmodels: Δεν brandmodels
+sel_brand: Επιλέξτε Μάρκα
+carconditions: συνθήκες αυτοκινήτου
+STATUS_DELETED: Καταργείται
+STATUS_ACTIVE: Active
+STATUS_PENDING: εκκρεμότητα
+STATUS_PAYMENT_PENDING: εκκρεμείς πληρωμές
+STATUS_EXPIRED: Έληξε
+USER_PENDING: Εν αναμονή
+USER_BANNED: Αποκλεισμένο
+USER_ACTIVE: Ενεργά
+car_options: Επιλογές αυτοκινήτου Config
+transmissions: τύποι μετάδοσης
+convertible: Convertible
+coupe: Coupe
+hatchback: Hatchback
+luxury_car: Luxury Αυτοκίνητο
+sedan: Sedan
+sports_car: Sports Αυτοκίνητο
+suv: SUV
+trucks: Φορτηγά
+van: Van
+customfields: προσαρμοσμένα πεδία
+customfield: του προσαρμοσμένου πεδίου
+sel_fieldtype: Επιλέξτε τον τύπο πεδίου
+text: Κείμενο
+textarea: περιοχή κειμένου
+richtext: εμπλουτισμένου κειμένου
+select: Αναπτυσσόμενο
+radio: Radio
+checkbox: Πλαίσιο ελέγχου
+is_required: Απαιτείται
+field_added: Προσαρμοσμένο πεδίο πρόσθεσε
+field_updated: Προσαρμοσμένο πεδίο ενημερώνεται
+field_deleted: Προσαρμοσμένη τομέα διαγραφεί
+field_order_updated: ενημέρωση προκειμένου πεδίο.
+field_sort_help: ^ Μπορείτε να σύρετε drop για να ταξινομήσετε τις γραμμές του πίνακα. Μετά τη διαλογή σώσει τη σειρά
+help_url_slug: Βάλτε μια μοναδική τιμή (θα χρησιμοποιηθεί στο url)
+NA: N / A
+condition_new: New
+condition_used: Μεταχειρισμένα
+condition_pre_owned: Μεταχειρισμένα
+condition_recondition: επιδιορθωμένες
+condition_other: Άλλα
+year: Σωματότυπος
+brand: αυτοκινήτου Μάρκα
+model: Μοντέλο
+mileage: Χιλιόμετρα
+transmission: Μεταφοράς
+condition: Κατάσταση
+fuel_type: Τύπος καυσίμου
+fueltypes: Τύποι Καυσίμου
+gas: Αερίου
+diesel: Disel
+petrol: Βενζίνη
+octane: Octane
+electricity: ηλεκτρικού ρεύματος
+others: Άλλα
+select_condition: Επιλέξτε Κατάσταση
+select_transmission: Επιλέξτε Μετάδοση
+automatic: Αυτόματη
+manual: Χειροκίνητη
+semi_automatic: Ημι-Αυτόματο
+select_brand: Επιλέξτε Μάρκα
+select_year: Επιλέξτε Κατηγορία
+select_fuel_type: Επιλέξτε Τύπος καυσίμου
+url_slug: Url Slug
+registration_no: ΣΟΕΛ
+engine_size: Κυβικά
+help_engine_size: κινητήρα Μέγεθος (σε λίτρα)
+steering_type: Συντονιστική Τύπος
+help_steering_type: Επιλέξτε διευθύνουσα Πληκτρολογήστε
+safety_rating: Αξιολόγηση Ασφάλειας
+sel_safety_rating: Αξιολόγηση Επιλέξτε Ασφάλεια
+engine_type: μηχανών Τύπος
+help_engine_type: Επιλέξτε κινητήρας Τύπος
+no_of_seats: αριθμός θέσεων
+help_no_of_seats: αριθμός θέσεων
+gear_type: Gear Τύπος
+help_gear_type: Επιλέξτε Τύπος μηχανισμού
+new_brand: Νέα Brand
+brand_names: Brand Names
+new_model: νέο μοντέλο
+select_model: Επιλογή μοντέλου
+model_names: Μοντέλο Ονόματα
+mileage_unit: Χιλιόμετρα Μονάδα
+brand_model: Μάρκα και Μοντέλο
+help_text: κειμένου βοήθειας
+fieldtype: πεδίο Τύπος
+fieldname: πεδίο Όνομα
+comma_separated_help: Βάλτε ένα ή περισσότερα ονομάζεται ως «» (κόμμα) διαχωρίζονται. Όπως Newyork, Ντάλας, Αϊντάχο
+category_id: αυτοκινήτου Κατηγορία
+show_in_detail: Δείτε αναλυτικά σελίδα
+power_steering: τιμόνι
+manual_steering: Εγχειρίδιο συστήματος διεύθυνσης
+inline: Inline
+straight: Ευθεία
+vee: Βενεζουέλας
+flat: επίπεδης
+vr_w: VR & W
+other: Άλλα
+other_information: Άλλες πληροφορίες
+dual: Διπλή
+all_cars: Όλα τα Αυτοκίνητα
+reported_cars: Αναφέρθηκαν Αυτοκίνητα
+no_reviews: σχόλια ακόμα
+optional_info: προαιρετικό Πληροφορίες
+car_posts: Δημοσιεύσεις αυτοκινήτου
+featured_expiration_time: Προτεινόμενα χρόνο λήξης (μέρες)
+max_gallery_photos: Max φωτογραφίες γκαλερί
+gallery_limit: Gallery
+take_package: Πάρτε Πακέτο
+photos: φωτογραφίες
+mileage_range: Σειρά Χιλιόμετρα
+pls_share: Παρακαλώ μοιραστείτε την ιστοσελίδα μας
+facebook_page_name: FB Page Name
+google_plus_name: Όνομα Google+
+twitter_page_name: Twitter Όνομα Χρήστη
+normal: Κανονική
+free: Δωρεάν
+ultimate: Ultimate
+premium: Premium
+update_post: Update μετά
+Clear unused images: Clear αχρησιμοποίητο εικόνα

@@ -1,0 +1,824 @@
+---
+sign_in: Log ind
+sign_up: Opret
+agent_panel: Agent Panel
+admin_panel: Admin Panel
+country: Land
+state_province: Stat / provins
+city: by
+register: Registrer
+details: Detaljer
+view_all: Se alle
+order_by: Order By
+none: Ingen
+terms_and_conditions: Betingelser
+reg_success_message: registrering Din konto er vellykket. En e-mail blev sendt til din email. Følg denne e-mail for at aktivere din konto. Takket
+limit: Begræns
+usage: Anvendelse
+recover: Recover
+oops: Siden blev ikke fundet
+share_this: Del denne
+location_map: Location kort
+image_gallery: Billedgalleri
+gallery: Galleri
+summary: Oversigt
+overview: Oversigt
+address: Adresse
+message: Besked
+email_subject: Email Emne
+all: Alle
+contact_us: Kontakt os
+featured_video: Udvalgte Video
+embed_video_url: Embeded Video Url
+email_tracker: Email Tracker
+bulk_email: Bulk email
+advanced_filters: Avancerede filtre
+result: Resultat
+payment_notification: Du kommer til at lave en betaling. En e-mail er sendt til din email. Du kan sikkerhedskopiere til dette trin, når som helst fra linket på denne e-mail.
+confirmation: Bekræftelse
+tags: Tags
+zip_code: Zip Code
+embed_preview: Embed Eksempel
+login: Log
+post_not_found: Indlæg ikke fundet
+view_more: Se mere
+choose_a_package: Vælg en pakke
+choose_feature_package: Vælg en funktion pakke
+no_package_found: Ingen pakke fundet
+days: Dage
+posts: Indlæg
+change: Skift
+subscribe: Tilmeld
+image: Billede
+view_on_map: Vis på kort (Auto fylde Lat Lang)
+create: Opret
+basic_info: Basic Info
+send: Send
+all_email_to_users: alle e-mails til brugere
+email_detail: Email Detalje
+change_package: Skift Pakke
+bank_transfer: Bankoverførsel
+contact_subject: Kontakt E-mail
+payment_finish_title: Betaling Komplet
+payment_renew_title: betaling Complete
+payment_finish_text: Din betaling er gennemført. Så snart vi har modtaget bekræftelse fra PayPal din konto vil blive aktiveret
+payment_renew_text: Din betaling er gennemført. Så snart vi har modtaget bekræftelse fra PayPal din konto vil blive fornyet
+payment_cancel_title: Betaling Annuller
+payment_cancel_text: Din betaling bliver annulleret
+feature_payment_finish: Din betaling er gennemført. Så snart vi modtager bekræftelse fra PayPal, vil din ejendom blive præsenteret.
+feature_payment_cancel: Din betaling bliver annulleret.
+selected_package: Selected Pakke
+signup_with_social_account: Tilmeld med sociale konto
+password: Password
+confirm_password: Bekræft adgangskode
+all_posts: Alle indlæg
+no_posts: Ingen indlæg
+title: Titel
+description: Beskrivelse
+status: status
+actions: Handlinger
+action: Action
+type: Type
+type_something: Type noget
+content: indhold
+featured_image: Featured Image [min 300x226]
+category: Bil kategorier
+all_categories: Alle bil kategorier
+edit_category: Rediger kategori
+new_category: Ny bil kategori
+parent: Parent
+edit: Rediger
+delete: Slet
+name: Navn
+save: Gem
+no_parent: Ingen forældre
+edit_email_template: Rediger e-mail-skabelon
+select_template_file: Vælg skabelon fil
+subject: Emne
+body: Krop
+available_variables: Ledige variabler
+select_language: Vælg sprog
+select_language_file: Vælg sprog fil
+edit_as_new: Rediger som ny
+language: Sprog
+add_another: Tilføj en
+export_to_file: Eksporter til fil
+import_from_file: Importer fra fil
+auto_translator: Auto oversætter
+from_lang: fra Lang
+target_lang_full_name: Target lang fulde navn
+target_lang_short_name: Target lang kortnavn
+create_new_package: Opret ny pakke
+price: Pris
+ask_for_price: Spørg for pris
+maximum_post_by_user: Maximum indlæg af bruger
+expiration_time: udløb tid (dage)
+create_package: Opret pakke
+edit_package: Rediger pakke
+update_package: opdater pakke
+add_packages: Tilføj pakker
+all_packages: Alle pakker
+no_packages: Ingen pakker
+options: Indstillinger
+all_pages: Alle sider
+no_pages: Ingen sider
+manage_menu: Administrer menu
+menu_title: Menu Titel
+menu_alias: Menu alias
+show_in_menu: Show i menuen
+page_layout: Sidelayout
+content_from: Indhold fra
+url: Url
+seo_options: SEO muligheder
+meta_description: Meta beskrivelse
+key_words: Nøgleordene
+crawl_after: Crawl efter (dage)
+all_plugins: Alle plugins
+no_plugins: Ingen plugins
+name_and_version: navn og version
+change_password: Skift adgangskode
+current_password: Aktuel adgangskode
+new_password: Ny adgangskode
+retype_password: Skriv igen adgangskode
+password_reset_info_msg: venligst Først Indstil din nye adgangskode
+profile_picture: profilbillede
+username: Brugernavn
+email: Email
+first_name: Fornavn
+last_name: Efternavn
+gender: Køn
+phone: Telefon
+company_name: Firmanavn
+about_me: About Me
+facebook_account: Facebook-konto
+twitter_account: Twitter konto
+linkedin_account: Linkedin konto
+gp_account: Google+ konto
+account_msg: Indtast venligst linket, uden http //
+web_email_settings: Web E-mail-indstillinger
+contact_email: Kontakt Email
+webadmin_name: WebAdmin Navn
+webadmin_email: Webadmin Email
+update: Opdatering
+upload: Upload
+site_settings: Indstillinger for websted
+site_title: site Titel
+footer_text: Footer tekst
+site_logo: Site Logo
+site_language: site Sprog
+site_text_direction: site Tekstretning
+per_page: sideinddeling sidevis
+default_page_layout: standardsidelayout
+tracking_code: sporingskode
+smtp_email_settings: SMTP email-indstillinger
+smtp_email: SMTP Email
+smtp_host: SMTP Host
+smtp_port: SMTP Port
+smtp_timeout: SMTP Timeout
+smtp_user: SMTP Bruger
+smtp_password: SMTP Password
+generate_site_map: Generer oversigtskort
+sitemap_info_msg: NB Vælg hvor du ønsker at blive optaget på sitemap xml. Efter en vellykket generation sitemap.xml gemmes under rodmappe. Du kan også redigere denne fil for at medtage dine egne webadresser.
+pages: Sider
+blog_posts: blogindlæg
+articles: Artikler
+blog_post: Blogindlæg
+blog: Blogindlæg
+article: Artikel
+news: Nyheder
+view_xml: Se XML
+create_xml: Opret XML
+manage_backups: Administrer sikkerhedskopier
+create_sql_backup: Opret SQL Backup
+create_image_backup: Opret Billede Backup
+restore: Restore
+download: Hent
+dashboard: Dashboard
+overview_stats_more: Overblik, statistik og mere
+visit_site: Besøg sted
+logout: Logout
+themes: Temaer
+locations: Steder
+paypal_settings: Paypal Indstillinger
+payment_history: Betalingsoversigt
+profile: Profil
+packages: Pakker
+widgets: Widgets
+all_widgets: Alle Widgets
+widget_positions: Widget positioner
+blog_news_article: Blog / Nyheder / Artikel
+new_post: Nyt indlæg
+pages_and_menu: Sider & Menu
+new_page: Ny side
+menu: Menu
+system: System
+manage_languages: Administrer Sprog
+auto_translate: Auto Oversæt
+edit_email_text: Rediger Email Tekst
+admin_settings: Web Admin Settings
+sitemap: Sitemap
+activate: Aktiver
+active_theme: Aktiv Tema
+available_themes: tilgængelige temaer
+all_users: Alle brugere
+create_user: Opret Bruger
+export_user_email: Export User Emails (.csv)
+profile_info: Profil Info
+ban_forever: Ban Forever
+edit_page: Rediger side
+create_widget: Opret widget
+widget_name: Widget Navn
+activate_deactivate: Aktiver / deaktivere
+show: Vis
+available_widgets: tilgængelige widgets
+active_widgets: Aktive Widgets
+delete_warning: Er du sikker på vil slette
+yes: "Ja"
+no: "Nej"
+product_name: Content
+fa_icon: FA ikon klasse
+post_ad: Tilføj bil
+post_ad_subtitle: Sæt din bil info
+signin: ved login
+signup: Tilmeld
+signup_title: Opret din konto
+not_found: ikke fundet
+purpose: Formål
+purpose_buy: Køb
+purpose_sell: Sælg
+select_category: Vælg Kategori
+contact_for_price: Pris
+address_info: Adresse Info
+general_info: generel info
+upload_later_msg: Du vil være i stand til at uploade galleri billeder og video url efter post skabelse
+user_panel: Bruger panel
+put_as_comma_seperated: sat som (,) komma sperated
+added: Tilføjet
+location: Placering
+views: Views
+package_type: type
+post_package: post pakke
+featured_package: Udvalgte pakke
+both_package: post og fremhævede
+select_package: Vælg pakke
+package_created: pakke skabt
+package_updated: pakke opdateret
+slider: Slider
+add_new: Tilføj nyt
+new_slide: nyt dias
+update_slide: opdater slide
+save_order: Gem ordre
+slider_sort_instruction: Du kan trække slip for at sortere tabellen rækker. Efter sortering Red ordre
+search: Search
+results: Results
+location_on_map:Kort
+contact_mode: Kontakt tilstand
+reset: Nulstil
+contact: Kontakt
+default_site_view: Standard websted visning
+type_your_message: Skriv din besked her ..
+mail_sent: Mail Sent
+search_classifieds: Søg Biler
+advanced_search: Avanceret søgning
+narrow_down_your_search: indsnævre din søgning
+home: Forside
+print: Print
+remember_me: Husk mig
+forgot_password: Glemt kodeord
+login_failed: Login mislykkedes
+login_to_your_account: Login til din konto
+register_your_account: Registrer din konto
+male: Mand
+female: Female
+no_location_found: Ingen Beliggenhed Fundet
+state: stat
+ad_creation_error: Fejl i annonce skabelse! Kontroller venligst.
+users: Brugere
+show_admin_user: Vis Admin Bruger
+send_email_to_owner: Send email til bil ejer
+categories: Kategorier
+top_posts: Top Indlæg
+show_state_province: Vis State provinsen
+package_settings: Package Indstillinger
+default_site_settings: Standard Indstillinger for websted
+webadmin_settings: WebAdmin Indstillinger
+banner_settings: Banner Indstillinger
+max_price_for_search: Maks pris for Search
+search_filters: Search Filters
+posts_per_page: indlæg per side
+recent_posts: Seneste Biler
+featured_posts: Featured Stillinger
+top_locations: Top Steder
+top_users: Top Brugere
+approve: Godkend
+make_featured: Make featured
+remove_featured: Fjern featured
+renew_featured: Forny featured
+renew_package: Forny pakke
+no_renew_post_id: Ugyldig forny indlæg id
+approve_payment: Godkend betaling
+transaction: Transaktion
+transaction_id: Transaktion id
+post_id: post id
+amount: Mængde
+request_date: Request dato
+expiration_date: Udløbsdato
+transaction_deleted: Transaktion slettet
+payment_approved: Betaling godkendt
+logged_in_as: Logget ind som
+posted_on: Posted på
+confirm_email_send: Bekræftelse email send.Please følge instruktionerne fra denne e-mail.
+email_confirmed: E-mail bekræftet. Du kan logge ind nu
+email_confirmed_failed: E-mail bekræftelse mislykkedes
+password_change_success: Adgangskode ændret med succes
+email_sent_inbox: En e-mail er sendt til din inbox.Check denne e-mail.
+password_recovery_link_invalid: Password Recovery Link er ikke gyldig
+user_updated: Bruger Opdateret
+user_deleted: Bruger Slettet
+user_banned: Bruger Banned
+user_unbanned: Bruger unbanned
+user_confirmed: Bruger Bekræftet
+post_deleted: post Slettet
+post_updated: post Opdateret
+post_created: post Oprettet
+post_featured: Indlæg featured
+data_inserted: data indsat
+data_updated: data Opdateret
+feature_renewed: Feature Fornyet
+post_feature_removed: Post har Fjernet
+post_approved: Indlæg Godkendt
+invalid_post: Ugyldig post
+email_sent: email sendt
+settings_updated: Indstillinger Opdateret
+package_removed: Pakke Fjernet
+page_updated: Side Opdateret
+page_created: Side Oprettet
+page_deleted: Side Slettet
+menu_updated: Menu Opdateret
+site_map_generation_success: site map genereret med succes.
+select_option: Vælg på eller flere udvalgte muligheder.
+image_backup_created: Billede Backup Oprettet
+language_translated: Sprog Oversat
+unable_to_write_file: Kan ikke skrive Fil
+backup_deleted: Backup Slettet
+database_restored: Database Restaureret
+theme_activated: Tema Aktiveret
+user_created: Bruger oprettet
+widget_position_updated: Widget holdning Opdateret
+widget_created: Widget Oprettet
+widget_data_updated: Widget data opdateret
+unable_to_write_widget: Kan ikke skrive widget
+post_created_and_published: post skabt og udgivet
+post_created_approval: post skabt og venter på admin godkendelse
+post_package_renewed: post pakke fornyet
+payment_finish: Betaling slut
+payment_cancelled: aflyst Betaling
+admin_change_pass_help: står tom, hvis ingen ændring er nødvendig
+go_to_paypal: Gå til Paypal
+login_with_google: Login med Google
+login_with_facebook: Login with Facebook
+load_more_recent_posts: Load nyere biler
+load_more_featured_posts: Load Flere Anbefalede biler
+register_for_new_account: Registrer for Ny konto
+site_map: site Map
+show_site_map: Vis oversigtskort
+service: service
+features: funktioner
+about: om
+view_posts: Vis indlæg
+see_full_documentation: Se den fulde dokumentation
+select_city: Vælg by
+parallax_slider: Parallax Slider
+all_slides: Alle dias
+no_slide: Ingen slide
+slide_order: Slide ordre
+edit_profile: Rediger profil
+post_price_settings: Skriv prisindstillinger
+enable_post_pricing: Aktiver indlæg prisfastsættelse
+enable_paypal_transfer: Aktiver paypal
+enable_bank_transfer: Aktiver bankoverførsel
+bank_transfer_instruction_for_posts: Bankoverførsel Instruktion
+featured_price_settings: Featured indstillinger pris
+enable_featured_pricing: Aktiver featured prisfastsættelse
+enable_featured_paypal: Aktiver paypal
+enable_featured_bank_transfer: Aktiver bankoverførsel
+bank_transfer_instruction_for_featured_posts: bankoverførsel instruktion
+bank_currency_settings: Bank valutaindstillinger
+bank_currency: Bank valuta
+use_same_as_paypal_currency: Brug samme som paypal valuta
+admin: Admin
+re_password: Gentag adgangskode
+explain_widget_position: Forklare widget positioner
+post: post
+post_renew: post Forny
+feature: Feature
+feature_renew: Feature Forny
+payment_for: Betaling for
+select_country: Vælg land
+select_one: Vælg One
+video_url: vidoe URL
+confirm_payment: Bekræft Betaling
+package_title: Pakke Titel
+number_of_featured_days: Antal dage at blive præsenteret
+no_of_days: Ingen af dage
+any_city: Enhver by
+any_category: Enhver Kategori
+product_admin_panel: Carbiz Admin
+username_or_email: Brugernavn eller e-mail-
+car_detail: Car detalje
+posts_by: Indlæg af
+featured: Udvalgte
+edit_user: Rediger bruger
+the_field_is_required: % s felt er påkrævet.
+valid_email: % S felt skal indeholde en gyldig e-mail-adresse.
+min_length: % S feltet skal være mindst% s tegn.
+numeric: % S feltet skal kun indeholde tal.
+matches: % S felt svarer ikke til den% s feltet.
+greater_than: % S feltet skal indeholde et tal større end% s.
+agree_terms: Jeg har læst% s vilkår og betingelser% s
+must_accept_terms: Du skal acceptere vilkår og tilstand
+dont_have_permission: Du har ikke tilladelse til at få adgang til denne side
+email_already_in_use: E-mail allerede i brug
+username_already_in_use: Brugernavn er allerede i brug
+current_password_not_matched: Aktuel adgangskode matchede ikke
+email_or_password_not_mathed: E-mail eller adgangskode matcher ikke
+email_not_matched: e-mail ikke matchede
+account_not_confirmed: konto ikke bekræftet
+all_locations: Alle steder
+add_country: Tilføj land
+add_state: Tilføj stat
+add_city: Tilføj by
+no_locations: Ingen steder
+banner_type: Banner typen
+bg_image: Baggrundsbillede
+unique_alias: % s feltet skal være unik
+error_occurred: opstod en fejl. Kontroller nedenstående felter
+user_profile: Brugerprofil
+user_email: Bruger email
+target_lang_name: Målsprog
+no_emails: Ingen e-mails
+to: til
+classified_settings: Classified Indstillinger
+publish_posts_directly: Publish indlæg direkte
+system_currency: System valuta
+enable_signup: Aktiver tilmelding
+if_package_expired: Hvis pakken er udløbet
+do_not_hide: Må ikke skjule
+hide: Skjul
+show_price_like: Pris format
+facebook_app_settings: Facebook app indstillinger
+enable_facebook_login: Aktiver facebook login
+fb_app_id: Facebook app id
+fb_secret_key: Facebook hemmelige nøgle
+comment_settings: Kommentar indstillinger
+enable_comment: Aktiver kommentere
+disqus_shortname: Disqus Kortnavn
+sandbox_mode: Sandbox mode
+item_name: Vare navn
+paypal_email: Paypal e-mail
+currency: Valuta
+finish_url: Finish url
+cancel_url: Annuller url
+menu_background: Menu baggrund
+menu_text_color: Menu tekst farve
+activated_menu_color: Aktiveret menu farve
+top_bar_bg: Top bar bg
+activated_menu_text_color: Aktiveret menu tekstfarve
+latitude: Latitude
+longitude: Længdegrad
+map_zoom: Kort zoom
+search_panel_settings: Søg panelindstillinger
+search_panel_bg_color: Søg panel bg farve
+show_background_image: Show billede baggrund
+active_widget_position: Aktiv widget position
+upload_and_install: Upload og installer
+install_updates: Installer opdateringer / Temaer / plugins / Widgets
+confirmation_email: Bekræftelse Email
+recovery_email: Recovery Email
+signup_notification_email: Tilmeld Notification Email
+payment_confirmation_email: Bekræftelse Betaling E-mail
+click_and_edit: Vælg en skabelon, og klik på rediger]
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Standard SEO indstillinger
+find_us_on_facebook: Find os på Facebook
+category_featured_posts: Udvalgte indlæg
+load_more_posts: Load Mere
+home_page_title: Søg Køb Sælg Biler
+no_posts_found: Ingen poster
+type_anything: skrive noget
+chosen_not_found: Ups, intet fundet!
+rating_asc: Bedømmelse Stigende
+rating_desc: Rating Faldende
+id_desc: Id Faldende
+id_asc: Id Stigende
+price_range: Pris Range
+additional_features: Ekstra egenskaber
+add_more_fields: Tilføj flere felter
+remove: Fjern
+distance_around_my_position: Søg radius
+show_distance_in: Vis Afstand i
+car_listed: Biler Sendt
+show_street_view: Show Street View
+list_car: List Car
+search_cars: Søg Biler
+top_cars: Top Cars
+featured_cars: Fremhævede Biler
+content_settings: Indstillinger for indhold
+hide_email: Skjul email
+hide_phone: Skjul telefon
+review: anmeldelse
+comment: Kommentar
+submit_review: Indsend bedømmelse
+rating: Bedømmelse
+review_alert: Du skal være logget ind for at indsende gennemgang.
+new_car: Tilføj Bil
+identify_my_location: Identificer mine location
+data_deleted: data slettet
+recent_reviews: seneste anmeldelser
+view_all_reviews: Se alle anmeldelser
+review_deleted: Anmeldelse Slettet
+review_detail: Detalje
+all_reviews: Alle anmeldelser
+monday: mandag
+tuesday: tirsdag
+wednesday: onsdag
+thursday: torsdag
+friday: fredag
+saturday: lørdag
+sunday: søndag
+opening_hour: Opening Hour
+closed: Lukket
+review_submitted: Anmeldelse indsendt
+social_links: sociale forbindelser
+upgrade_browser: Upgrade browser
+please_upgrade_your_browser: Opgradér din browser
+car: Bil
+introduction: Introduktion
+terms: Vilkår og betingelse
+email_not_found: E-mail ikke fundet
+city_dropdown: By dropdown
+published: Udgivet
+publish: Offentliggør
+drafted: Udarbejdet
+draft: Udkast
+from: Fra
+send_bulk_email: Send Bulk Email
+ive_read_the: Jeg har læst
+title_city_category: titel, by eller kategori
+dt_first: First
+dt_last: Sidste
+dt_next: Næste
+dt_prev: Forrige
+dt_no_data: Ingen data til rådighed i tabel
+dt_show_empty: Viser 0 til 0 af 0 poster
+dt_no_match: Ingen tilsvarende data
+dt_search: Søg
+dt_processing: Behandler ...
+dt_loading: Loading ...
+dt_info: Viser _START_ til _END_ af _TOTAL_ poster
+dt_filter_info: (filtreret fra _MAX_ total poster)
+dt_show_entries: Vis _MENU_ oplysningerne
+get_directions: Få Retning
+review_not_submitted : Du har allerede givet en gennemgang
+debug_email : Debug email
+email_to : Email til
+report_the_car : Forkert bil
+reported : rapporteret
+already_reported : allerede rapporteret
+reported_post : rapporteret biler
+all_reported_posts : rapporteret biler
+report: Rapport
+assigned_to: Tildelt til
+select_assigned_to: Vælg bruger
+css_compression: Css kompression
+gallery_notes: Du kan trække slip for at ændre rækkefølgen galleriet fotos. Billeder er ikke re-sized.
+video_notes: Youtube eller Vimeo url
+post_expiration_notification: Indlæg udløbet anmeldelse
+days_left: dage tilbage
+AM: AM
+PM: PM
+upload_invalid_min_dimensions: Billedet dimension er for lavt
+view_on_front: Vis på foran
+clear_unused_img: Klare ubrugte billeder
+unused_files_found: Ubrugte filer fundet
+unused_images_cleared: Ubrugte billeder ryddet
+unused_info_msg: Denne funktion kun rydder billederne, som ikke anvendes af biler, brugere, kategorier, sider, blogs. Det søger gennem databasen for at finde images.So hvis du manuelt uploadet nogen billeder manuelt, og brugt dem i koden det kan blive slettet.
+no_unused_img: Ingen ubrugt billede fundet
+search_panel_filter_type: filtertype
+basic_options: grundlæggende muligheder
+advanced_options: Advance muligheder
+sorting_order: sorteringsrækkefølge
+car_listed_on: Bil noteret på
+car_listed_under: bil opført under
+all_sub_categories: Alle underkategorier
+no_sub_categories: Ingen underkategorier
+hide_my_email : Skjul min email
+disable_email_contact: Deaktiver email adressebog
+enable_review: Aktiver gennemgang
+disable_google_street_view: deaktivere Google street view
+location_chorome_msg: Beliggenhed tjeneste af google er ikke tilgængelig for ikke ssl sites (Kun i Chrome-browseren). Ønsker du at bruge din ip-adresse for at få din placering? NB-Resultatet er måske ikke præcis samme som Google
+send_email_to_users: Send email til brugere
+show_banner: Vis banner
+hide_my_phone: Skjul min telefon
+kms: Kms
+miles: Miles
+logo_text: Logo Tekst
+logo_type: Logo type
+logo_text_color: Logo tekstfarve
+Jan: Jan
+Feb: Februar
+Mar: Mar
+Apr: April
+May: Maj
+Jun: Juni
+Jul: Juli
+Aug: August
+Sep: September
+Oct: Oktober
+Nov: November
+Dec: December
+show_search_panel: Vis søgepanel
+delete_selected: Slet valgte
+map_api_key: GMap api key
+pricing: Pricing
+post_package_instruction: Vi har følgende pakker for udstationering en bil på vores hjemmeside
+feature_package_instruction: Vi har følgende pakker for at gøre en bil featured
+MENU: MENU
+gplus_app_settings: Google+ app indstillinger
+auth_redirect_url: Autoriseret omdirigeringswebadresse
+enable_gplus_login: Aktiver Google+ login
+gplus_client_id: Google+ klient-id
+gplus_client_secret: Google+ klient hemmelighed
+how_to_get_gplus_api: Sådan får Google+ Client-id og Secret
+gallery_upload_limit: Gallery upload begrænse
+you_can_upload_max: Du kan uploade maksimale
+gallery_photos: Galleri billeder
+advanced_options_with_country_state: Advance option med land og statslige
+select_state: Vælg statslige
+recent_posts_order: Seneste indlæg bestille
+featured_posts_order: Udvalgte indlæg bestille
+default_posts_order: Standard indlæg bestille
+ASC: Stigende
+DESC: Faldende
+RANDOM: Tilfældig
+useremail: Bruger email
+enable_adblocker_alert: Aktiver Adblock alarm
+adblock_detected: Adblock Registrerede
+adblock_msg: venligst Vil du deaktivere Adblock og opdatere siden igen
+enable_cookie_policy_popup: Cookie Policy Popup
+cookie_policy_page_url: Cookie politik side url
+cookie_policy: Cookie Policy
+cookie_policy_alert: Dette site bruger cookies. Ved fortsat at bruge dette websted accepterer du vores brug af cookies.
+read_more: Læs mere
+i_agree: Jeg er enig
+instagram: Instagram
+newsletter_subscription: Få nyhedsbrev
+your_email: Din e-mail
+email_saved: E-mail gemmes til nyhedsbrev
+send_newsletter: Send nyhedsbrev
+unsubscribe: Afmeld
+to_unsubscribe: Klik på dette link, hvis du ikke ønsker at modtage denne service
+successfully_unsubscribed: Du er nu afmeldt nyhedsbrevet tjeneste
+export_user_phone: Export bruger telefon
+enable_blog_comment: Aktiver blog kommentar
+fb_blog_app_id: Fb app-id til blog
+disqus_blog_shortname: Disqus korte navn for blog
+sample_page: Sample side
+senders_phone: Afsender telefon
+alias: Alias
+atleast_a_country_city: Du skal indtaste mindst land og by
+email_not_shared: Det ser ud til, at Facebook ID ikke har tilladelse til at dele e-mailen. Rediger, eller bruger en anden konto eller bare tilmelding via e-mail.
+votes: Stemmer
+food_corner: Mad hjørne
+show_map_instead_of_street_view: Vis kort i stedet for street view
+post_published_email: Post offentliggjorde email
+max_upload_file_size: Max upload størrelse (KB)
+site_mode: site tilstand
+maintenance_msg: websted under vedligeholdelse
+brandmodels: Brand modeller
+add_brand: Tilføj mærke
+add_model: Tilføj model
+no_brandmodels: Ingen brandmodels
+sel_brand: Vælg Brand
+carconditions: Bil betingelser
+STATUS_DELETED: Slettet
+STATUS_ACTIVE: Aktiv
+STATUS_PENDING: Afventer
+STATUS_PAYMENT_PENDING: Betaling Afventer
+STATUS_EXPIRED: Udløbet
+USER_PENDING: Indtil
+USER_BANNED: Banned
+USER_ACTIVE: Aktive
+car_options: Bil Config muligheder
+transmissions: Transmission typer
+convertible: Konvertible
+coupe: Coupe
+hatchback: Hatchback
+luxury_car: Luxury Car
+sedan: Sedan
+sports_car: Sports Car
+suv: SUV
+trucks: Trucks
+van: Van
+customfields: brugerdefinerede felter
+customfield: Brugerdefineret felt
+sel_fieldtype: Vælg felttype
+text: Tekst
+textarea: Tekst område
+richtext: RTF
+select: Dropdown
+radio: Radio
+checkbox: Afkrydsningsfelt
+is_required: Er påkrævet
+field_added: Brugerdefineret felt tilføjet
+field_updated: Tilpasset felt opdateret
+field_deleted: Brugerdefineret felt slettet
+field_order_updated: Field ordre opdateret.
+field_sort_help: ^ Du kan trække slip for at sortere tabellen rækker. Efter sortering gemme ordre
+help_url_slug: Sæt en unik værdi (vil blive brugt i url)
+NA: N / A
+condition_new: New
+condition_used: Bruges
+condition_pre_owned: Pre Owned
+condition_recondition: Reconditioned
+condition_other: Andet
+year: Karosseri
+brand: Bil Mærke
+model: Car Model
+mileage: kilometertal
+transmission: Transmission
+condition: Betingelse
+fuel_type: Brændstoftype
+fueltypes: Fuel Typer
+gas: Gas
+diesel: DISEL
+petrol: Benzin
+octane: Octane
+electricity: Elektricitet
+others: Andre
+select_condition: Vælg Betingelse
+select_transmission: Vælg Transmission
+automatic: Automatisk
+manual: Manuelt
+semi_automatic: Halvautomatisk
+select_brand: Vælg Mærke
+select_year: Vælg Kropsbygning
+select_fuel_type: Vælg Brændstoftype
+url_slug: Url Slug
+registration_no: Reg Ingen
+engine_size: motorstørrelse
+help_engine_size: motorstørrelse (i liter)
+steering_type: Styretøj Type
+help_steering_type: Vælg Styring
+safety_rating: Safety Rating
+sel_safety_rating: Vælg Safety Rating
+engine_type: Motortype
+help_engine_type: Vælg motortype
+no_of_seats: antal sæder
+help_no_of_seats: Ingen af Sæder
+gear_type: Gear type
+help_gear_type: Vælg Gear type
+new_brand: New Brand
+brand_names: Brand navne
+new_model: Ny Model
+select_model: Vælg model
+model_names: Model navne
+mileage_unit: Mileage Unit
+brand_model: Mærke og model
+help_text: hjælpetekst
+fieldtype: Felttype
+fieldname: Feltnavn
+comma_separated_help: Put en eller flere navngivet som "" (komma) adskilt. Ligesom Newyork, Dallas, Idaho
+category_id: bil Kategori
+show_in_detail: Vis detaljeret side
+power_steering: servostyring
+manual_steering: manuel styring
+inline: Inline
+straight: Lige
+vee: VEE
+flat: Flat
+vr_w: VR & W
+other: Andre
+other_information: Andre Information
+dual: Dual
+all_cars: alle biler
+reported_cars: Rapporteret Biler
+no_reviews: Ingen anmeldelser endnu
+optional_info: Valgfri Info
+car_posts: Car Indlæg
+featured_expiration_time: Udvalgte udløbstid (dage)
+max_gallery_photos: Maks galleri billeder
+gallery_limit: Galleri
+take_package: Take-pakke
+photos: Billeder
+mileage_range: Mileage Range
+pls_share: venligst dele vores hjemmeside
+facebook_page_name: FB Page Name
+google_plus_name: Google+ navn
+twitter_page_name: Twitter Brugernavn
+normal: Normal
+free: Gratis
+ultimate: Ultimate
+premium: Premium
+update_post: Opdatering indlæg
+Clear unused images: Ryd ubrugt billede

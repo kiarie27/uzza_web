@@ -1,0 +1,824 @@
+---
+sign_in: Iniciar
+sign_up: Suscríbete
+agent_panel: Agente Panel
+admin_panel: Panel de Administración
+country: País
+state_province: Estado / Provincia
+city: Ciudad
+register: Registro
+details: Detalles
+view_all: Ver Todos
+order_by: Ordenar Por
+none: Ninguno
+terms_and_conditions: Términos y condiciones
+reg_success_message: Su registro de la cuenta es exitosa. Un correo electrónico fue enviado a su correo electrónico. Por favor, siga que el correo electrónico para activar su cuenta. Gracias
+limit: Límite
+usage: de uso
+recover: Recuperar
+oops: Página no encontrada
+share_this: Compartir Este
+location_map: Mapa de ubicación
+image_gallery: Galería de imágenes
+gallery: Galería
+summary: Resumen
+overview: Descripción
+address: Dirección
+message: del mensaje
+email_subject: Asunto del correo
+all: Todo
+contact_us: contacto con nosotros
+featured_video: destacados vídeo
+embed_video_url: incrustado URL de video
+email_tracker: por correo electrónico Rastreador
+bulk_email: Correo electrónico masivo
+advanced_filters: Filtros avanzados
+result: Resultado
+payment_notification: Usted va a hacer un pago. Un correo electrónico es enviado a su correo electrónico. Puede hacer una copia de este paso en cualquier momento desde el enlace de ese correo electrónico.
+confirmation: Confirmación
+tags: Etiquetas
+zip_code: Código Postal
+embed_preview: Insertar vista previa
+login: de sesión
+post_not_found: Mensaje no encontrado
+view_more: Ver más
+choose_a_package: Elige un paquete
+choose_feature_package: Elegir un paquete de funciones
+no_package_found: n paquete encontró
+days: Días
+posts: Mensajes
+change: Cambio
+subscribe: Suscribirse
+image: Imagen
+view_on_map: Ver en el mapa (Auto llenar Lat lang)
+create: Crear
+basic_info: Información Básica
+send: Enviar
+all_email_to_users: Todos los correos electrónicos a los usuarios
+email_detail: de correo electrónico Lista
+change_package: Cambio Paquete
+bank_transfer: transferencia bancaria
+contact_subject: Correo electrónico de contacto
+payment_finish_title: Pago completo
+payment_renew_title: pago completo
+payment_finish_text: Su pago se ha realizado. Tan pronto como recibimos la confirmación de PayPal se activará su cuenta
+payment_renew_text: Su pago se ha realizado. Tan pronto como recibimos la confirmación de su cuenta PayPal será renovado
+payment_cancel_title: Pago Cancelar
+payment_cancel_text: su pago se canceló
+feature_payment_finish: Su pago se ha realizado. Tan pronto como recibamos la confirmación de PayPal, se presentará su patrimonio.
+feature_payment_cancel: Su pago se cancela.
+selected_package: El paquete seleccionado
+signup_with_social_account: Registrar cuenta los aspectos sociales con
+password: Contraseña
+confirm_password: Confirmar contraseña
+all_posts: Todos los Mensajes
+no_posts: No hay mensajes
+title: Título
+description: Descripción
+status: Estado
+actions: acciones
+action: Acción
+type: Tipo
+type_something: Tipo algo
+content: contenido
+featured_image: Foto principal [min 300x226]
+category: categorías de coches
+all_categories: Todas las categorías de automóviles
+edit_category: categoría Editar
+new_category: Nueva categoría de coches
+parent: de Padres
+edit: Editar
+delete: Borrar
+name: Nombre
+save: Guardar
+no_parent: Ningún padre
+edit_email_template: Editar plantilla de correo electrónico
+select_template_file: Seleccionar archivo de plantilla
+subject: Asunto
+body: Cuerpo
+available_variables: Las variables disponibles
+select_language: Selecciona Idioma de
+select_language_file: archivo Seleccionar idioma
+edit_as_new: Editar como nuevo
+language: idioma
+add_another: Añadir otro
+export_to_file: Exportar a archivo
+import_from_file: de importación del archivo de
+auto_translator: traductor automático
+from_lang: De lang
+target_lang_full_name: Objetivo lang nombre completo
+target_lang_short_name: objetivo lang nombre corto
+create_new_package: Crear nuevo paquete
+price: Precio
+ask_for_price: Negociable Más
+maximum_post_by_user: mensajes máximos por el usuario
+expiration_time: tiempo de expiración (días)
+create_package: Crear paquete
+edit_package: paquete Editar
+update_package: paquete de actualización
+add_packages: Añadir paquetes
+all_packages: Todos los paquetes
+no_packages: hay paquetes
+options: Opciones
+all_pages: Todas las páginas
+no_pages: Ninguna página
+manage_menu: Administrar menú del
+menu_title: menú de títulos
+menu_alias: alias Menú
+show_in_menu: Mostrar en el menú
+page_layout: de diseño de página
+content_from: de contenido del
+url: Url
+seo_options: opciones de SEO
+meta_description: Meta Descripción de
+key_words: las palabras clave
+crawl_after: de rastreo después de (días)
+all_plugins: Todos los plugins
+no_plugins: No hay plugins
+name_and_version: nombre y la versión
+change_password: Cambiar contraseña
+current_password: Contraseña actual
+new_password: Nueva contraseña
+retype_password: Reescribí contraseña
+password_reset_info_msg: Por favor primer set de su nueva contraseña
+profile_picture: Perfil Picture
+username: Nombre de usuario
+email: Correo electrónico
+first_name: Nombre
+last_name: Apellido
+gender: Sexo
+phone: Teléfono
+company_name: Nombre de la empresa
+about_me: Acerca de mi
+facebook_account: cuenta de Facebook
+twitter_account: Cuenta de Twitter
+linkedin_account: Linkedin cuenta de
+gp_account: Google+ cuenta
+account_msg: Por favor introduce el enlace, sin http //
+web_email_settings: Web Configuración de correo electrónico
+contact_email: Correo electrónico de contacto
+webadmin_name: Webadmin Nombre
+webadmin_email: Webadmin correo electrónico
+update: de actualización
+upload: Subir
+site_settings: Configuración del sitio
+site_title: del sitio Título
+footer_text: de pie de página del texto
+site_logo: del sitio Logo
+site_language: del sitio Idioma
+site_text_direction: del sitio Dirección del texto
+per_page: paginación por Página
+default_page_layout: por defecto de formato de página
+tracking_code: del código de seguimiento
+smtp_email_settings: SMTP Configuración del correo electrónico
+smtp_email: correo electrónico SMTP
+smtp_host: Servidor SMTP
+smtp_port: SMTP Puerto
+smtp_timeout: Tiempo de espera SMTP
+smtp_user: SMTP del usuario
+smtp_password: Contraseña SMTP
+generate_site_map: Generar mapa del sitio
+sitemap_info_msg: Nota: Por favor, seleccione el que desea ser incluido en XML mapa del sitio. Después de sitemap.xml generación exitosa se guarda en el directorio raíz. También puede editar el archivo para incluir sus propias direcciones URL.
+pages: Páginas
+blog_posts: del blog Discusiones
+articles: Artículos
+blog_post: de blog
+blog: Blog post
+article: artículo
+news: Noticias
+view_xml: Ver XML
+create_xml: Crear XML
+manage_backups: administrar copias de seguridad
+create_sql_backup: Crear copias de seguridad de SQL
+create_image_backup: Crear imagen de copia de seguridad
+restore: Restaurar
+download: Descargar
+dashboard: Tablero
+overview_stats_more: general, estadísticas y más
+visit_site: Visita del sitio
+logout: Salir
+themes: Temas
+locations: Ubicaciones
+paypal_settings: Paypal Ajustes
+payment_history: Historial de pagos
+profile: del perfil
+packages: Paquetes
+widgets: Widgets
+all_widgets: todos los widgets
+widget_positions: Widget Posiciones
+blog_news_article: Blog / Noticias / Artículo
+new_post: Nuevo Post
+pages_and_menu: Menú Páginas y
+new_page: nueva página
+menu: de menú
+system: Sistema de
+manage_languages: Manejo de Idiomas
+auto_translate: Auto Traducir
+edit_email_text: Editar texto del correo electrónico
+admin_settings: Web de configuración del administrador
+sitemap: Mapa del sitio
+activate: Activar
+active_theme: activa temáticas
+available_themes: temas disponibles
+all_users: Todos los usuarios
+create_user: Crear usuario
+export_user_email: exportar correos electrónicos de los usuarios (CSV)
+profile_info: Información de Perfil
+ban_forever: Ban siempre
+edit_page: Editar página
+create_widget: Crear widget
+widget_name: Widget Nombre
+activate_deactivate: Activar / desactivar
+show: Mostrar
+available_widgets: Disponible Widgets
+active_widgets: widgets activos
+delete_warning: ¿Estás seguro de querer eliminar
+yes: "Sí"
+no: "No"
+product_name: contenido
+fa_icon: de clase icono FA
+post_ad: Añadir coche
+post_ad_subtitle: Pon tu información coche
+signin: Signin
+signup: Registrar
+signup_title: Crea tu cuenta
+not_found: Si no es exactamente
+purpose: Propósito
+purpose_buy: Comprar
+purpose_sell: Vender
+select_category: Seleccione Categoría
+contact_for_price: Precio a consultar
+address_info: informaciones Dirección
+general_info: General de Información
+upload_later_msg: Usted será capaz de subir fotos de la galería y el URL de vídeo después de la creación posterior
+user_panel: del panel del usuario
+put_as_comma_seperated: puesto que (,) coma sperated
+added: Agregado
+location: Ubicación
+views: Vistas
+package_type: Tipo de
+post_package: Mensaje paquete
+featured_package: destacados paquete
+both_package: postal y contó
+select_package: Seleccione formato
+package_created: de paquetes creado
+package_updated: paquete actualizado
+slider: deslizante
+add_new: Escribir un
+new_slide: nuevo tobogán
+update_slide: de actualización de diapositivas
+save_order: Guardar fin
+slider_sort_instruction: puede arrastrar soltar para ordenar las filas de la tabla. Después de la clasificación guardar la orden de
+search: búsqueda
+results: Resultados
+location_on_map: Ubicación en el mapa
+contact_mode: Contacto Modo
+reset: de reinicio
+contact: de contacto
+default_site_view: vista del sitio predeterminado
+type_your_message: Escribe tu mensaje aquí ..
+mail_sent: electrónico enviado
+search_classifieds: búsqueda Coches
+advanced_search: Búsqueda Avanzada
+narrow_down_your_search: Afine su búsqueda
+home: Inicio
+print: Imprimir
+remember_me: Recordarme ¿
+forgot_password: Olvidó la contraseña
+login_failed: de sesión no
+login_to_your_account: acceder a su cuenta
+register_your_account: registrar su cuenta
+male: Masculino
+female: Femenino
+no_location_found: No ubicación encontrada
+state: Estado
+ad_creation_error: de error en el anuncio ¡creación! Por favor, compruebe.
+users: Los usuarios
+show_admin_user: Mostrar Admin User
+send_email_to_owner: Enviar correo electrónico a los propietarios de coches
+categories: Categorías
+top_posts: Mejores Entradas
+show_state_province: Mostrar Estado Provincia
+package_settings: parámetros del paquete
+default_site_settings: Predeterminado Ajustes
+webadmin_settings: Webadmin Ajustes
+banner_settings: Ajustes Banner
+max_price_for_search: El precio máximo para la búsqueda
+search_filters: Filtros de Búsqueda
+posts_per_page: Mensajes por página
+recent_posts: Coches recientes
+featured_posts: Posts destacados
+top_locations: Los lugares más frecuentes
+top_users: Top usuarios
+approve: aprueban
+make_featured: Haga ofrecido
+remove_featured: Quitar contó con
+renew_featured: Renew ofrecido
+renew_package: renovar paquete
+no_renew_post_id: no válida renovar ID
+approve_payment: aprobar el pago
+transaction: de transacción
+transaction_id: ID transacción
+post_id: ID
+amount: Monto
+request_date: Fecha de solicitud
+expiration_date: Fecha de caducidad
+transaction_deleted: Transacción borrado
+payment_approved: de pago aprobado
+logged_in_as: Conectado como
+posted_on: Enviado el
+confirm_email_send: correo electrónico de confirmación send.Please siga las instrucciones de ese correo electrónico.
+email_confirmed: Correo electrónico confirmada. Puede iniciar sesión ahora en
+email_confirmed_failed: la confirmación de correo electrónico incorrecto
+password_change_success: contraseña cambiado correctamente
+email_sent_inbox: Un correo electrónico es enviar a su inbox.Check que el correo electrónico.
+password_recovery_link_invalid: Recuperación de la contraseña Enlace no es válido
+user_updated: de usuario actualizada
+user_deleted: usuario eliminado
+user_banned: usuario prohibido
+user_unbanned: usuario Unbanned
+user_confirmed: User
+post_deleted: publicación eliminada
+post_updated: Mensaje Actualizado
+post_created: Anuncio creado
+post_featured: Mensaje contó con
+data_inserted: los datos insertados
+data_updated: Datos actualizados por
+feature_renewed: Función Actualizado
+post_feature_removed: Función Publica Eliminado
+post_approved: puesto aprobado
+invalid_post: no válida mensaje
+email_sent: de correo electrónico enviados
+settings_updated: configuración actualizada
+package_removed: paquete eliminado
+page_updated: página actualizada
+page_created: Página Creada
+page_deleted: página eliminada
+menu_updated: del menú actualizado
+site_map_generation_success: mapa del sitio generó correctamente.
+select_option: Por favor, seleccione el o más seleccionar opciones.
+image_backup_created: Imagen de copia de seguridad creado
+language_translated: lengua traducida
+unable_to_write_file: No se puede escribir archivo de
+backup_deleted: copia de seguridad eliminada
+database_restored: base de datos restaurada
+theme_activated: temático Activado
+user_created: usuario creado
+widget_position_updated: Widget posición actualizada
+widget_created: Widget Creado
+widget_data_updated: datos Widget Actualizado
+unable_to_write_widget: No se puede escribir Widget
+post_created_and_published: Anuncio creado y publicado
+post_created_approval: Anuncio creado ya la espera de administrador de aprobación
+post_package_renewed: del anuncio del paquete renovado
+payment_finish: acabado de Pago
+payment_cancelled: Pago cancelado
+admin_change_pass_help: dejar en blanco si no hay cambio necesario
+go_to_paypal: Ir a paypal
+login_with_google: Inicio de sesión con Google
+login_with_facebook: Entrar con Facebook
+load_more_recent_posts: Carga Coches Más recientes
+load_more_featured_posts: Cargar Coches más destacado
+register_for_new_account: Registrarse para una cuenta Nueva
+site_map: mapa del sitio
+show_site_map: Mostrar mapa del sitio
+service: Servicio
+features: Características
+about: Acerca
+view_posts: Ver mensajes
+see_full_documentation: Ver documentación completa
+select_city: Seleccione la ciudad
+parallax_slider: Parallax deslizante
+all_slides: Todas las diapositivas
+no_slide: No Slide
+slide_order: Slide orden
+edit_profile: Editar perfil
+post_price_settings: ajustes de precio posterior
+enable_post_pricing: Habilitar precios de post
+enable_paypal_transfer: Habilitar paypal
+enable_bank_transfer: permitir la transferencia bancaria
+bank_transfer_instruction_for_posts: Transferencia bancaria Instrucción
+featured_price_settings: ajustes de precios publicados
+enable_featured_pricing: Habilitar el precio ofrecido
+enable_featured_paypal: Habilitar paypal
+enable_featured_bank_transfer: Habilitar transferencia bancaria
+bank_transfer_instruction_for_featured_posts: Transferencia de instrucciones
+bank_currency_settings: del Banco configuración de moneda
+bank_currency: de divisas del Banco
+use_same_as_paypal_currency: Utilizar la misma como moneda paypal
+admin: administrador
+re_password: Repita su contraseña
+explain_widget_position: Explicar las posiciones de widgets
+post: del anuncio
+post_renew: del anuncio Renew
+feature: Característica
+feature_renew: Característica Renew
+payment_for: El pago de
+select_country: Seleccionar país
+select_one: Seleccionar Una
+video_url: URL Vidoe
+confirm_payment: Confirmar el pago
+package_title: del paquete Título
+number_of_featured_days: Número de días para ser presentado
+no_of_days: Número de días
+any_city: Cualquier Ciudad
+any_category: Cualquier Categoría
+product_admin_panel: Carbiz de administración de
+username_or_email: usuario o correo electrónico
+car_detail: del detalle del coche
+posts_by: los mensajes por
+featured: destacado
+edit_user: de usuario Editar
+the_field_is_required: Se requiere campo% s.
+valid_email: El campo% s debe contener una dirección válida de correo electrónico.
+min_length: El campo% s debe ser al menos% s caracteres de longitud.
+numeric: El campo% s debe contener sólo números.
+matches: El campo% s no coincide con el campo% s.
+greater_than: El campo% s debe contener un número mayor de% s.
+agree_terms: He leído% s términos y condiciones% s
+must_accept_terms: Debe aceptar los términos y condicionan
+dont_have_permission: Usted no tiene permiso para acceder a esta página
+email_already_in_use: por correo electrónico ya está en uso
+username_already_in_use: Nombre de usuario ya está en uso
+current_password_not_matched: la contraseña actual no coincide
+email_or_password_not_mathed: correo electrónico o la contraseña no coincide con
+email_not_matched: correo electrónico no coincide
+account_not_confirmed: cuenta no confirmaron
+all_locations: Todas las ubicaciones
+add_country: Agregar país
+add_state: Añadir estado
+add_city: Añadir la ciudad
+no_locations: No hay ubicaciones
+banner_type: Banner tipo de
+bg_image: imagen de fondo
+unique_alias: de campo% s debe ser único
+error_occurred: producido un error. Por favor, compruebe los campos siguientes
+user_profile: Perfil de usuario
+user_email: de correo electrónico del usuario
+target_lang_name: Idioma de destino
+no_emails: No hay mensajes de correo electrónico
+to: Para
+classified_settings: Ajustes clasificados
+publish_posts_directly: Publicar mensajes directamente en
+system_currency: la moneda del sistema
+enable_signup: Habilitar registro
+if_package_expired: Si el paquete expiró
+do_not_hide: No ocultar
+hide: Ocultar
+show_price_like: formato Precio
+facebook_app_settings: configuración de la aplicación de Facebook
+enable_facebook_login: Habilitar facebook login
+fb_app_id: Facebook App ID
+fb_secret_key: de Facebook secretos clave
+comment_settings: Configuración de comentarios
+enable_comment: Habilitar comentarios
+disqus_shortname: Disqus Nombre corto
+sandbox_mode: modo de recinto
+item_name: de artículos Nombre
+paypal_email: de Paypal correo electrónico
+currency: de divisas
+finish_url: Finalizar url
+cancel_url: Cancelar url
+menu_background: Menú de fondo
+menu_text_color: de texto de menú de color
+activated_menu_color: de menú activó el color
+top_bar_bg: barra superior bg
+activated_menu_text_color: menú activado el color del texto
+latitude: Latitud
+longitude: Longitud
+map_zoom: Mapa de zoom
+search_panel_settings: de búsqueda ajustes del panel
+search_panel_bg_color: panel de búsqueda de color bg
+show_background_image: Mostrar imagen de fondo
+active_widget_position: activa posición widget de
+upload_and_install: Subir e instalar
+install_updates: instalar actualizaciones / Temas / plugins / widgets
+confirmation_email: correo electrónico de confirmación
+recovery_email: de recuperación de correo electrónico
+signup_notification_email: Registro de notificaciones de correo electrónico
+payment_confirmation_email: de confirmación de pagos por correo electrónico
+click_and_edit: Seleccione un archivo de plantilla y haga clic en editar]
+google_analytics_settings: AnalyticsSettings Google
+default_seo_settings: ajustes predeterminados de SEO
+find_us_on_facebook: Encuéntrenos en Facebook
+category_featured_posts: Puestos destacados
+load_more_posts: Cargar más
+home_page_title: Búsqueda Comprar Vender Coches
+no_posts_found: No hay mensajes
+type_anything: escribir nada
+chosen_not_found: Vaya, no se ha encontrado!
+rating_asc: Valoración ascendente
+rating_desc: Clasificación descendente
+id_desc: Id descendente
+id_asc: Id ascendente
+price_range: Rango de precios
+additional_features: Características adicionales
+add_more_fields: Añadir más campos
+remove: Eliminar
+distance_around_my_position: Radio de búsqueda
+show_distance_in: Muestra la distancia en
+car_listed: Coches Posted
+show_street_view: Mostrar Street View
+list_car: Lista de coches
+search_cars: de búsqueda Coches
+top_cars: Top Coches
+featured_cars: Coches destacados
+content_settings: Configuración de contenido
+hide_email: Ocultar correo electrónico
+hide_phone: teléfono Ocultar
+review: revisión
+comment: comentario
+submit_review: Enviar opinión
+rating: Clasificación
+review_alert: Usted debe estar conectado para enviar comentario.
+new_car: Añadir coche
+identify_my_location: Identificar mi ubicación
+data_deleted: datos borrados
+recent_reviews: comentarios recientes
+view_all_reviews: Ver todas las críticas del
+review_deleted: Review eliminados
+review_detail: Detalle
+all_reviews: Todos los comentarios
+monday: Lunes
+tuesday: Martes
+wednesday: Miércoles
+thursday: Jueves
+friday: Viernes
+saturday: Sábado
+sunday: domingo
+opening_hour: hora de apertura
+closed: Cerrado
+review_submitted: comentario enviado
+social_links: enlaces sociales
+upgrade_browser: navegador de actualización
+please_upgrade_your_browser: Por favor, actualice su navegador
+car: de coche
+introduction: Introducción
+terms: Términos y condiciones
+email_not_found: de correo electrónico no se encuentra
+city_dropdown: desplegable City
+published: Publicado
+publish: Publish
+drafted: Redactado
+draft: proyecto
+from: De
+send_bulk_email: Enviar por correo electrónico a granel
+ive_read_the: He leído el
+title_city_category: título, la ciudad o la categoría
+dt_first: Primera
+dt_last: Última
+dt_next: Siguiente
+dt_prev: Anterior
+dt_no_data: No hay datos disponibles en la tabla
+dt_show_empty: Mostrando 0 a 0 de 0 entradas
+dt_no_match: no ha devuelto ningún encuentran
+dt_search: Buscar
+dt_processing: Procesando ...
+dt_loading: Cargando ...
+dt_info: Mostrando _START_ a _END_ de entradas _TOTAL_
+dt_filter_info: (filtrada desde _MAX_ totales entradas)
+dt_show_entries: se muestran entradas _MENU_
+get_directions: Obtener Dirección
+review_not_submitted : Usted ya ha dado una revisión
+debug_email : de correo electrónico de depuración
+email_to : de correo electrónico a
+report_the_car : Reportar este coche
+reported : informó
+already_reported : ya se informó
+reported_post : coches reportados
+all_reported_posts : coches reportados
+report: Informe
+assigned_to: asignados a
+select_assigned_to: Seleccionar usuario
+css_compression: de compresión Css
+gallery_notes: Puede arrastrar soltar para reordenar las fotos de la galería. Las fotos no son re-tamaño.
+video_notes: YouTube o Vimeo url
+post_expiration_notification: Mensaje de notificación de caducidad
+days_left: días que quedan
+AM: AM
+PM: PM
+upload_invalid_min_dimensions: La dimensión de la imagen es demasiado baja
+view_on_front: Ver en el frontal
+clear_unused_img: imágenes claras sin usar
+unused_files_found: archivos no utilizados se encuentran
+unused_images_cleared: las imágenes no utilizadas borran
+unused_info_msg: Esta función sólo borra las imágenes que no son utilizados por los coches, los usuarios, categorías, páginas, blogs. Se busca a través de la base de datos para encontrar images.So si has subido manualmente las imágenes manualmente y los utilizó en el código puede ser eliminado.
+no_unused_img: No hay imagen sin utilizar encontrado
+search_panel_filter_type: tipo de filtro
+basic_options: menos opciones
+advanced_options: opciones avanzadas
+sorting_order: de clasificación para
+car_listed_on: coches enumeran en
+car_listed_under: coche enumerados en
+all_sub_categories: Todas las subcategorías
+no_sub_categories: No hay subcategorías
+hide_my_email : ocultar mi correo electrónico
+disable_email_contact: contactos de correo electrónico Desactivar
+enable_review: Activar opinión
+disable_google_street_view: Inhabilitar Google vista de la calle
+location_chorome_msg: El servicio de ubicación de Google no está disponible para los sitios no SSL (Sólo en el navegador Chrome). ¿Quieres usar su dirección IP para obtener su ubicación? NB El resultado puede no ser exactamente igual que Google
+send_email_to_users: Enviar correo electrónico a los usuarios
+show_banner: Mostrar bandera
+hide_my_phone: Ocultar mi teléfono
+kms: Kms
+miles: Miles
+logo_text: Logotipo del texto
+logo_type: Tipo de la insignia
+logo_text_color: del color del logotipo de texto
+Jan: Ene
+Feb: febrero
+Mar: marzo
+Apr: abril
+May: mayo
+Jun: junio
+Jul: julio
+Aug: agosto
+Sep: septiembre
+Oct: octubre
+Nov: noviembre
+Dec: diciembre
+show_search_panel: Mostrar panel de búsqueda
+delete_selected: Borrado de archivos seleccionados
+map_api_key: Gmap clave de API
+pricing: precios
+post_package_instruction: Tenemos los siguientes paquetes para publicar un coche en nuestra página web
+feature_package_instruction: tenemos los siguientes paquetes para hacer las funciones de un coche
+MENU: MENÚ
+gplus_app_settings: configuración de Google+ app
+auth_redirect_url: Autorizados URL de redirección
+enable_gplus_login: Habilitar Google+ inicio de sesión
+gplus_client_id: ID de cliente Google+
+gplus_client_secret: cliente Google+ secreta
+how_to_get_gplus_api: Como llegar Google+ ID de cliente y secreto
+gallery_upload_limit: galeria cargar limitar
+you_can_upload_max: Usted puede subir máximos
+gallery_photos: Galería de fotos
+advanced_options_with_country_state: opción Avance con el país y estatales
+select_state: Seleccione estado
+recent_posts_order: mensajes recientes orden
+featured_posts_order: mensajes destacados ordenar
+default_posts_order: los mensajes por defecto ordenar
+ASC: Ascendente
+DESC: Descendente
+RANDOM: aleatoria
+useremail: de correo electrónico del usuario
+enable_adblocker_alert: activa la alerta Adblock
+adblock_detected: Adblock Detectado
+adblock_msg: Por favor disbale Adblock y actualizar la página de nuevo
+enable_cookie_policy_popup: Política de Cookies emergente
+cookie_policy_page_url: cookie de la página de política URL
+cookie_policy: Política de Cookies
+cookie_policy_alert: Este sitio utiliza cookies. Al continuar utilizando este sitio usted acepta el uso de cookies.
+read_more: Leer más
+i_agree: Estoy de acuerdo
+instagram: Instagram
+newsletter_subscription: Recibe boletín de noticias
+your_email: Su correo electrónico
+email_saved: Correo electrónico guardado para boletín de noticias
+send_newsletter: Enviar Newsletter
+unsubscribe: Darse de baja
+to_unsubscribe: Haga clic en este enlace si desea darse de baja de este servicio
+successfully_unsubscribed: Ahora está dado de baja del servicio de boletín
+export_user_phone: de teléfono del usuario Exportación
+enable_blog_comment: Activar el blog comentario
+fb_blog_app_id: ID de la aplicación Fb para el blog
+disqus_blog_shortname: Disqus nombre abreviado de blog de
+sample_page: la página Muestra
+senders_phone: de teléfono del remitente
+alias: Alias
+atleast_a_country_city: debe introducir al menos país y ciudad
+email_not_shared: Parece que el ID de Facebook no tiene permiso para compartir el correo electrónico. Por favor cambia o usuario otra cuenta o registrarse utilizando el correo electrónico.
+votes: Votos
+food_corner: Alimentos esquina
+show_map_instead_of_street_view: Ver mapa en lugar de la calle ver
+post_published_email: Post publicó correo electrónico
+max_upload_file_size: Max tamaño de subida (KB)
+site_mode: Sitio Modo
+maintenance_msg: Sitio en mantenimiento
+brandmodels: modelos de la marca
+add_brand: Añadir marca
+add_model: Añadir modelo
+no_brandmodels: No hay brandmodels
+sel_brand: seleccione una marca
+carconditions: condiciones de coches
+STATUS_DELETED: eliminan
+STATUS_ACTIVE: Activo
+STATUS_PENDING: En espera
+STATUS_PAYMENT_PENDING: Pendiente de Pago
+STATUS_EXPIRED: expirado
+USER_PENDING: Pendiente
+USER_BANNED: Prohibido
+USER_ACTIVE: activos
+car_options: Opciones de coches Config
+transmissions: tipos de transmisión
+convertible: convertibles
+coupe: Coupe
+hatchback: Hatchback
+luxury_car: de coches de lujo
+sedan: Sedan
+sports_car: Sports Car
+suv: SUV
+trucks: Camiones
+van: Van
+customfields: campos personalizados
+customfield: personalizado campo
+sel_fieldtype: Seleccionar el tipo de campo de
+text: texto
+textarea: Área de texto
+richtext: en texto enriquecido
+select: desplegable
+radio: Radio
+checkbox: de casilla de verificación
+is_required: Se requiere
+field_added: campo personalizado añadió
+field_updated: actualizado Campo propio
+field_deleted: campo personalizado eliminado
+field_order_updated: fin Campo actualiza.
+field_sort_help: ^ Puede arrastrar soltar para ordenar las filas de la tabla. Después de la clasificación guardar la orden de
+help_url_slug: poner un valor único (se usará en la URL)
+NA: N / A
+condition_new: Nuevo
+condition_used: Usado
+condition_pre_owned: usados
+condition_recondition: reacondicionados
+condition_other: Otro
+year: Tipo de cuerpo
+brand: del coche Marca
+model: Modelo coche
+mileage: Kilometraje
+transmission: Transmisión
+condition: Condición
+fuel_type: Tipo de combustible
+fueltypes: Tipos de combustible
+gas: de gas
+diesel: Disel
+petrol: gasolina
+octane: de octanaje
+electricity: Electricidad
+others: Otros
+select_condition: : seleccionar condiciones
+select_transmission: Seleccione una Transmisión
+automatic: Automática
+manual: Manual
+semi_automatic: Semiautomático
+select_brand: seleccione una marca
+select_year: Seleccione el tipo de cuerpo
+select_fuel_type: Seleccionar el tipo de combustible
+url_slug: Url Slug
+registration_no: Reg No
+engine_size: Tamaño del motor
+help_engine_size: Tamaño del motor (en litros)
+steering_type: Tipo de dirección
+help_steering_type: Selección de dirección del tipo
+safety_rating: de seguridad Clasificación
+sel_safety_rating: Seleccione Seguridad Clasificación
+engine_type: Tipo de motor
+help_engine_type: Seleccionar Tipo de motor
+no_of_seats: Nº de asientos
+help_no_of_seats: Nº de asientos
+gear_type: Tipo de engranaje
+help_gear_type: Seleccionar Tipo de engranaje
+new_brand: Nueva Marca
+brand_names: Marcas
+new_model: Nuevo modelo
+select_model: Seleccione el modelo
+model_names: nombres de modelo
+mileage_unit: El kilometraje Unidad
+brand_model: Marca y modelo
+help_text: del texto de ayuda
+fieldtype: de campo Tipo
+fieldname: Nombre del campo
+comma_separated_help: puso uno o más nombrados como "" (coma) separada. Al igual que Newyork, Dallas, Idaho
+category_id: Categoría Car
+show_in_detail: Show en la página de detalles
+power_steering: dirección asistida
+manual_steering: dirección manual
+inline: en línea
+straight: recta
+vee: VEE
+flat: plana
+vr_w: VR & W
+other: Otros
+other_information: Otra información
+dual: duales
+all_cars: todos los coches
+reported_cars: Informó Coches
+no_reviews: No hay comentarios aún
+optional_info: Opcional Info
+car_posts: coches Mensajes
+featured_expiration_time: tiempo de expiración destacados (días)
+max_gallery_photos: Max galería de fotos
+gallery_limit: Galería de
+take_package: paquete de la toma
+photos: fotos
+mileage_range: Rango Kilometraje
+pls_share: favor comparta nuestra página web
+facebook_page_name: FB Nombre de página
+google_plus_name: Nombre Google+
+twitter_page_name: Twitter Usuario
+normal: normal
+free: gratuito
+ultimate: última
+premium: prima
+update_post: de actualización de POST
+Clear unused images: Claro imagen sin usar

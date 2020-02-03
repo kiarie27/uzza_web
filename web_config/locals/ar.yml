@@ -1,0 +1,824 @@
+---
+sign_in: تسجيل الدخول
+sign_up: اشترك
+agent_panel: كيل لوحة
+admin_panel: مشرف لوحة
+country: البلد
+state_province: الدولة / مقاطعة
+city: مدينة
+register: التسجيل
+details: تفاصيل
+view_all: عرض الكل
+order_by: الترتيب حسب
+none: لا يوجد
+terms_and_conditions: أحكام وشروط
+reg_success_message: تسجيل حسابك بنجاح. تم إرسال رسالة إلكترونية إلى البريد الإلكتروني الخاص بك. يرجى اتباع هذا البريد الإلكتروني لتفعيل حسابك. بفضل
+limit: الحد من
+usage: استخدام
+recover: استرداد
+oops: الصفحة لم يتم العثور على
+share_this: حصة هذا
+location_map: الموقع خريطة
+image_gallery: معرض الصور
+gallery: معرض
+summary: ملخص
+overview: نظرة عامة
+address: عنوان
+message: رسالة
+email_subject: البريد الإلكتروني مع مراعاة
+all: جميع
+contact_us: الاتصال بنا
+featured_video: مميزة الفيديو
+embed_video_url: مطعم ب فيديو رابط
+email_tracker: البريد الإلكتروني المقتفي
+bulk_email: معظم البريد الإلكتروني
+advanced_filters: مرشحات متقدمة
+result: النتيجة
+payment_notification: أنت ذاهب لجعل الدفع. يتم إرسال بريد إلكتروني إلى البريد الإلكتروني الخاص بك. يمكنك نسخ لهذه الخطوة في أي وقت من الارتباط على هذا البريد الإلكتروني.
+confirmation: تأكيدا
+tags: للخلف
+zip_code: الرمز البريدي
+embed_preview: تضمين معاينة
+login: الدخول
+post_not_found: المشاركة لم يتم العثور على
+view_more: المزيد
+choose_a_package: اختر حزمة
+choose_feature_package: اختيار مجموعة ميزة
+no_package_found: يتم العثور على حزمة
+days: أيام
+posts: المشاركات
+change: تغيير
+subscribe: الاشتراك
+image: صورة
+view_on_map: عرض على الخريطة (السيارات ملء اللات انج)
+create: خلق
+basic_info: معلومات أساسية
+send: إرسال
+all_email_to_users: جميع رسائل البريد الإلكتروني للمستخدمين
+email_detail: البريد الإلكتروني التفاصيل
+change_package: تغيير حزمة
+bank_transfer: تحويل مصرفي
+contact_subject: الاتصال البريد الإلكتروني
+payment_finish_title: الدفع الكامل
+payment_renew_title: الدفع الكامل
+payment_finish_text: دفعك كامل. في أقرب وقت كما تلقينا تأكيدا من باي بال سيتم تفعيل حسابك
+payment_renew_text: الدفع الخاص بك كامل. في أقرب وقت كما تلقينا تأكيدا من باي بال الحساب الخاص بك وسوف يكون متجدد
+payment_cancel_title: الدفع إلغاء
+payment_cancel_text: الدفع يتم إلغاء
+feature_payment_finish: الدفع الخاص بك كامل. في أقرب وقت ونحن الحصول على تأكيد من باي بال، وسيتم عرض العقارات الخاصة بك.
+feature_payment_cancel: تم إلغاء الدفع الخاص بك.
+selected_package: اختيار حزمة
+signup_with_social_account: الاشتراك مع حساب الاجتماعي
+password: كلمة المرور
+confirm_password: تأكيد كلمة المرور
+all_posts: جميع المشاركات
+no_posts: لا يوجد ردود
+title: عنوان
+description: الوصف
+status: الحالة
+actions: تطبيقات
+action: العمل
+type: نوع
+type_something: نوع شيء
+content: مضمون
+featured_image: صورة مميزة [دقيقة 300x226]
+category: فئات السيارات
+all_categories: جميع الفئات السيارات
+edit_category: تحرير فئة
+new_category: جديدة فئة السيارات
+parent: الرئيسي
+edit: تحرير
+delete: حذف
+name: اسم
+save: حفظ
+no_parent: لا الوالدين
+edit_email_template: تحرير قالب البريد الإلكتروني
+select_template_file: حدد ملف قالب
+subject: موضوع
+body: الجسم
+available_variables: المتغيرات المتاحة
+select_language: اختر لغة
+select_language_file: ملف اختر لغة
+edit_as_new: تحرير جديدة باسم
+language: اللغة
+add_another: اضافة آخر
+export_to_file: تصدير إلى ملف
+import_from_file: استيراد من ملف
+auto_translator: الترجمة السيارات
+from_lang: من لانج
+target_lang_full_name: الهدف انج الاسم الكامل
+target_lang_short_name: الهدف انج اسم قصيرة
+create_new_package: إنشاء حزمة جديدة
+price: السعر
+ask_for_price: السعر
+maximum_post_by_user: المشاركات القصوى من قبل المستخدم
+expiration_time: وقت انتهاء الصلاحية (أيام)
+create_package: خلق حزمة
+edit_package: تحرير حزمة
+update_package: حزمة تحديث
+add_packages: إضافة حزم
+all_packages: جميع حزم
+no_packages: لا حزم
+options: خيارات
+all_pages: كل الصفحات
+no_pages: لا توجد صفحات
+manage_menu: إدارة القائمة
+menu_title: القائمة عنوان
+menu_alias: الاسم المستعار القائمة
+show_in_menu: عرض في القائمة
+page_layout: تخطيط الصفحة
+content_from: المحتوى من
+url: رابط
+seo_options: خيارات SEO
+meta_description: ميتا وصف
+key_words: الكلمات الدالة
+crawl_after: الزحف بعد (أيام)
+all_plugins: جميع الإضافات
+no_plugins: لا الإضافات
+name_and_version: اسم وإصدار
+change_password: تغيير كلمة المرور
+current_password: كلمة المرور الحالية
+new_password: نيو كلمة المرور
+retype_password: أعد كتابة كلمة المرور
+password_reset_info_msg: الرجاء أول مجموعة طيران نيو كلمة المرور
+profile_picture: صورة الملف الشخصي ل
+username: اسم المستخدم
+email: البريد الإلكتروني
+first_name: الاسم الأول
+last_name: اسم العائلة
+gender: الجنس
+phone: هاتف
+company_name: اسم الشركة
+about_me: معلومات عني
+facebook_account: حساب الفيسبوك
+twitter_account: حساب تويتر
+linkedin_account: تابعني على حساب
+gp_account: حساب + Google
+account_msg: الرجاء إدخال رابط، دون HTTP //
+web_email_settings: الويب إعدادات البريد الإلكتروني
+contact_email: الاتصال البريد الإلكتروني
+webadmin_name: Webadmin اسم
+webadmin_email: Webadmin البريد الإلكتروني
+update: تحديث
+upload: تحميل
+site_settings: إعدادات الموقع
+site_title: عنوان الموقع
+footer_text: تذييل النص
+site_logo: الموقع شعار
+site_language: لغة الموقع
+site_text_direction: الموقع اتجاه النص
+per_page: ترقيم الصفحات لكل صفحة
+default_page_layout: تخطيط الصفحة افتراضي
+tracking_code: شفرة التتبع
+smtp_email_settings: إعدادات البريد الإلكتروني SMTP
+smtp_email: SMTP البريد الإلكتروني
+smtp_host: المضيف SMTP
+smtp_port: SMTP ميناء
+smtp_timeout: SMTP مهلة
+smtp_user: SMTP العضو
+smtp_password: SMTP كلمة
+generate_site_map: توليد خريطة الموقع
+sitemap_info_msg: NB يرجى اختيار الذي تريد إدراجها في أكس خريطة الموقع. يتم حفظ بعد جيل ناجح ملف sitemap.xml تحت الدليل ROOT. يمكنك أيضا تحرير هذا الملف لإدراج عناوين المواقع الخاصة بك.
+pages: صفحات
+blog_posts: المدونة المشاركات
+articles: مقالات
+blog_post: المدونة المشاركة
+blog: مدونة آخر
+article: المادة
+news: الأخبار
+view_xml: مشاهدة XML
+create_xml: إنشاء XML
+manage_backups: إدارة النسخ الاحتياطية
+create_sql_backup: إنشاء SQL النسخ الاحتياطي
+create_image_backup: إنشاء صورة النسخ الاحتياطي
+restore: استعادة
+download: تحميل
+dashboard: لوحة
+overview_stats_more: لمحة عامة، إحصائيات وعن
+visit_site: زيارة الموقع
+logout: الخروج
+themes: موبايل
+locations: المواقع
+paypal_settings: باي بال إعدادات
+payment_history: الدفع التاريخ
+profile: الشخصي
+packages: الحزم
+widgets: الحاجيات
+all_widgets: جميع الحاجيات
+widget_positions: المراكز القطعة
+blog_news_article: بلوق / أخبار / المادة
+new_post: الجديدة المشاركة
+pages_and_menu: الصفحات والقائمة
+new_page: صفحة جديدة
+menu: قائمة
+system: نظام
+manage_languages: إدارة اللغات
+auto_translate: ترجمة السيارات
+edit_email_text: تحرير البريد الإلكتروني نص
+admin_settings: الويب الإعدادات الادارية
+sitemap: خريطة الموقع
+activate: تنشيط
+active_theme: الموضوع النشط
+available_themes: الموضوعات المتاحة
+all_users: كافة المستخدمين
+create_user: إنشاء العضو
+export_user_email: رسائل البريد الإلكتروني تصدير العضو (CSV.)
+profile_info: معلومات الملف الشخصي
+ban_forever: بان أبد
+edit_page: تحرير صفحة
+create_widget: إنشاء القطعة
+widget_name: القطعة اسم
+activate_deactivate: تنشيط / دي تنشيط
+show: مشاهدة
+available_widgets: المتوفرة الحاجيات
+active_widgets: الحاجيات النشطة
+delete_warning: هل أنت متأكد تريد حذف
+yes: "نعم"
+no: "لا"
+product_name: المحتوى
+fa_icon: FA الطبقة رمز
+post_ad: إضافة سيارة
+post_ad_subtitle: ضع المعلومات الخاصة بك السيارة
+signin: في تسجيل الدخول
+signup: الاشتراك
+signup_title: أنشئ حسابك
+not_found: لم يتم العثور على
+purpose: الغرض
+purpose_buy: شراء
+purpose_sell: بيع
+select_category: اختر الفئة
+contact_for_price: الاتصال للحصول على السعر
+address_info: معلومات عنوان
+general_info: معلومات عامة
+upload_later_msg: سوف تكون قادرة على تحميل الصور معرض ورابط الفيديو بعد إنشاء آخر
+user_panel: لوحة العضو
+put_as_comma_seperated: كما وضع (،) فاصلة sperated
+added: واضاف
+location: الموقع
+views: مشاهدات
+package_type: نوع
+post_package: آخر حزمة
+featured_package: مميزة حزمة
+both_package: المشاركة وظهرت
+select_package: تحديد حزمة
+package_created: حزمة خلق
+package_updated: حزمة تحديث
+slider: المتزلج
+add_new: اضافة جديد
+new_slide: جديدة شريحة
+update_slide: تحديث الشرائح
+save_order: حفظ النظام
+slider_sort_instruction: يمكنك سحب قطرة لفرز صفوف الجدول. بعد فرز حفظ ترتيب
+search: البحث
+results: نتائج
+location_on_map: الموقع على الخريطة
+contact_mode: الاتصال وضع
+reset: إعادة
+contact: الاتصال
+default_site_view: الموقع الافتراضي عرض
+type_your_message: اكتب رسالتك هنا ..
+mail_sent: البريد المرسل
+search_classifieds: بحث سيارات
+advanced_search: البحث المتقدم
+narrow_down_your_search: تضييق بحثك
+home: الرئيسية
+print: طباعة
+remember_me: حفظ البيانات
+forgot_password: نسيت كلمة المرور
+login_failed: فشل تسجيل الدخول
+login_to_your_account: تسجيل الدخول إلى حسابك
+register_your_account: تسجيل حسابك
+male: ذكر
+female: أنثى
+no_location_found: لا مكان العثور على
+state: الدولة
+ad_creation_error: خطأ في الإعلان خلق! يرجى المراجعة.
+users: للمستخدمين
+show_admin_user: عرض المسؤول المستخدم
+send_email_to_owner: أرسل رسالة إلى صاحب السيارة
+categories: الفئات
+top_posts: الأعلى المشاركات
+show_state_province: مشاهدة دولة محافظة
+package_settings: إعدادات حزمة
+default_site_settings: افتراضي المنتدى لوحة التحكم
+webadmin_settings: Webadmin إعدادات
+banner_settings: الضبط راية
+max_price_for_search: أعلى سعر للبحث
+search_filters: بحثك
+posts_per_page: المشاركات لكل صفحة
+recent_posts: سيارات آخر
+featured_posts: شارك الوظائف
+top_locations: الأعلى مواقع
+top_users: أكثر المستعملين
+approve: يوافقون على
+make_featured: جعل مميزة
+remove_featured: إزالة ظهرت
+renew_featured: تجديد واردة
+renew_package: تجديد حزمة
+no_renew_post_id: غير صالح تجديد رقم المشاركة
+approve_payment: يوافقون على دفع
+transaction: عملية
+transaction_id: عملية معرف
+post_id: المشاركة معرف
+amount: المبلغ
+request_date: طلب موعد
+expiration_date: تاريخ انتهاء الصلاحية
+transaction_deleted: عملية حذف
+payment_approved: الدفع المعتمدة
+logged_in_as: دخولهم في كما
+posted_on: أرسلت على
+confirm_email_send: تأكيد البريد الإلكتروني send.Please اتبع الإرشادات من أن البريد الإلكتروني.
+email_confirmed: وأكد البريد الإلكتروني. يمكنك الدخول الآن
+email_confirmed_failed: البريد الإلكتروني تأكيد فشل
+password_change_success: تغيير كلمة المرور بنجاح
+email_sent_inbox: A البريد الإلكتروني هو نرسل للكم inbox.Check أن البريد الإلكتروني.
+password_recovery_link_invalid: استعادة كلمة السر رابط غير صالح
+user_updated: تحديث العضو
+user_deleted: العضو المحذوفة
+user_banned: العضو المحظورة
+user_unbanned: العضو غير ممنوع
+user_confirmed: العضو أكدت
+post_deleted: مشاركة محذوفة
+post_updated: المشاركة التحديث
+post_created: المشاركة مكون
+post_featured: آخر ظهرت
+data_inserted: إدراج بيانات
+data_updated: بيانات التحديث
+feature_renewed: ميزة تحديث
+post_feature_removed: المشاركة ميزة إزالة
+post_approved: المشاركة المعتمدة
+invalid_post: غير صالح المشاركة
+email_sent: البريد الإلكتروني المرسلة
+settings_updated: إعدادات تحديث
+package_removed: حزمة إزالة
+page_updated: الصفحة تحديث
+page_created: الصفحة مكون
+page_deleted: صفحة محذوفة
+menu_updated: القائمة تحديث
+site_map_generation_success: خريطة الموقع ولدت بنجاح.
+select_option: الرجاء تحديد أو خيارات أكثر مختارة.
+image_backup_created: صورة النسخ الاحتياطي مكون
+language_translated: اللغة ترجمت
+unable_to_write_file: غير قادر على كتابة ملف
+backup_deleted: النسخ الاحتياطي المحذوفة
+database_restored: قاعدة البيانات المستعادة
+theme_activated: موضوع المنشط
+user_created: المستخدم إنشاء
+widget_position_updated: القطعة الوظيفة المحدثة
+widget_created: مكون القطعة
+widget_data_updated: بيانات القطعة التحديث
+unable_to_write_widget: غير قادر على الكتابة القطعة
+post_created_and_published: خلق الوظائف ونشرت
+post_created_approval: المشاركة إنشاؤها وتنتظر الادارة الموافقة
+post_package_renewed: المشاركة حزمة تجدد
+payment_finish: الدفع النهاية
+payment_cancelled: إلغاء الدفع
+admin_change_pass_help: اتركه فارغا اذا لم يكن التغيير يحتاج
+go_to_paypal: الذهاب إلى باي بال
+login_with_google: الدخول مع جوجل
+login_with_facebook: الدخول مع الفيسبوك
+load_more_recent_posts: تحميل سيارات أكثر حداثة
+load_more_featured_posts: تحميل المزيد من شارك السيارات
+register_for_new_account: التسجيل لحساب جديد
+site_map: خريطة الموقع
+show_site_map: مشاهدة خريطة الموقع
+service: خدمة
+features: الميزات
+about: عن
+view_posts: مشاهدة المشاركات
+see_full_documentation: راجع وثائق كاملة
+select_city: اختر مدينة
+parallax_slider: المنظر المتزلج
+all_slides: جميع الشرائح
+no_slide: لا شريحة
+slide_order: شريحة أجل
+edit_profile: تعديل الملف الشخصي
+post_price_settings: الإعدادات سعر بوست
+enable_post_pricing: تمكين التسعير آخر
+enable_paypal_transfer: تمكين باي بال
+enable_bank_transfer: تمكين التحويل المصرفي
+bank_transfer_instruction_for_posts: نقل البنك تعليمات
+featured_price_settings: الإعدادات السعر بعد الخصم
+enable_featured_pricing: تمكين التسعير المميز
+enable_featured_paypal: تمكين باي بال
+enable_featured_bank_transfer: تمكين البنك نقل
+bank_transfer_instruction_for_featured_posts: البنك نقل تعليمات
+bank_currency_settings: البنك إعدادات العملة
+bank_currency: عملة البنك
+use_same_as_paypal_currency: استخدم نفس العملة باي بال
+admin: المشرف
+re_password: إعادة كتابة كلمة المرور
+explain_widget_position: شرح المواقف القطعة
+post: المشاركة
+post_renew: المشاركة تجديد
+feature: ميزة
+feature_renew: ميزة تجديد ترخيص
+payment_for: الدفع ل
+select_country: اختر الدولة
+select_one: اختر واحدة
+video_url: URL vidoe شارك
+confirm_payment: تأكيد الدفع
+package_title: حزمة عنوان
+number_of_featured_days: عدد الأيام لتكون واردة
+no_of_days: عدد أيام
+any_city: أي مدينة
+any_category: أي الفئة
+product_admin_panel: Carbiz مسؤول
+username_or_email: اسم المستخدم أو البريد الإلكتروني
+car_detail: التفاصيل سيارة
+posts_by: المشاركات بواسطة
+featured: المميز
+edit_user: المستخدم تحرير
+the_field_is_required: مطلوب الحقل و٪ الصورة.
+valid_email: يجب أن يحتوي حقل٪ ق عنوان بريد إلكتروني صالح.
+min_length: يجب أن يكون حقل٪ ق٪ على الأقل الصورة حرفا.
+numeric: يجب أن يحتوي حقل٪ الصورة أرقام فقط.
+matches: حقل٪ s لا تتطابق حقل٪ الصورة.
+greater_than: يجب أن يحتوي حقل٪ الصورة رقم أكبر من٪ الصورة.
+agree_terms: لقد قرأت٪ بنود وشروط٪ الصورة
+must_accept_terms: يجب قبول شروط وحالة
+dont_have_permission: ليس لديك صلاحية لدخول لهذه الصفحة
+email_already_in_use: أرسل بالفعل في استخدام
+username_already_in_use: اسم المستخدم قيد الاستخدام
+current_password_not_matched: لم كلمة المرور الحالية لا تتطابق
+email_or_password_not_mathed: البريد الإلكتروني أو كلمة المرور لا يطابق
+email_not_matched: البريد الإلكتروني غير مطابقة
+account_not_confirmed: الحساب لم تؤكد
+all_locations: جميع المواقع
+add_country: إضافة البلاد
+add_state: اضافة الدولة
+add_city: إضافة مدينة
+no_locations: لا مواقع
+banner_type: راية نوع
+bg_image: صورة خلفية
+unique_alias: يحتاج الحقل و٪ الصورة لتكون فريدة من نوعها
+error_occurred: حدث خطأ. يرجى التحقق من الحقول أدناه
+user_profile: نبذة عن المستخدم
+user_email: البريد الإلكتروني العضو
+target_lang_name: لغة الهدف
+no_emails: لا رسائل البريد الإلكتروني
+to: إلى
+classified_settings: إعدادات المبوبة
+publish_posts_directly: نشر المشاركات مباشرة
+system_currency: العملة نظام
+enable_signup: تمكين الاشتراك
+if_package_expired: إذا انتهت حزمة
+do_not_hide: لا تخفي
+hide: إخفاء
+show_price_like: شكل الأسعار
+facebook_app_settings: إعدادات الفيسبوك التطبيق
+enable_facebook_login: تمكين الفيسبوك تسجيل الدخول
+fb_app_id: الفيسبوك التطبيق معرف
+fb_secret_key: الفيسبوك سرية الرئيسية
+comment_settings: إعدادات تعليق
+enable_comment: تمكين التعليق
+disqus_shortname: هارد SHORTNAME
+sandbox_mode: وضع الحماية
+item_name: البند اسم
+paypal_email: باي بال البريد الإلكتروني
+currency: العملات
+finish_url: إنهاء رابط
+cancel_url: إلغاء رابط
+menu_background: القائمة الخلفية
+menu_text_color: لون النص القائمة
+activated_menu_color: المنشط القائمة لون
+top_bar_bg: شريط الأعلى BG
+activated_menu_text_color: المنشط القائمة لون النص
+latitude: خط العرض
+longitude: خط الطول
+map_zoom: خريطة التكبير
+search_panel_settings: إعدادات لوحة البحث
+search_panel_bg_color: لوحة البحث حرس الحدود اللون
+show_background_image: مشاهدة صورة خلفية
+active_widget_position: أحدث موقف القطعة
+upload_and_install: تحميل وتثبيت
+install_updates: تثبيت التحديثات / موبايل / الإضافات / الحاجيات
+confirmation_email: تأكيد البريد الإلكتروني
+recovery_email: استعادة البريد الإلكتروني
+signup_notification_email: التسجيل التبليغ
+payment_confirmation_email: الدفع تأكيد البريد الإلكتروني
+click_and_edit: حدد ملف القالب ثم انقر فوق تحرير]
+google_analytics_settings: جوجل AnalyticsSettings
+default_seo_settings: افتراضي إعدادات SEO
+find_us_on_facebook: تجدنا في الفيسبوك
+category_featured_posts: مميزة المشاركات
+load_more_posts: تحميل المزيد من
+home_page_title: بحث شراء بيع سيارات
+no_posts_found: لا توجد مشاركات
+type_anything: النوع أي شيء
+chosen_not_found: عذرا، لا شيء موجود!
+rating_asc: تصنيف تصاعدي
+rating_desc: تصنيف تنازلي
+id_desc: رقم تنازلي
+id_asc: رقم تصاعدي
+price_range: متوسط السعر
+additional_features: ميزات إضافية
+add_more_fields: إضافة المزيد من الحقول
+remove: حذف
+distance_around_my_position: بحث دائرة نصف قطرها
+show_distance_in: مشاهدة عن بعد في
+car_listed: سيارات الإعلان عنها
+show_street_view: مشاهدة ستريت فيو
+list_car: قائمة سيارة
+search_cars: بحث سيارات
+top_cars: الأعلى سيارات
+featured_cars: سيارات مميزة
+content_settings: إعدادات المحتوى
+hide_email: إخفاء البريد الإلكتروني
+hide_phone: إخفاء الهاتف
+review: مراجعة
+comment: تعليق
+submit_review: إرسال مراجعة
+rating: التقييم
+review_alert: يجب أن تكون مسجلا لتقديم الاستعراض.
+new_car: إضافة سيارة
+identify_my_location: تحديد المكان الخاص بي
+data_deleted: حذف البيانات
+recent_reviews: المراجعات الأخيرة
+view_all_reviews: عرض جميع التقييمات
+review_deleted: مراجعة المحذوفة
+review_detail: تفاصيل
+all_reviews: كل التعليقات
+monday: الاثنين
+tuesday: الثلاثاء
+wednesday: الأربعاء
+thursday: الخميس
+friday: الجمعة
+saturday: السبت
+sunday: الأحد
+opening_hour: افتتاح ساعة
+closed: الإغلاق
+review_submitted: المقدمة مراجعة
+social_links: الروابط الاجتماعية
+upgrade_browser: متصفح ترقية
+please_upgrade_your_browser: الرجاء ترقية متصفحك
+car: سيارة
+introduction: مقدمة
+terms: شروط وظروف
+email_not_found: البريد الإلكتروني لم يتم العثور
+city_dropdown: مدينة المنسدلة
+published: نشرت
+publish: انشره
+drafted: صاغ
+draft: مشروع
+from: من
+send_bulk_email: إرسال البريد الإلكتروني السائبة
+ive_read_the: لقد قرأت
+title_city_category: عنوان أو مدينة أو فئة
+dt_first: الأولى
+dt_last: آخر
+dt_next: التالي
+dt_prev: السابق
+dt_no_data: لا توجد بيانات في الجدول
+dt_show_empty: عرض 0-0 من 0 مقالات
+dt_no_match: لا السجلات المتطابقة وجدت
+dt_search: بحث
+dt_processing: قيد التنفيذ ...
+dt_loading: تحميل ...
+dt_info: عرض _START_ إلى _END_ الإدخالات _TOTAL_
+dt_filter_info: (تصفية من مجموع _MAX_ مقالات)
+dt_show_entries: عرض إدخالات _MENU_
+get_directions: الحصول على اتجاه
+review_not_submitted : لقد سبق وأن تعطى مراجعة
+debug_email : التصحيح البريد الإلكتروني
+email_to : البريد الإلكتروني ل
+report_the_car : عن هذه السيارة
+reported : المبلغ عنها
+already_reported : إذا ذكرت
+reported_post : السيارات المبلغ عنها
+all_reported_posts : عن سيارات
+report: الإبلاغ عن
+assigned_to: تعيين ل
+select_assigned_to: تحديد المستخدم
+css_compression: ضغط المغلق
+gallery_notes: يمكنك سحب إسقاط لإعادة ترتيب الصور معرض. لم يتم إعادة الحجم الصور.
+video_notes: يوتيوب أو فيميو رابط
+post_expiration_notification: المشاركة إخطار انتهاء
+days_left: الأيام المتبقية
+AM: AM
+PM: PM
+upload_invalid_min_dimensions: البعد الصورة منخفض جدا
+view_on_front: عرض على الجبهة
+clear_unused_img: واضح الصور غير المستخدمة
+unused_files_found: وجدت الملفات غير المستخدمة
+unused_images_cleared: الصور غير المستخدمة مسح
+unused_info_msg: هذه وظيفة مسح فقط الصور التي لا يتم استخدامها من قبل السيارات، والمستخدمين، والفئات، وصفحات، بلوق. فهو يبحث من خلال قاعدة البيانات للعثور على images.So إذا قمت يدويا تحميلها أي الصور يدويا واستخدمها ضمن رمز يمكن حذفه.
+no_unused_img: لا غير مستخدمة صورة وجدت
+search_panel_filter_type: نوع تصفية
+basic_options: خيارات بسيطة
+advanced_options: خيارات متقدمة
+sorting_order: الفرز ترتيب
+car_listed_on: السيارة المذكورة على
+car_listed_under: السيارات المدرجة تحت
+all_sub_categories: كل الفئات الفرعية
+no_sub_categories: لا توجد فئات فرعية
+hide_my_email : إخفاء بريدي الإلكتروني
+disable_email_contact: تعطيل البريد الإلكتروني للإتصال
+enable_review: تمكين مراجعة
+disable_google_street_view: تعطيل جوجل ستريت فيو
+location_chorome_msg: خدمة الموقع بواسطة جوجل لا يتوفر لمواقع غير خدمة تصميم المواقع (فقط في متصفح كروم). هل تريد استخدام عنوان بروتوكول الإنترنت الخاص بك للحصول على موقعك؟ NB- والنتيجة قد لا تكون بالضبط نفس جوجل
+send_email_to_users: إرسال البريد الإلكتروني للمستخدمين
+show_banner: عرض راية
+hide_my_phone: إخفاء هاتفي
+kms: كم
+miles: ميلا
+logo_text: نص الشعار
+logo_type: الشعار نوع
+logo_text_color: النص شعار اللون
+Jan: يناير
+Feb: فبراير
+Mar: مارس
+Apr: أبريل
+May: مايو
+Jun: يونيو
+Jul: يوليو
+Aug: أغسطس
+Sep: سبتمبر
+Oct: أكتوبر
+Nov: نوفمبر
+Dec: ديسمبر
+show_search_panel: مشاهدة وحة البحث
+delete_selected: حذف المحدد
+map_api_key: GMAP المعهد الرئيسي
+pricing: التسعير
+post_package_instruction: لدينا الحزم التالية لنشر سيارة على موقعنا على الانترنت
+feature_package_instruction: لدينا الحزم التالية لصنع سيارة مميزة
+MENU: MENU
+gplus_app_settings: إعدادات تطبيق + Google
+auth_redirect_url: معتمد URL إعادة توجيه
+enable_gplus_login: تمكين Google+ تسجيل الدخول
+gplus_client_id: معرف العميل في + Google
+gplus_client_secret: العميل في + Google سر
+how_to_get_gplus_api: كيفية الحصول على هوية العميل + Google و سر
+gallery_upload_limit: معرض تحميل لحد من
+you_can_upload_max: أنت يمكن تحميل القصوى
+gallery_photos: الصور معرض
+advanced_options_with_country_state: خيار المسبق مع الدولة والدولة
+select_state: اختر دولة
+recent_posts_order: المشاركات الأخيرة تأمر
+featured_posts_order: المشاركات مميزة تأمر
+default_posts_order: افتراضي المشاركات التي تأمر
+ASC: تصاعدي
+DESC: تنازلي
+RANDOM: عشوائية
+useremail: البريد الإلكتروني العضو
+enable_adblocker_alert: تمكين تنبيه ادبلوك
+adblock_detected: ادبلوك الكشف عن
+adblock_msg: الرجاء disbale ادبلوك وبتحديث الصفحة مرة أخرى
+enable_cookie_policy_popup: سياسة كوكي قافزة
+cookie_policy_page_url: كوكي صفحة سياسة رابط
+cookie_policy: سياسة كوكي
+cookie_policy_alert: هذا الموقع يستخدم الكوكيز. من خلال الاستمرار في استخدام هذا الموقع، فإنك توافق على استخدامنا لملفات تعريف الارتباط.
+read_more: قراءة المزيد
+i_agree: وأنا أتفق
+instagram: إينستاجرام
+newsletter_subscription: الحصول على النشرة الإخبارية
+your_email: البريد الإلكتروني الخاص بك
+email_saved: البريد الإلكتروني حفظ النشرة الإخبارية
+send_newsletter: إرسال الإخبارية
+unsubscribe: إلغاء الاشتراك
+to_unsubscribe: انقر على هذا الرابط إذا كنت ترغب في إلغاء الاشتراك في هذه الخدمة
+successfully_unsubscribed: أنت الآن إلغاء اشتراكك في الخدمة الإخبارية
+export_user_phone: الهاتف المستخدم تصدير
+enable_blog_comment: تمكين بلوق تعليق
+fb_blog_app_id: أف ب التطبيق معرف لبلوق
+disqus_blog_shortname: هارد اسم مختصر ل بلوق
+sample_page: الصفحة نموذج
+senders_phone: الهاتف المرسل
+alias: الاسم المستعار
+atleast_a_country_city: لابد من إدخال ما لا يقل عن البلد والمدينة
+email_not_shared: ويبدو أن الفيسبوك معرف لم يكن لديك إذن لتبادل البريد الإلكتروني. الرجاء تغيير أو مستخدم حساب آخر أو لمجرد الاشتراك باستخدام البريد الإلكتروني.
+votes: يصوت
+food_corner: ركن الغذاء
+show_map_instead_of_street_view: اعرض الخريطة بدلا من الشارع عرض
+post_published_email: بوست نشرت البريد الإلكتروني
+max_upload_file_size: ماكس تحميل حجم (KB)
+site_mode: الموقع وضع
+maintenance_msg: الموقع تحت الصيانة
+brandmodels: النماذج العلامة التجارية
+add_brand: إضافة العلامة التجارية
+add_model: إضافة نموذج
+no_brandmodels: لا brandmodels
+sel_brand: تحديد العلامة التجارية
+carconditions: الظروف السيارات
+STATUS_DELETED: المحذوفة
+STATUS_ACTIVE: النشطة
+STATUS_PENDING: في انتظار
+STATUS_PAYMENT_PENDING: الدفع الانتظار
+STATUS_EXPIRED: منتهي
+USER_PENDING: ريثما
+USER_BANNED: المحظورة
+USER_ACTIVE: النشطة
+car_options: خيارات التكوين السيارات
+transmissions: أنواع الإرسال
+convertible: تحويل
+coupe: كوبيه
+hatchback: هاتشباك
+luxury_car: سيارة فاخرة
+sedan: سيدان
+sports_car: سيارة رياضية
+suv: SUV
+trucks: الشاحنات
+van: فان
+customfields: حقول مخصص
+customfield: مخصص الحقل
+sel_fieldtype: تحديد نوع الحقل
+text: نص
+textarea: منطقة نص
+richtext: نص منسق
+select: منسدلة
+radio: راديو
+checkbox: خانة
+is_required: مطلوب
+field_added: بإضافة حقل مخصص
+field_updated: حقل مخصص المحدثة
+field_deleted: حذف الحقل المخصص
+field_order_updated: من أجل الميدان تحديثها.
+field_sort_help: ^ يمكنك سحب قطرة لفرز صفوف الجدول. بعد فرز حفظ ترتيب
+help_url_slug: وضع قيمة فريدة (سيتم استخدامها في رابط)
+NA: N / A
+condition_new: الجديدة
+condition_used: المستعملة
+condition_pre_owned: قبل تملكها
+condition_recondition: مجدد
+condition_other: أخرى
+year: نوع الجسم
+brand: نوع السيارة
+model: موديل السيارة
+mileage: الأميال
+transmission: نقل
+condition: الحالة
+fuel_type: نوع الوقود
+fueltypes: أنواع وقود
+gas: الغاز
+diesel: DISEL
+petrol: البنزين
+octane: أوكتان
+electricity: الكهرباء
+others: آخرون
+select_condition: اختر الحالة
+select_transmission: اختر نقل
+automatic: أوتوماتيكي
+manual: يدوي
+semi_automatic: شبه تلقائي
+select_brand: تحديد العلامة التجارية
+select_year: اختر نوع الجسم
+select_fuel_type: حدد نوع الوقود
+url_slug: رابط سبيكة
+registration_no: ريج لا
+engine_size: حجم المحرك
+help_engine_size: حجم المحرك (في لتر)
+steering_type: نوع القيادة
+help_steering_type: حدد التوجيهية اكتب
+safety_rating: تقييم السلامة
+sel_safety_rating: حدد السلامة التصويت
+engine_type: نوع المحرك
+help_engine_type: حدد نوع المحرك
+no_of_seats: عدد مقاعد
+help_no_of_seats: عدد مقاعد
+gear_type: العتاد نوع
+help_gear_type: اختر نوع جير
+new_brand: العلامة التجارية الجديدة
+brand_names: الأسماء التجارية
+new_model: الجديدة نموذج
+select_model: اختر الموديل
+model_names: أسماء نموذج
+mileage_unit: الأميال وحدة
+brand_model: العلامة التجارية ونموذج
+help_text: تعليمات نص
+fieldtype: الحقل نوع
+fieldname: اسم الحقل
+comma_separated_help: وضع واحد أو أكثر يدعى "،" (فاصلة) فصلت. مثل فهد، دالاس، ايداهو
+category_id: سيارة الفئة
+show_in_detail: مشاهدة بالتفصيل الصفحة
+power_steering: قوة توجيهية
+manual_steering: التوجيهية دليل
+inline: المضمنة
+straight: مستقيم
+vee: VEE
+flat: شقة
+vr_w: VR & W
+other: أخرى
+other_information: معلومات أخرى
+dual: المزدوج
+all_cars: جميع سيارات
+reported_cars: ذكرت سيارات
+no_reviews: توجد بعد استعراض
+optional_info: اختياري معلومات
+car_posts: السيارة المشاركات
+featured_expiration_time: مميزة وقت انتهاء الصلاحية (أيام)
+max_gallery_photos: ماكس معرض الصور
+gallery_limit: معرض
+take_package: خذ حزمة
+photos: صور
+mileage_range: الأميال المدى
+pls_share: يرجى حصة موقعنا
+facebook_page_name: FB الصفحة اسم
+google_plus_name: اسم في + Google
+twitter_page_name: تويتر اسم المستخدم
+normal: عادي
+free: الحرة
+ultimate: في نهاية المطاف
+premium: قسط
+update_post: تحديث آخر
+Clear unused images: مسح صورة غير المستخدمة

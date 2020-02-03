@@ -1,0 +1,824 @@
+---
+sign_in: Sign In
+sign_up: Sign Up
+agent_panel: Agent Panel
+admin_panel: Admin Panel
+country: Land
+state_province: Staat / Provincie
+city: Plaats
+register: Register
+details: Details
+view_all: bekijken
+order_by: Door Bestel
+none: Geen
+terms_and_conditions: Voorwaarde
+reg_success_message: Je account registratie succesvol is. Een email werd verzonden naar uw e-mail. Volg die e-mail om uw account te activeren. Dankzij
+limit: Limit
+usage: Gebruik
+recover: Recover
+oops: Pagina niet gevonden
+share_this: Share This
+location_map: Plattegrond
+image_gallery: Image Gallery
+gallery: Gallery
+summary: Samenvatting
+overview: Overzicht
+address: Adres
+message: bericht
+email_subject: Onderwerp e-mail
+all: Alle
+contact_us: Contact
+featured_video: Featured Video
+embed_video_url: Embeded Video Url
+email_tracker: Email Tracker
+bulk_email: Bulk Email
+advanced_filters: Geavanceerde filters
+result: Resultaat
+payment_notification: U gaat om een betaling te verrichten. Een e-mail wordt verzonden naar uw e-mail. U kunt terugkeren naar deze stap op elk gewenst moment van de link in de e-mail.
+confirmation: Bevestiging
+tags: Tags
+zip_code: Postcode
+embed_preview: Voorbeelden insluiten
+login: Login
+post_not_found: bericht niet gevonden
+view_more: Bekijk meer
+choose_a_package: Kies een pakket
+choose_feature_package: Kies een functiepakket
+no_package_found: geen pakket gevonden
+days: Days
+posts: berichten
+change: wijzigen
+subscribe: Abonneren
+image: Afbeelding
+view_on_map: View on Map (Automatische vullen Lat lang)
+create: Maak
+basic_info: Basis Info
+send: Stuur
+all_email_to_users: Alle e-mails naar gebruikers
+email_detail: e-mail Detail
+change_package: Change Package
+bank_transfer: Bank Transfer
+contact_subject: Contact E-mail
+payment_finish_title: Betaling Volledige
+payment_renew_title: betaling te voltooien
+payment_finish_text: Uw betaling is voltooid. Zodra wij een bevestiging ontvangen van PayPal uw account wordt geactiveerd
+payment_renew_text: betaling is voltooid. Zodra wij een bevestiging ontvangen van PayPal uw account zal worden vernieuwd
+payment_cancel_title: Betaling annuleren
+payment_cancel_text: Uw betaling is geannuleerd
+feature_payment_finish: Uw betaling is voltooid. Zodra wij bevestiging van PayPal ontvangen, wordt uw nalatenschap te zien zijn.
+feature_payment_cancel: Uw betaling is geannuleerd.
+selected_package: Geselecteerde Package
+signup_with_social_account: Inschrijven met sociale rekening
+password: Wachtwoord
+confirm_password: Wachtwoord bevestigen
+all_posts: Alle berichten
+no_posts: Geen berichten
+title: Titel
+description: Omschrijving
+status: Status
+actions: Acties
+action: Action
+type: Type
+type_something: Type iets
+content: Content
+featured_image: Featured Image [min 300x226]
+category: Car categorieën
+all_categories:Alle auto categorieën
+edit_category: bewerken categorie
+new_category: Nieuwe auto categorie
+parent: Parent
+edit: Bewerk
+delete: Verwijder
+name: Naam
+save: Save
+no_parent: Geen enkele ouder
+edit_email_template: bewerken e-template
+select_template_file: Selecteer template file
+subject: Subject
+body: Body
+available_variables: Beschikbare variabelen
+select_language: Selecteer Taal
+select_language_file: Kies taal-bestand
+edit_as_new: bewerken als nieuwe
+language: taal
+add_another: Another toevoegen
+export_to_file: Export naar bestand
+import_from_file: importeren uit bestand
+auto_translator: Auto vertaler
+from_lang: Van lang
+target_lang_full_name: Target lang volledige naam
+target_lang_short_name: Target lang korte naam
+create_new_package: Nieuw pakket maken
+price: Price
+ask_for_price: Vraag naar de prijs
+maximum_post_by_user: maximum berichten van gebruiker
+expiration_time: Vervaldatum (dagen)
+create_package: pakket maken
+edit_package: bewerken pakket
+update_package: updatepakket
+add_packages: Packages toevoegen
+all_packages: Alle pakketten
+no_packages: geen pakketten
+options: Options
+all_pages: Alle pagina's
+no_pages: De volgende pagina's
+manage_menu: beheren menu
+menu_title: Menu Title
+menu_alias: Menu alias
+show_in_menu: Show in het menu
+page_layout: Pagina-indeling
+content_from: inhoud van
+url: Url
+seo_options: SEO opties
+meta_description: Meta description
+key_words: Steekwoorden
+crawl_after: Crawl na (dagen)
+all_plugins: Alle plugins
+no_plugins: Geen plugins
+name_and_version: Naam en versie
+change_password: Wachtwoord wijzigen
+current_password: Huidig wachtwoord
+new_password: Nieuw wachtwoord
+retype_password: Retype password
+password_reset_info_msg: Gelieve eerste Stel uw nieuwe wachtwoord
+profile_picture: Profile Picture
+username: Gebruikersnaam
+email: E-mail
+first_name: Voornaam
+last_name: Achternaam
+gender: Geslacht
+phone: Phone
+company_name: Company Name
+about_me: Over mij
+facebook_account: Facebook-account
+twitter_account: Twitter-account
+linkedin_account: LinkedIn-account
+gp_account: Google+ account
+account_msg: Vul de koppeling, zonder http //
+web_email_settings: Web E-mailinstellingen
+contact_email: Contact E-mail
+webadmin_name: Webadmin Naam
+webadmin_email: Webadmin E-mail
+update: bijwerken
+upload: Upload
+site_settings: Site-instellingen
+site_title: Site Title
+footer_text: voetteksten
+site_logo: site Logo
+site_language: Site Taal
+site_text_direction: Site Tekstrichting
+per_page: Pagination Per pagina
+default_page_layout: Default Page Layout
+tracking_code: Tracking Code
+smtp_email_settings: SMTP e-mailinstellingen
+smtp_email: SMTP e-mail
+smtp_host: SMTP Host
+smtp_port: SMTP Port
+smtp_timeout: SMTP-timeout
+smtp_user: SMTP-gebruikersnaam
+smtp_password: SMTP-wachtwoord
+generate_site_map: genereren site map
+sitemap_info_msg: NB Maak een keuze die u wilt worden opgenomen in sitemap xml. Na een succesvolle generatie sitemap.xml wordt opgeslagen onder ROOT directory. U kunt ook dat bestand bewerken voor het opnemen van je eigen urls.
+pages: Pages
+blog_posts: Blogartikelen
+articles: artikelen
+blog_post: Blog Post
+blog: Blogpost
+article: artikel
+news: News
+view_xml: View XML
+create_xml: maken XML
+manage_backups: Beheer Back-ups
+create_sql_backup: maken van SQL Backup
+create_image_backup: Afbeelding maken Backup
+restore: Restore
+download: Download
+dashboard: Dashboard
+overview_stats_more: Overview, statistieken en meer
+visit_site: Bezoek de website
+logout: Afmelden
+themes: Thema
+locations: Locations
+paypal_settings: Paypal Instellingen
+payment_history: Betalingsgeschiedenis
+profile: Profiel
+packages: pakketten
+widgets: Widgets
+all_widgets: Alle widgets
+widget_positions: Widget Posities
+blog_news_article: Blog / Nieuws / Article
+new_post: Nieuwe Post
+pages_and_menu: 's & Menu
+new_page: Nieuwe pagina
+menu: Menu
+system: System
+manage_languages: Beheer Talen
+auto_translate: Auto Vertalen
+edit_email_text: bewerken E-mail Text
+admin_settings: Web Admin Instellingen
+sitemap: Sitemap
+activate: Activate
+active_theme: Active Theme
+available_themes: beschikbare thema's
+all_users: All Users
+create_user: Gebruiker maken
+export_user_email: Gebruiker exporteren e-mails (.csv)
+profile_info: Profiel Info
+ban_forever: Ban blijvend
+edit_page: Pagina bewerken
+create_widget: Maak Widget
+widget_name: widget Naam
+activate_deactivate: activeren / De-Activate
+show: Show
+available_widgets: Beschikbare Widgets
+active_widgets: Active Widgets
+delete_warning: Weet je zeker wilt verwijderen
+yes: "Ja"
+no: "Nee"
+product_name: Content
+fa_icon: FA icoon klasse
+post_ad: toevoegen auto
+post_ad_subtitle: Zet uw auto info
+signin: Signin
+signup: Inschrijven
+signup_title: Creëer je eigen account
+not_found: Niet gevonden
+purpose: Purpose
+purpose_buy: Kopen
+purpose_sell: Verkopen
+select_category: Selecteer categorie
+contact_for_price: Prijs op aanvraag
+address_info: Adres Info
+general_info: General Info
+upload_later_msg: U kunt gallery foto's en video url te uploaden na post creatie zal
+user_panel: Gebruiker panel
+put_as_comma_seperated: gezet als (,) komma sperated
+added: Toegevoegd
+location: Locatie
+views: Views
+package_type: Type
+post_package: postpakket
+featured_package: Featured pakket
+both_package: bericht en kenmerkte
+select_package: Select pakket
+package_created: pakket gemaakt
+package_updated: Package bijgewerkt
+slider: Slider
+add_new: toevoegen
+new_slide: nieuwe dia
+update_slide: bijwerken slide
+save_order: Save order
+slider_sort_instruction: U kunt neerzetten slepen om de tafel rijen sorteren. Na het sorteren save de orde
+search: Search
+results: Results
+location_on_map: Landkaart
+contact_mode: Contactmodus
+reset: Reset
+contact: Contact
+default_site_view: Default siteweergave
+type_your_message: Typ hier uw bericht ..
+mail_sent: Mail
+search_classifieds: Zoeken Auto's
+advanced_search: Uitgebreid zoeken
+narrow_down_your_search: Preciseer uw zoekopdracht
+home: Startpagina
+print: Print
+remember_me: Onthoud mij
+forgot_password: Wachtwoord vergeten
+login_failed: Aanmelden mislukt
+login_to_your_account: Log in op uw Account
+register_your_account: Registreer uw Account
+male: Man
+female: Vrouw
+no_location_found: geen Woonplaats gevonden
+state: State
+ad_creation_error: Fout in advertentie creatie! Gelieve dit na te kijken.
+users: Gebruikers
+show_admin_user: Toon Admin User
+send_email_to_owner: E-mail versturen naar auto-eigenaar
+categories: Categorieën
+top_posts: Top berichten
+show_state_province: Show provincie Vrijstaat
+package_settings: Package Instellingen
+default_site_settings: Standaard Site Settings
+webadmin_settings: Webadmin instellingen
+banner_settings: Banner Instellingen
+max_price_for_search: Max Prijs voor Search
+search_filters: Zoekfilters
+posts_per_page: Berichten per pagina
+recent_posts: Recent Cars
+featured_posts: Aanbevolen berichten
+top_locations: Toplocaties
+top_users: Top Gebruikers
+approve: Goedkeuren
+make_featured: Maak gekenmerkte
+remove_featured: Verwijder aanbevolen
+renew_featured: Renew gekenmerkte
+renew_package: Renew pakket
+no_renew_post_id: ongeldig te vernieuwen na id
+approve_payment: goedkeuren betaling
+transaction: Transactie
+transaction_id: Transaction id
+post_id: bericht id
+amount: Bedrag
+request_date: datum Request
+expiration_date: Vervaldatum
+transaction_deleted: Transaction verwijderd
+payment_approved: Betaling goedgekeurd
+logged_in_as: Aangemeld als
+posted_on: Geplaatst op
+confirm_email_send: Bevestiging e-mail send.Please volg de aanwijzingen van die e-mail.
+email_confirmed: E-mail bevestigd. U kunt nu inloggen
+email_confirmed_failed: E-mail een bevestiging mislukt
+password_change_success: Wachtwoord met succes gewijzigd
+email_sent_inbox: Een e-mail sturen naar uw inbox.Check die e-mail.
+password_recovery_link_invalid: Password Recovery Link is niet geldig
+user_updated: Gebruiker Bijgewerkt
+user_deleted: gebruiker Verwijderde
+user_banned: gebruiker Banned
+user_unbanned: gebruiker unbanned
+user_confirmed: Gebruikers Bevestigd
+post_deleted: post is verwijderd
+post_updated: Bericht Bijgewerkt
+post_created: Bericht Gemaakt
+post_featured: Bericht aanbevolen
+data_inserted: gegevens ingebracht
+data_updated: gegevens Bijgewerkt
+feature_renewed: Feature Hernieuwde
+post_feature_removed: bericht Feature verwijderd
+post_approved: Bericht Goedgekeurd
+invalid_post: Ongeldige bericht
+email_sent: e-mail verzonden
+settings_updated: Instellingen Bijgewerkt
+package_removed: dat pakket is verwijderd
+page_updated: Pagina Bijgewerkt
+page_created: Pagina opgebouwd
+page_deleted: Pagina Deleted
+menu_updated: Menu bijgewerkt
+site_map_generation_success: Sitemap succes gegenereerd.
+select_option: Selecteer op of meer opties te selecteren.
+image_backup_created: Afbeelding Backup Gemaakt
+language_translated: Taal Vertaald
+unable_to_write_file: Kan niet schrijven File
+backup_deleted: Backup Verwijderde
+database_restored: Database Hersteld
+theme_activated: Thema geactiveerd
+user_created: door de gebruiker gemaakte
+widget_position_updated: Widget Positie Updated
+widget_created: Widget Gemaakt
+widget_data_updated: Widget Gegevens Bijgewerkt
+unable_to_write_widget: Kan niet schrijven widget
+post_created_and_published: bericht gemaakt en gepubliceerd
+post_created_approval: bericht gemaakt en wachten op goedkeuring door de beheerder
+post_package_renewed: postpakket vernieuwd
+payment_finish: Betaling afwerking
+payment_cancelled: Betaling geannuleerd
+admin_change_pass_help: niets invullen indien geen verandering nodig
+go_to_paypal: Ga naar Paypal
+login_with_google: Inloggen met Google
+login_with_facebook: Inloggen met Facebook
+load_more_recent_posts: Laad Meer recent Cars
+load_more_featured_posts: plaats Meer Aanbevolen Cars
+register_for_new_account: Schrijf u nu Nieuw account
+site_map: Site map
+show_site_map: tonen site map
+service: Dienst
+features:Features
+about: Over
+view_posts: Bekijk berichten
+see_full_documentation: Bekijk de volledige documentatie
+select_city: Selecteer stad
+parallax_slider: Parallax Slider
+all_slides: Alle slides
+no_slide: Geen slide
+slide_order: Slide order
+edit_profile: Profiel wijzigen
+post_price_settings: Bericht prijsinstellingen
+enable_post_pricing: inschakelen na pricing
+enable_paypal_transfer: inschakelen paypal
+enable_bank_transfer: inschakelen overschrijving
+bank_transfer_instruction_for_posts: Bank Transfer Instructie
+featured_price_settings: Aanbevolen prijs instellingen
+enable_featured_pricing: inschakelen gekenmerkte pricing
+enable_featured_paypal: inschakelen paypal
+enable_featured_bank_transfer: inschakelen overschrijving
+bank_transfer_instruction_for_featured_posts: Bank overschrijving instructie
+bank_currency_settings: Bank valuta-instellingen
+bank_currency: Bank valuta
+use_same_as_paypal_currency: Dezelfde als paypal valuta
+admin: Admin
+re_password: wachtwoord opnieuw
+explain_widget_position: Leg widget posities
+post: Bericht
+post_renew: Bericht Renew
+feature: Feature
+feature_renew: Feature Renew
+payment_for: Betaling voor
+select_country: Selecteer land
+select_one: Select One
+video_url: Vidoe URL
+confirm_payment: Betaling bevestigen
+package_title: Package Titel
+number_of_featured_days: Aantal dagen te worden vermeld
+no_of_days: Aantal dagen
+any_city: Elke stad
+any_category: Elke Categorie
+product_admin_panel: Carbiz Admin
+username_or_email: gebruikersnaam of e-
+car_detail: Car detail
+posts_by: berichten per
+featured: Featured
+edit_user: Gebruiker bewerken
+the_field_is_required: De% s veld is verplicht.
+valid_email: De% s veld moet een geldig e-mailadres bevatten.
+min_length: % S veld moet ten minste% s tekens bevatten.
+numeric: De% s veld mag alleen nummers bevatten.
+matches: Het% s veld komt niet overeen met de% s veld.
+greater_than: % S veld moet een getal groter dan% s bevat.
+agree_terms: Ik heb de% s voorwaarden% s lezen
+must_accept_terms:U moet de juridische voorwaarden en conditie
+dont_have_permission: Je hebt geen toestemming om deze pagina te bekijken
+email_already_in_use: al Email in gebruik
+username_already_in_use:Gebruikersnaam al in gebruik
+current_password_not_matched: Huidig wachtwoord komt niet overeen
+email_or_password_not_mathed: Email of wachtwoord komt niet overeen met
+email_not_matched: e-mail niet geëvenaard
+account_not_confirmed: account niet bevestigd
+all_locations: Alle locaties
+add_country: toevoegen land
+add_state: toe staat
+add_city: stad toe
+no_locations: zijn geen locaties
+banner_type: Banner soort
+bg_image: beeld Achtergrond
+unique_alias: De% s veld moet uniek zijn
+error_occurred: opgetreden. Kijk dan op de onderstaande velden
+user_profile: gebruikersprofiel
+user_email: Gebruiker e-mail
+target_lang_name: Doeltaal
+no_emails: Geen e-mails
+to: Om
+classified_settings: Classified Instellingen
+publish_posts_directly: publiceren berichten direct
+system_currency: System valuta
+enable_signup: inschakelen signup
+if_package_expired: Als pakket verlopen
+do_not_hide: Verstop je niet
+hide: verbergen
+show_price_like: Prijs format
+facebook_app_settings: Facebook app-instellingen
+enable_facebook_login: inschakelen facebook login
+fb_app_id: Facebook app id
+fb_secret_key: Facebook geheime sleutel
+comment_settings: Comment instellingen
+enable_comment: inschakelen commentaar
+disqus_shortname: Disqus Shortname
+sandbox_mode: sandbox-modus
+item_name: Item naam
+paypal_email: Paypal email
+currency: Currency
+finish_url: Finish url
+cancel_url: Annuleren url
+menu_background: Menu achtergrond
+menu_text_color: Menu tekstkleur
+activated_menu_color: Geactiveerde menu kleur
+top_bar_bg: Top bar bg
+activated_menu_text_color: Activated menu tekstkleur
+latitude: Latitude
+longitude: Longitude
+map_zoom: Kaart zoom
+search_panel_settings: Zoek paneelinstellingen
+search_panel_bg_color: Search panel bg kleur
+show_background_image: Show achtergrondafbeelding
+active_widget_position: Active widget positie
+upload_and_install: uploaden en installeren
+install_updates: updates installeren / Thema's / Plugins / Widgets
+confirmation_email: bevestigings email
+recovery_email: Recovery Email
+signup_notification_email: Register Notification Email
+payment_confirmation_email: Betaling Bevestiging Email
+click_and_edit: Selecteer een template-bestand en klik op bewerken]
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Standaard SEO instellingen
+find_us_on_facebook: Vind ons op Facebook
+category_featured_posts: Aanbevolen berichten
+load_more_posts: laden Meer
+home_page_title: Zoeken Kopen en verkopen Auto's
+no_posts_found: Geen berichten
+type_anything: Typ iets
+chosen_not_found: Oeps, niets gevonden!
+rating_asc: Ascending
+rating_desc: Descending
+id_desc: Id Aflopend
+id_asc: Id Oplopend
+price_range: Prijsniveau
+additional_features: Extra functies
+add_more_fields: toevoegen meer velden
+remove: verwijderen
+distance_around_my_position: Zoekbereik
+show_distance_in: Show Afstand in
+car_listed: Cars Geplaatst
+show_street_view: Show Street View
+list_car: List Car
+search_cars: Zoeken Cars
+top_cars: Top Cars
+featured_cars: Featured Cars
+content_settings: Content Instellingen
+hide_email: Verberg e-mail
+hide_phone: verbergen telefoon
+review: review
+comment: Comment
+submit_review: Review versturen
+rating: Rating
+review_alert: U moet ingelogd zijn om beoordeling indienen.
+new_car: Voeg Car
+identify_my_location: Bepaal mijn locatie
+data_deleted: gegevens worden gewist
+recent_reviews: Recente beoordelingen
+view_all_reviews: Bekijk alle beoordelingen
+review_deleted: Verwijderde
+review_detail: Detail
+all_reviews: Alle Reviews
+monday: maandag
+tuesday: dinsdag
+wednesday: woensdag
+thursday: donderdag
+friday: vrijdag
+saturday: zaterdag
+sunday: zondag
+opening_hour: Openingstijden uur
+closed: Gesloten
+review_submitted: recensie ingediend
+social_links: sociale banden
+upgrade_browser: Upgrade browser
+please_upgrade_your_browser: Gelieve uw browser
+car: Car
+introduction: Inleiding
+terms: Voorwaarde
+email_not_found: Email niet gevonden
+city_dropdown: Stad dropdown
+published: gepubliceerd
+publish: Publiseer
+drafted: Drafted
+draft: Draft
+from: Van
+send_bulk_email: Stuur Bulk Email
+ive_read_the:Ik heb het lezen van
+title_city_category: de titel, de stad of de categorie
+dt_first: Eerste
+dt_last: Laatste
+dt_next: Volgende
+dt_prev: Vorige
+dt_no_data: geen gegevens beschikbaar in tabel
+dt_show_empty: Resultaat 0-0 van 0 entries
+dt_no_match: No records die overeenstemmen met
+dt_search: Search
+dt_processing: Processing ...
+dt_loading: Loading ...
+dt_info: Resultaat _START_ aan _END_ van _TOTAL_ inzendingen
+dt_filter_info: (gefilterd uit _MAX_ totaal vermeldingen)
+dt_show_entries: Toon _MENU_ vermeldingen
+get_directions: Get sorteren
+review_not_submitted : U heeft al gegeven een review
+debug_email : Debug e-
+email_to : mail om
+report_the_car : deze auto te rapporteren
+reported : gerapporteerd
+already_reported : reeds gemeld
+reported_post : gemeld auto
+all_reported_posts : gemeld auto
+report: Rapport
+assigned_to: Toegewezen aan
+select_assigned_to: Selecteer gebruiker
+css_compression: Css compressie
+gallery_notes: U kunt neerzetten slepen om de volgorde van de galerij foto's. Foto's worden niet re-sized.
+video_notes: Youtube of Vimeo url
+post_expiration_notification: bericht verstrijken kennisgeving
+days_left: Resterende dagen
+AM: AM
+PM: PM
+upload_invalid_min_dimensions: Het beeld dimensie te laag
+view_on_front: View on voorzijde
+clear_unused_img: Clear ongebruikte beelden
+unused_files_found: Ongebruikte bestanden gevonden
+unused_images_cleared: Ongebruikte foto's gewist
+unused_info_msg: Deze functie alleen maakt de beelden die niet worden gebruikt door auto's, gebruikers, categorieën, pagina's, blogs. Het zoekt in de database voor het vinden van images.So als u handmatig alle afbeeldingen handmatig geupload en gebruikte ze in de code kan worden verwijderd.
+no_unused_img: Geen ongebruikte afbeelding gevonden
+search_panel_filter_type: Filter type
+basic_options: Basic opties
+advanced_options: Advance opties
+sorting_order: Sorteervolgorde
+car_listed_on: auto genoteerd op
+car_listed_under: vermeld onder Car
+all_sub_categories: Alle subcategorieën
+no_sub_categories: Geen subcategorieën
+hide_my_email : Mijn email
+disable_email_contact: Disable e-mailcontacten
+enable_review: Inschakelen beoordeling
+disable_google_street_view: uitschakelen Google Street View
+location_chorome_msg: Locatie dienst van Google is niet beschikbaar voor niet-ssl sites (Alleen in de Chrome-browser). Wilt u uw ip adres te gebruiken voor het krijgen van uw locatie? NB-Het resultaat kan niet exact hetzelfde zijn als google
+send_email_to_users: -mail verzenden naar gebruikers
+show_banner: bekijken banner
+hide_my_phone: Verberg mijn telefoon
+kms: Kms
+miles: Miles
+logo_text: Logo Text
+logo_type: Logo Type
+logo_text_color: Logo tekstkleur
+Jan: Jan
+Feb: februari
+Mar: maart
+Apr: april
+May: mei
+Jun: juni
+Jul: juli
+Aug: augustus
+Sep: september
+Oct: oktober
+Nov: november
+Dec: december
+show_search_panel: Show zoekpaneel
+delete_selected: verwijderen geselecteerde
+map_api_key: Gmap api sleutel
+pricing: Pricing
+post_package_instruction: We hebben de volgende pakketten voor het plaatsen van een auto op onze website
+feature_package_instruction: hebben we de volgende pakketten voor het maken van een auto aanbevolen
+MENU: MENU
+gplus_app_settings: Google+ app-instellingen
+auth_redirect_url: Authorized redirect URL
+enable_gplus_login: inschakelen Google+ login
+gplus_client_id: Google+ client id
+gplus_client_secret: Google+ client geheim
+how_to_get_gplus_api: Hoe Google+ Client ID en Secret
+gallery_upload_limit: Gallery uploaden beperken
+you_can_upload_max: U kan maximaal uploaden
+gallery_photos: Gallery foto's
+advanced_options_with_country_state: Advance-optie met land en van staat
+select_state: Select staat
+recent_posts_order: Recente berichten bestellen
+featured_posts_order: Aanbevolen berichten bestellen
+default_posts_order: Standaard berichten bestellen
+ASC: oplopend
+DESC: aflopend
+RANDOM: Random
+useremail: Gebruiker email
+enable_adblocker_alert: inschakelen adblock alert
+adblock_detected: Adblock Gedetecteerd
+adblock_msg: Gelieve disbale adblock en vernieuwt u de pagina
+enable_cookie_policy_popup: Cookie Beleid Popup
+cookie_policy_page_url: Cookie beleid pagina url
+cookie_policy: Cookie Policy
+cookie_policy_alert: Deze website maakt gebruik van cookies. Door te blijven van deze site gaat u akkoord met ons gebruik van cookies.
+read_more: Lees verder
+i_agree: Ik ben het eens
+instagram: Instagram
+newsletter_subscription: Get nieuwsbrief
+your_email: Uw e-
+email_saved: mail opgeslagen voor de nieuwsbrief
+send_newsletter: Stuur nieuwsbrief
+unsubscribe: Afmelden
+to_unsubscribe: Klik op deze link als je wilt afmelden voor deze dienst
+successfully_unsubscribed: U bevindt zich nu afmelden voor de nieuwsbrief dienst
+export_user_phone: gebruiker exporteren telefoon
+enable_blog_comment: inschakelen blogcommentaar
+fb_blog_app_id: Fb app id voor blog
+disqus_blog_shortname: Disqus afkorting voor blog
+sample_page: Sample pagina
+senders_phone: afzender telefoon
+alias: Alias
+atleast_a_country_city: U moet minimaal land en de stad binnen
+email_not_shared:Het lijkt erop dat de Facebook-id geen toestemming om de e-mail te delen. Gelieve te veranderen of de gebruiker een ander account of gewoon aanmelden via e-mail.
+votes: Stemmen
+food_corner: Food Corner
+show_map_instead_of_street_view: Toon kaart in plaats van de straat te bekijken
+post_published_email: Bericht uitgegeven e-
+max_upload_file_size: Max upload grootte (KB)
+site_mode: Site Mode
+maintenance_msg: Site in onderhoud
+brandmodels: Brand modellen
+add_brand: Voeg merk
+add_model: model toe
+no_brandmodels: Geen brandmodels
+sel_brand: Selecteer merk
+carconditions: Car voorwaarden
+STATUS_DELETED: Verwijderde
+STATUS_ACTIVE: Active
+STATUS_PENDING: In afwachting van
+STATUS_PAYMENT_PENDING: In afwachting van betaling
+STATUS_EXPIRED: Verlopen
+USER_PENDING: afwachting
+USER_BANNED: Banned
+USER_ACTIVE: Active
+car_options: Car configopties
+transmissions: Transmission types
+convertible: Convertible
+coupe: Coupe
+hatchback: Hatchback
+luxury_car: Auto van de luxe
+sedan: Sedan
+sports_car: Sportwagen
+suv: SUV
+trucks: Trucks
+van: Van
+customfields: Custom velden
+customfield: Custom veld
+sel_fieldtype: Selecteer het type veld
+text: tekst
+textarea: Tekstgebied
+richtext: Rich Text
+select: Dropdown
+radio: Radio
+checkbox: Checkbox
+is_required: Is vereist
+field_added: Custom veld toegevoegd
+field_updated: Custom veld bijgewerkt
+field_deleted: Custom veld verwijderd
+field_order_updated: Field order bijgewerkt.
+field_sort_help: ^ U kunt neerzetten slepen om de tafel rijen sorteren. Na het sorteren sparen de orde
+help_url_slug: Zet een unieke waarde (wordt gebruikt in de url)
+NA: N / A
+condition_new: New
+condition_used: gebruikte
+condition_pre_owned: Pre Owned
+condition_recondition: Reconditioned
+condition_other: Andere
+year: Carrosserie
+brand: Car Brand
+model: Auto Model
+mileage: Kilometerstand
+transmission: Transmission
+condition: Voorwaarde
+fuel_type: Brandstof
+fueltypes: Brandstof Types
+gas: Gas
+diesel: Disel
+petrol: Benzine
+octane: Octane
+electricity: Elektriciteit
+others: Anderen
+select_condition: Select Voorwaarde
+select_transmission: Select Transmissie
+automatic: Automatic
+manual: Manual
+semi_automatic: Semi-automatische
+select_brand: Select Merk
+select_year: Select Type lichaam
+select_fuel_type: Select Brandstof
+url_slug: Url Slug
+registration_no: Reg No
+engine_size: Engine Size
+help_engine_size: Engine Size (in liter)
+steering_type: Draagarmtype
+help_steering_type: Select Draagarmtype
+safety_rating: Safety Rating
+sel_safety_rating: Select Safety Rating
+engine_type: Engine Type
+help_engine_type: Select motor Type
+no_of_seats: aantal stoelen
+help_no_of_seats: aantal stoelen
+gear_type: Gear Type
+help_gear_type: Select Gear Type
+new_brand: New Brand
+brand_names: Brand Names
+new_model: New Model
+select_model: Select Model
+model_names: Model Namen
+mileage_unit: Kilometerstand Unit
+brand_model: Merk & Model
+help_text: Help-tekst
+fieldtype: Veldtype
+fieldname: Veldnaam
+comma_separated_help: Zet een of meer met de naam als "" (komma) gescheiden. Net als Newyork, Dallas, Idaho
+category_id: Auto Categorie
+show_in_detail: Show in detail pagina
+power_steering: Stuurbekrachtiging
+manual_steering: handbesturing
+inline: Inline
+straight: Straight
+vee: VEE
+flat: Flat
+vr_w: VR & W
+other: Andere
+other_information: Overige informatie
+dual: Dual
+all_cars: All Cars
+reported_cars: Gemeld Cars
+no_reviews: nog geen beoordelingen
+optional_info: Optioneel Info
+car_posts: Car berichten
+featured_expiration_time: Featured verstrijken tijd (dagen)
+max_gallery_photos: Max gallery's
+gallery_limit: Gallery
+take_package: Take Package
+photos: Foto's
+mileage_range: Mileage Range
+pls_share: Gelieve te delen onze website
+facebook_page_name: FB Paginanaam
+google_plus_name: Google+ Naam
+twitter_page_name: Twitter Gebruikersnaam
+normal: Normal
+free: Gratis
+ultimate: Ultimate
+premium: Premium
+update_post: update na
+Clear unused images: het wissen ongebruikte

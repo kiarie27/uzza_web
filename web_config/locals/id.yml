@@ -1,0 +1,824 @@
+---
+sign_in: Masuk
+sign_up: Sign Up
+agent_panel: Agen Panel
+admin_panel: Admin Panel
+country: Negara
+state_province: Negara / Provinsi
+city: Kota
+register: Register
+details: Detail
+view_all: Lihat Semua
+order_by: Order By
+none: Tidak ada
+terms_and_conditions: Syarat dan Syaratnya
+reg_success_message: pendaftaran akun Anda berhasil. Sebuah email telah dikirim ke email Anda. Ikuti bahwa email untuk mengaktifkan akun Anda. Terima kasih
+limit: Batas
+usage: Penggunaan
+recover: Recover
+oops: Halaman tidak ditemukan
+share_this: Share ini
+location_map: Peta Lokasi
+image_gallery: Galeri
+gallery: Galeri
+summary: Ringkasan
+overview: Ikhtisar
+address: Alamat
+message: Pesan
+email_subject: Email Subject
+all: Semua
+contact_us: Hubungi Kami
+featured_video: Unggulan Video
+embed_video_url: Embeded Video Url
+email_tracker: Email Tracker
+bulk_email: Bulk Email
+advanced_filters: Filter Lanjutan
+result: Hasil
+payment_notification: Anda akan melakukan pembayaran. Sebuah email dikirim ke email Anda. Anda dapat kembali ke langkah ini kapan saja dari link di email itu.
+confirmation: Konfirmasi
+tags: Tags
+zip_code: Kode Pos
+embed_preview: Embed Preview
+login: Login
+post_not_found: Pasang bukan Ditemukan
+view_more: Lihat Lebih
+choose_a_package: Pilih Paket seorang
+choose_feature_package: Pilih paket fitur
+no_package_found: ada Paket yang ditemukan
+days: Days
+posts: Tulisan
+change: Ganti
+subscribe: Langganan
+image: Gambar
+view_on_map: Lihat di Peta (Auto mengisi Lat lang)
+create: Buat
+basic_info: Info Dasar
+send: Kirim
+all_email_to_users: Semua Email Pengguna
+email_detail: Email Detil
+change_package: Perubahan Paket
+bank_transfer: Bank Transfer
+contact_subject: Hubungi Email
+payment_finish_title: Selesaikan Pembayaran
+payment_renew_title: Pembayaran Lengkap
+payment_finish_text: Pembayaran Anda selesai. Segera setelah kami menerima konfirmasi dari paypal akun Anda akan diaktifkan
+payment_renew_text: Pembayaran Anda selesai. Segera setelah kami menerima konfirmasi dari paypal akun Anda akan diperbarui
+payment_cancel_title: Pembayaran Batal
+payment_cancel_text: Pembayaran Anda dibatalkan
+feature_payment_finish: Pembayaran Anda selesai. Segera setelah kami menerima konfirmasi dari paypal, real Anda akan ditampilkan.
+feature_payment_cancel: Pembayaran Anda dibatalkan.
+selected_package: Dipilih Paket
+signup_with_social_account: Signup dengan akun sosial
+password: Sandi
+confirm_password: Konfirmasi Sandi
+all_posts: Semua Posting
+no_posts: Tidak ada pesan
+title: Judul
+description: Keterangan
+status: Status
+actions: Tindakan
+action: Aksi
+type: Jenis
+type_something: Jenis sesuatu
+content: Konten
+featured_image: Unggulan Gambar [min 300x226]
+category: kategori Mobil
+all_categories: Semua kategori mobil
+edit_category: Sunting kategori
+new_category: New kategori mobil
+parent: Induk
+edit: Ubah
+delete: Hapus
+name: Nama
+save: Simpan
+no_parent: ada orangtua
+edit_email_template: Edit pola email
+select_template_file: Pilih file template
+subject: Subjek
+body: Tubuh
+available_variables: variabel Tersedia
+select_language: Pilih Bahasa
+select_language_file: berkas Pilih bahasa
+edit_as_new: Edit seperti baru
+language: Bahasa
+add_another: Add lain
+export_to_file: Ekspor ke file
+import_from_file: Impor dari file
+auto_translator: Auto penerjemah
+from_lang: Dari lang
+target_lang_full_name: Sasaran lang nama lengkap
+target_lang_short_name: Target lang nama pendek
+create_new_package: Create New paket
+price: Harga
+ask_for_price: Mintalah harga
+maximum_post_by_user: posting Maksimum oleh pengguna
+expiration_time: saat Kadaluarsa (hari)
+create_package: Buat paket
+edit_package: Mengedit paket
+update_package: paket pembaruan
+add_packages: Menambahkan paket
+all_packages: Semua paket
+no_packages: ada paket
+options: Options
+all_pages: Semua halaman
+no_pages: ada halaman
+manage_menu: Manage menu
+menu_title: menu Judul
+menu_alias: menu alias
+show_in_menu: Show di menu
+page_layout: Layout halaman
+content_from: Konten dari
+url: Url
+seo_options: pilihan SEO
+meta_description: Meta deskripsi
+key_words: Kata kunci
+crawl_after: Crawl setelah (hari)
+all_plugins: Semua plugin
+no_plugins: ada plugin
+name_and_version: Nama dan versi
+change_password: Ubah password
+current_password: sandi sekarang
+new_password: New sandi
+retype_password: Ketik ulang sandi
+password_reset_info_msg: Silakan Pertama Set password New
+profile_picture: Profil Picture
+username: Nama pengguna
+email: Email
+first_name: Nama depan
+last_name: Nama Belakang
+gender: Jenis Kelamin
+phone: Telepon
+company_name: Nama Perusahaan
+about_me: About Me
+facebook_account: akun Facebook
+twitter_account: Akun Twitter-
+linkedin_account: Linkedin akun
+gp_account: akun Google+
+account_msg: masukkan link, tanpa http //
+web_email_settings: Web Pengaturan Email
+contact_email: Kontak Email
+webadmin_name: webadmin Nama
+webadmin_email: webadmin Email
+update: Perbarui
+upload: Upload
+site_settings: Pengaturan Site
+site_title: Site Judul
+footer_text: Footer Teks
+site_logo: Site Logo
+site_language: Situs Bahasa
+site_text_direction: Situs Text Direction
+per_page: Pagination Per Halaman
+default_page_layout: default Page Layout
+tracking_code: Tracking Kode
+smtp_email_settings: SMTP Email Settings
+smtp_email: SMTP Email
+smtp_host: SMTP host
+smtp_port: SMTP Pelabuhan
+smtp_timeout: SMTP Timeout
+smtp_user: SMTP Pengguna
+smtp_password: SMTP Sandi
+generate_site_map: Menghasilkan peta situs
+sitemap_info_msg: NB Silakan pilih yang Anda ingin disertakan pada sitemap xml. Setelah sukses generasi sitemap.xml disimpan di bawah direktori ROOT. Anda juga dapat mengedit file itu untuk termasuk url Anda sendiri.
+pages: Halaman
+blog_posts: Blog Posts
+articles: Artikel
+blog_post: Blog Post
+blog: Blog post
+article: Pasal
+news: Berita
+view_xml: View XML
+create_xml: Buat XML
+manage_backups: Mengelola Backup
+create_sql_backup: Buat SQL Backup
+create_image_backup: Buat Gambar Backup
+restore: Restore
+download: Unduh
+dashboard: Dashboard
+overview_stats_more: Ikhtisar, Statistik dan lebih
+visit_site: Visit Site
+logout: Keluar
+themes: Tema
+locations: Lokasi
+paypal_settings: Paypal Pengaturan
+payment_history: Riwayat Pembayaran
+profile: Profil
+packages: Paket
+widgets: Widget
+all_widgets: Semua Widget
+widget_positions: Posisi Widget
+blog_news_article: Blog / Berita / Artikel
+new_post: New Post
+pages_and_menu: Pages & menu
+new_page: New Halaman
+menu: menu
+system: Sistem
+manage_languages: Pengelolaan Bahasa
+auto_translate: Auto Translate
+edit_email_text: Edit Email Text
+admin_settings: Web Pengaturan Admin
+sitemap: Peta Situs
+activate: Aktifkan
+active_theme: Aktif Tema
+available_themes: Tersedia Tema
+all_users: Semua Pengguna
+create_user: Buat Pengguna
+export_user_email: Ekspor Pengguna Email (.csv)
+profile_info: Info Profil
+ban_forever: Ban Selamanya
+edit_page: Sunting Halaman
+create_widget: Buat Widget
+widget_name: widget Nama
+activate_deactivate: Aktifkan / De-Aktifkan
+show: Tampilkan
+available_widgets: Available Widgets
+active_widgets: Widgets Active
+delete_warning: Apakah Anda yakin ingin menghapus
+yes: "Ya"
+no: "Tidak"
+product_name: Konten
+fa_icon: FA ikon kelas
+post_ad: Add mobil
+post_ad_subtitle: Masukan Info mobil Anda
+signin: Signin
+signup: Pendaftaran
+signup_title: Buat akun Anda
+not_found: Tidak ditemukan
+purpose: Purpose
+purpose_buy: Beli
+purpose_sell: Jual
+select_category: Pilih Kategori
+contact_for_price: Hubungi untuk harga
+address_info: Alamat Info
+general_info: Umum Info
+upload_later_msg: Anda akan dapat meng-upload foto galeri dan url video setelah pembuatan post
+user_panel: panel Pengguna
+put_as_comma_seperated: menempatkan sebagai (,) koma sperated
+added: Ditambahkan
+location: Lokasi
+views: Tampilan
+package_type: Jenis
+post_package: paket Posting
+featured_package: Feature paket
+both_package: Pos dan menampilkan
+select_package: Pilih paket
+package_created: paket diciptakan
+package_updated: paket diperbarui
+slider: Slider
+add_new: Tambah baru
+new_slide: Slide baru
+update_slide: Perbarui geser
+save_order: Simpan agar
+slider_sort_instruction: Anda dapat drag drop untuk mengurutkan baris tabel. Setelah memilah menyimpan urutan
+search: Pencarian
+results: Hasil
+location_on_map: Lokasi di Peta
+contact_mode: Kontak Modus
+reset: Atur ulang
+contact: Hubungi
+default_site_view: tampilan situs default
+type_your_message: Ketik pesan anda di sini ..
+mail_sent: Email Terkirim
+search_classifieds: Cari Mobil
+advanced_search: Pencarian
+narrow_down_your_search: Mempersempit pencarian
+home: Depan
+print: Print
+remember_me: Ingat Saya
+forgot_password: Lupa Kata Sandi
+login_failed: Login gagal
+login_to_your_account: Login ke Akun Anda
+register_your_account: Registrasi Akun Anda
+male: Laki-laki
+female: Perempuan
+no_location_found: Tidak ada lokasi Ditemukan
+state: Negara
+ad_creation_error: Kesalahan dalam iklan penciptaan! Silakan periksa.
+users: Pengguna
+show_admin_user: Tampilkan Admin User
+send_email_to_owner: Kirim email ke pemilik mobil
+categories: Kategori
+top_posts: Top Posts
+show_state_province: Tampilkan Negeri Provinsi
+package_settings: Paket Pengaturan
+default_site_settings: default Site Settings
+webadmin_settings: webadmin Pengaturan
+banner_settings: Banner Pengaturan
+max_price_for_search: Max Harga untuk Cari
+search_filters: Cari Filter
+posts_per_page: Post Per Halaman
+recent_posts: Mobil Terbaru
+featured_posts: Feature Posts
+top_locations: Top Lokasi
+top_users: Pengguna Top
+approve: Menyetujui
+make_featured: Membuat fitur
+remove_featured: Remove fitur
+renew_featured: Renew fitur
+renew_package: Renew paket
+no_renew_post_id: tidak valid memperbaharui posting id
+approve_payment: Menyetujui pembayaran
+transaction: Transaksi
+transaction_id: Transaksi id
+post_id: Pasang id
+amount: Jumlah
+request_date: tanggal Permintaan
+expiration_date: Tanggal kadaluarsa
+transaction_deleted: Transaksi dihapus
+payment_approved: Pembayaran disetujui
+logged_in_as: Masuk sebagai
+posted_on: Diposkan pada
+confirm_email_send: Konfirmasi email send.Please ikuti petunjuk dari email itu.
+email_confirmed: Email dikonfirmasi. Anda dapat login sekarang
+email_confirmed_failed: konfirmasi Email gagal
+password_change_success: Sandi berhasil diubah
+email_sent_inbox: Sebuah email kirim ke Anda inbox.Check email itu.
+password_recovery_link_invalid: Password Recovery Tautan Apakah Tidak Valid
+user_updated: Pengguna Diperbarui
+user_deleted: Pengguna Dihapus
+user_banned: Pengguna Banned
+user_unbanned: Pengguna membatalkan pemblokiran
+user_confirmed: Pengguna Dikonfirmasi
+post_deleted: Pasang Dihapus
+post_updated: Pasang Diperbarui
+post_created: Pasang Dibuat
+post_featured: Pasang menampilkan
+data_inserted: data dimasukkan
+data_updated: data Diperbarui
+feature_renewed: Fitur Pembaruan
+post_feature_removed: Pasang Fitur Dihapus
+post_approved: Pasang Disetujui
+invalid_post: valid Pasang
+email_sent: Email Terkirim
+settings_updated: Pengaturan Diperbarui
+package_removed: Paket Dihapus
+page_updated: Halaman Diperbarui
+page_created: Halaman Dibuat
+page_deleted: Halaman Dihapus
+menu_updated: menu diperbarui
+site_map_generation_success: peta Situs berhasil dihasilkan.
+select_option: Silakan pilih atau lebih pilih opsi.
+image_backup_created: Gambar Backup Dibuat
+language_translated: Bahasa Diterjemahkan
+unable_to_write_file: Tidak Untuk Menulis Berkas
+backup_deleted: Backup Dihapus
+database_restored: database Dipulihkan
+theme_activated: Tema Activated
+user_created: Pengguna Dibuat
+widget_position_updated: Widget Posisi Updated
+widget_created: Widget Dibuat
+widget_data_updated: data Widget Diperbarui
+unable_to_write_widget: Tidak dapat menulis widget
+post_created_and_published: Pos dibuat dan diterbitkan
+post_created_approval: Pos diciptakan dan menunggu admin persetujuan
+post_package_renewed: Pasang paket baru
+payment_finish: Pembayaran finish
+payment_cancelled: Pembayaran dibatalkan
+admin_change_pass_help: Tinggalkan kosong jika tidak ada perubahan yang diperlukan
+go_to_paypal: Pergi ke Paypal
+login_with_google: Login dengan Google
+login_with_facebook: Masuk dengan Facebook
+load_more_recent_posts: Muat Mobil Lebih Terbaru
+load_more_featured_posts: Muat Lebih Pilihan Mobil
+register_for_new_account: Daftar untuk Akun Baru
+site_map: peta situs
+show_site_map: Tampilkan peta situs
+service: Layanan
+features: Fitur
+about: Tentang
+view_posts: Daftar Pesan
+see_full_documentation: Lihat dokumentasi lengkap
+select_city: Pilih kota
+parallax_slider: Parallax Slider
+all_slides: Semua slide
+no_slide: ada geser
+slide_order: Slide rangka
+edit_profile: Edit profil
+post_price_settings: pengaturan harga Posting
+enable_post_pricing: Aktifkan pasca harga
+enable_paypal_transfer: Aktifkan paypal
+enable_bank_transfer: Aktifkan transfer bank
+bank_transfer_instruction_for_posts: Bank Transfer Instruksi
+featured_price_settings: pengaturan harga Unggulan
+enable_featured_pricing: Aktifkan harga berfitur
+enable_featured_paypal: Aktifkan paypal
+enable_featured_bank_transfer: Aktifkan transfer bank
+bank_transfer_instruction_for_featured_posts: transfer Bank instruksi
+bank_currency_settings: pengaturan mata uang Bank
+bank_currency: mata uang Bank
+use_same_as_paypal_currency: Gunakan yang sama sebagai mata uang paypal
+admin: Admin
+re_password: Ketik ulang kata sandi
+explain_widget_position: Jelaskan posisi widget
+post: Posting
+post_renew: Posting Renew
+feature: Fitur
+feature_renew: Fitur Renew
+payment_for: Pembayaran
+select_country: Pilih negara
+select_one: Pilih Satu
+video_url: URL Vidoe
+confirm_payment: Konfirmasi Pembayaran
+package_title: Paket Judul
+number_of_featured_days: Jumlah hari akan tampil
+no_of_days: Tidak ada hari
+any_city: Apa Kota
+any_category: Setiap Kategori
+product_admin_panel: Carbiz Admin
+username_or_email: pengguna atau Email
+car_detail: Mobil rinci
+posts_by: Postingan
+featured: Pilihan
+edit_user: Edit pengguna
+the_field_is_required: Bidang% s diperlukan.
+valid_email: Lapangan% s harus berisi alamat email yang valid.
+min_length: Lapangan% s harus minimal% s karakter.
+numeric: Lapangan% s harus berisi hanya angka.
+matches: Lapangan% s tidak cocok lapangan% s.
+greater_than: Lapangan% s harus berisi jumlah yang lebih besar dari% s.
+agree_terms: Saya telah membaca% s syarat dan ketentuan% s
+must_accept_terms: Anda harus menerima persyaratan dan kondisi
+dont_have_permission: Anda tidak memiliki izin untuk mengakses halaman ini
+email_already_in_use: Email sudah digunakan
+username_already_in_use: Nama pengguna sudah digunakan
+current_password_not_matched: sandi sekarang tidak dapat ditemukan
+email_or_password_not_mathed: Email atau kata sandi tidak cocok
+email_not_matched: Email tidak cocok
+account_not_confirmed: Akun tidak dikonfirmasi
+all_locations: Semua lokasi
+add_country: Add negara
+add_state: Add negara
+add_city: Tambah kota
+no_locations: ada lokasi
+banner_type: Banner tipe
+bg_image: Gambar latar belakang
+unique_alias: Bidang% s harus unik
+error_occurred: Kesalahan terjadi. Silakan periksa bidang di bawah
+user_profile: profil pengguna
+user_email: email pengguna
+target_lang_name: Bahasa target
+no_emails: ada email
+to: Untuk
+classified_settings: Pengaturan Baris
+publish_posts_directly: Publish posting langsung
+system_currency: mata uang Sistem
+enable_signup: Aktifkan pendaftaran
+if_package_expired: Jika paket berakhir
+do_not_hide: Jangan sembunyikan
+hide: Hide
+show_price_like: Format Harga
+facebook_app_settings: pengaturan aplikasi Facebook
+enable_facebook_login: Aktifkan facebook login
+fb_app_id: Aplikasi facebook id
+fb_secret_key: facebook kunci rahasia
+comment_settings: pengaturan Komentar
+enable_comment: Aktifkan komentar
+disqus_shortname: Disqus SHORTNAME
+sandbox_mode: Sandbox mode
+item_name: Barang nama
+paypal_email: Paypal email
+currency: Mata
+finish_url: Finish url
+cancel_url: Batal url
+menu_background: Latar belakang menu
+menu_text_color: warna Teks menu
+activated_menu_color: Activated menu warna
+top_bar_bg: Top bar bg
+activated_menu_text_color: Activated menu warna teks
+latitude: Latitude
+longitude: Longitude
+map_zoom: Peta zoom
+search_panel_settings: Cari pengaturan panel
+search_panel_bg_color: panel Cari warna bg
+show_background_image: Tampilkan gambar latar belakang
+active_widget_position: Active posisi widget
+upload_and_install: Upload dan menginstal
+install_updates: install Updates / Themes / Plugins / widget
+confirmation_email: Konfirmasi Email
+recovery_email: Pemulihan Email
+signup_notification_email: Register Pemberitahuan Email
+payment_confirmation_email: Konfirmasi Pembayaran Email
+click_and_edit: Pilih file template dan klik edit]
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: pengaturan SEO default
+find_us_on_facebook: Temukan kami di Facebook
+category_featured_posts: Unggulan posting
+load_more_posts: Muat Lebih
+home_page_title: Cari Jual Beli Mobil
+no_posts_found: Tak ada pesan
+type_anything: Ketik apa
+chosen_not_found: Ups, tidak ditemukan!
+rating_asc: Peringkat Ascending
+rating_desc: Peringkat Menurun
+id_desc: Id Menurun
+id_asc: Id Ascending
+price_range: Kisaran Harga
+additional_features: Fitur Tambahan
+add_more_fields: Tambahkan lebih banyak bidang
+remove: Hapus
+distance_around_my_position: Cari radius
+show_distance_in: Tampilkan Jarak di
+car_listed: Mobil Posted
+show_street_view: Tampilkan Street View
+list_car: Daftar Mobil
+search_cars: Cari Mobil
+top_cars: Top Mobil
+featured_cars: Pilihan Mobil
+content_settings: Konten Pengaturan
+hide_email: Sembunyikan email
+hide_phone: telepon Sembunyikan
+review: Ulasan
+comment: Komentar
+submit_review: Kirim Review
+rating: Penilaian
+review_alert: Anda harus login untuk mengirimkan ulasan.
+new_car: Menambahkan Mobil
+identify_my_location: Identifikasi lokasi saya
+data_deleted: data dihapus
+recent_reviews: ulasan Terbaru
+view_all_reviews: Lihat semua ulasan
+review_deleted: Ulasan Dihapus
+review_detail: Detil
+all_reviews: All
+monday: Senin
+tuesday: Selasa
+wednesday: Rabu
+thursday: Kamis
+friday: Jumat
+saturday: Sabtu
+sunday: Minggu
+opening_hour: Membuka Jam
+closed: Closed
+review_submitted: Ulasan disampaikan
+social_links: link Sosial
+upgrade_browser: peramban Peningkatan
+please_upgrade_your_browser: Tingkatkan browser Anda
+car: Mobil
+introduction: Pengantar
+terms: Syarat dan kondisi
+email_not_found: Email tidak ditemukan
+city_dropdown: Kota dropdown
+published: Diterbitkan
+publish: Publish
+drafted: Drafted
+draft: Draft
+from: Dari
+send_bulk_email: Kirim Email Massal
+ive_read_the: Saya telah membaca
+title_city_category: Judul, kota atau kategori
+dt_first: Pertama
+dt_last: terakhir
+dt_next: Berikutnya
+dt_prev: Sebelumnya
+dt_no_data: ada data yang tersedia dalam tabel
+dt_show_empty: Menampilkan 0 sampai 0 dari 0 entri
+dt_no_match: Tidak ada catatan yang cocok ditemukan
+dt_search: Cari
+dt_processing: Processing ...
+dt_loading: Loading ...
+dt_info: Menampilkan _START_ untuk _END_ entri _TOTAL_
+dt_filter_info: (disaring dari _MAX_ Total entri)
+dt_show_entries: Tampilkan entri _MENU_
+get_directions: Dapatkan Arah
+review_not_submitted : Anda telah diberikan review
+debug_email : email Debug
+email_to : email ke
+report_the_car : Laporkan mobil ini
+reported : dilaporkan
+already_reported : sudah dilaporkan
+reported_post : mobil dilaporkan
+all_reported_posts : dilaporkan mobil
+report: Laporkan
+assigned_to: Ditugaskan untuk
+select_assigned_to: Pilih pengguna
+css_compression: kompresi Css
+gallery_notes: Anda dapat drag drop untuk menyusun ulang foto galeri. Foto tidak kembali berukuran.
+video_notes: Youtube atau Vimeo url
+post_expiration_notification: Pasang kedaluwarsa pemberitahuan
+days_left: Days meninggalkan
+AM: AM
+PM: PM
+upload_invalid_min_dimensions: Dimensi gambar terlalu rendah
+view_on_front: Lihat di bagian depan
+clear_unused_img: Batal gambar yang tidak terpakai
+unused_files_found: file yang tidak terpakai ditemukan
+unused_images_cleared: gambar yang tidak digunakan dibersihkan
+unused_info_msg: Fungsi ini hanya membersihkan gambar yang tidak digunakan oleh mobil, pengguna, kategori, halaman, blog. Hal pencarian melalui database untuk menemukan images.So jika Anda secara manual upload gambar setiap manual dan menggunakan mereka dalam kode itu dapat dihapus.
+no_unused_img: Tidak ada yang tidak terpakai gambar ditemukan
+search_panel_filter_type: Jenis filter
+basic_options: pilihan Basic
+advanced_options: pilihan Muka
+sorting_order: Sorting rangka
+car_listed_on: Car terdaftar di
+car_listed_under: Mobil terdaftar di bawah
+all_sub_categories: Semua sub kategori
+no_sub_categories: Tidak ada sub kategori
+hide_my_email : Sembunyikan email saya
+disable_email_contact: Nonaktifkan kontak email
+enable_review: Aktifkan tinjauan
+disable_google_street_view: Nonaktifkan google street view
+location_chorome_msg: Lokasi layanan oleh google tidak tersedia untuk situs non ssl (Hanya di browser Chrome). Apakah Anda ingin menggunakan alamat ip Anda untuk mendapatkan lokasi Anda? NB Hasilnya mungkin tidak persis sama dengan google
+send_email_to_users: Kirim email ke pengguna
+show_banner: Tampilkan spanduk
+hide_my_phone: Sembunyikan saya telepon
+kms: Kms
+miles: Miles
+logo_text: Logo Text
+logo_type: Logo Jenis
+logo_text_color: warna Logo teks
+Jan: Jan
+Feb: Februari
+Mar: Mar
+Apr: April
+May: Mei
+Jun: Juni
+Jul: Juli
+Aug: Agustus
+Sep: September
+Oct: Oktober
+Nov: November
+Dec: Desember
+show_search_panel: Tampilkan panel pencari
+delete_selected: Hapus yang dipilih
+map_api_key: GMap api kunci
+pricing: Harga
+post_package_instruction: Kami memiliki paket berikut untuk posting mobil di website kami
+feature_package_instruction: Kami memiliki paket berikut untuk membuat mobil tampil
+MENU: MENU
+gplus_app_settings: pengaturan aplikasi Google+
+auth_redirect_url: Resmi URL redirect
+enable_gplus_login: Mengaktifkan Google+ masuk
+gplus_client_id: Google+ klien id
+gplus_client_secret: Google+ klien rahasia
+how_to_get_gplus_api: Cara mendapatkan Google+ Klien id dan Rahasia
+gallery_upload_limit: Galeri meng-upload membatasi
+you_can_upload_max: Anda dapat meng-upload maksimum
+gallery_photos: foto Galeri
+advanced_options_with_country_state: pilihan Muka dengan negara dan negara
+select_state: Pilih negara
+recent_posts_order: Recent posts memesan
+featured_posts_order: tulisan pilihan memesan
+default_posts_order: tulisan default memesan
+ASC: Ascending
+DESC: Descending
+RANDOM: sembarang
+useremail: email pengguna
+enable_adblocker_alert: Aktifkan adblock peringatan
+adblock_detected: Adblock Terdeteksi
+adblock_msg: Silahkan Nonaktifkan adblock dan refresh halaman lagi
+enable_cookie_policy_popup: Kebijakan Cookie Popup
+cookie_policy_page_url: Cookie halaman kebijakan url
+cookie_policy: Cookie Kebijakan
+cookie_policy_alert: Situs ini menggunakan cookies. Dengan terus menggunakan situs ini, Anda setuju untuk kami menggunakan cookies.
+read_more: Baca lebih lanjut
+i_agree: Saya setuju
+instagram: Instagram
+newsletter_subscription: Dapatkan buletin
+your_email: email Anda
+email_saved: Email disimpan untuk newsletter
+send_newsletter: Kirim Terakhir
+unsubscribe: Unsubscribe
+to_unsubscribe: Klik link ini jika Anda ingin berhenti berlangganan dari layanan ini
+successfully_unsubscribed: Anda sekarang berhenti berlangganan dari layanan newsletter
+export_user_phone: Ekspor pengguna ponsel
+enable_blog_comment: Aktifkan komentar blog
+fb_blog_app_id: aplikasi Fb id untuk blog
+disqus_blog_shortname: nama pendek Disqus untuk blog
+sample_page: halaman Contoh
+senders_phone: pengirim ponsel
+alias: Alias
+atleast_a_country_city: Anda harus memasukkan setidaknya negara dan kota
+email_not_shared: Tampaknya bahwa facebook id tidak memiliki izin untuk berbagi email. Silahkan mengubah atau pengguna akun lain atau hanya mendaftar menggunakan email.
+votes: Votes
+food_corner: Makanan sudut
+show_map_instead_of_street_view: Tampilkan peta bukannya jalan melihat
+post_published_email: Post menerbitkan email
+max_upload_file_size: Max ukuran upload (KB)
+site_mode: Site Modus
+maintenance_msg: Site di bawah pemeliharaan
+brandmodels: model merek
+add_brand: Tambahkan merek
+add_model: Add Model
+no_brandmodels: ada brandmodels
+sel_brand: Pilih Merek
+carconditions: kondisi mobil
+STATUS_DELETED: Dihapus
+STATUS_ACTIVE: Active
+STATUS_PENDING: Pending
+STATUS_PAYMENT_PENDING: Payment Tertunda
+STATUS_EXPIRED: kadaluarsa
+USER_PENDING: Menunda
+USER_BANNED: Banned
+USER_ACTIVE: Active
+car_options: Mobil Config Pilihan
+transmissions: jenis Transmisi
+convertible: Convertible
+coupe: Coupe
+hatchback: Hatchback
+luxury_car: Mobil Mewah
+sedan: Sedan
+sports_car: Sports Car
+suv: SUV
+trucks: Truk
+van: Van
+customfields: ladang Kustom
+customfield: Kustom bidang
+sel_fieldtype: Pilih jenis bidang
+text: Text
+textarea: Bagian teks
+richtext: Rich Text
+select: Dropdown
+radio: Radio
+checkbox: Checkbox
+is_required: Apakah diperlukan
+field_added: bidang Kustom menambahkan
+field_updated: lapangan diperbarui Kustom
+field_deleted: bidang Kustom dihapus
+field_order_updated: agar Lapangan diperbarui.
+field_sort_help: ^ Anda dapat menarik drop untuk mengurutkan baris tabel. Setelah memilah menyimpan urutan
+help_url_slug: Masukan nilai unik (akan digunakan di url)
+NA: N / A
+condition_new: New
+condition_used: Bekas
+condition_pre_owned: Pra Milik
+condition_recondition: direkondisi
+condition_other: lain
+year: Tipe badan
+brand: Mobil Merek
+model: Model Mobil
+mileage: Mileage
+transmission: Transmisi
+condition: Kondisi
+fuel_type: Jenis BBM
+fueltypes: BBM Jenis
+gas: Gas
+diesel: Disel
+petrol: Bensin
+octane: Octane
+electricity: Listrik
+others: Lainnya
+select_condition: Pilih Kondisi
+select_transmission: Pilih Transmisi
+automatic: Automatic
+manual: manual
+semi_automatic: Semi-Automatic
+select_brand: Pilih Merek
+select_year: Pilih Tipe tubuh
+select_fuel_type: Pilih Jenis BBM
+url_slug: Url Slug
+registration_no: Reg No
+engine_size: Mesin Ukuran
+help_engine_size: Mesin Size (Dalam Liter)
+steering_type: Steering Tipe
+help_steering_type: Pilih Steering Ketik
+safety_rating: Keselamatan Penilaian
+sel_safety_rating: Pilih Keselamatan Penilaian
+engine_type: Jenis Mesin
+help_engine_type: Pilih mesin Ketik
+no_of_seats: ada Kursi
+help_no_of_seats: ada Kursi
+gear_type: Aksesoris Tipe
+help_gear_type: Pilih Aksesoris Jenis
+new_brand: Baru Merek
+brand_names: Merek
+new_model: Baru Model
+select_model: Pilih Model
+model_names: Nama Model
+mileage_unit: Mileage Satuan
+brand_model: Merek & Model
+help_text: teks bantuan
+fieldtype: Jenis Bidang
+fieldname: Nama Field
+comma_separated_help: Masukan satu atau lebih dinamakan sebagai "" (koma) dipisahkan. Seperti Newyork, Dallas, idaho
+category_id: Mobil Kategori
+show_in_detail: Tampilkan detail halaman
+power_steering: Power Steering
+manual_steering: Pedoman Steering
+inline: Inline
+straight: Lurus
+vee: VEE
+flat: datar
+vr_w: VR & W
+other: Lain
+other_information: Informasi Lainnya
+dual: Ganda
+all_cars: Semua Mobil
+reported_cars: Dilaporkan Mobil
+no_reviews: ada ulasan belum
+optional_info: Opsional Info
+car_posts: Mobil Tulisan
+featured_expiration_time: Unggulan waktu berakhirnya (hari)
+max_gallery_photos: Max Foto gallery
+gallery_limit: Gallery
+take_package: Ambil Paket
+photos: foto
+mileage_range: Mileage Rentang
+pls_share: Silakan berbagi website kami
+facebook_page_name: FB Halaman Nama
+google_plus_name: Nama Google+
+twitter_page_name: Twitter pengguna
+normal: normal
+free: Gratis
+ultimate: Ultimate
+premium: Premium
+update_post: Perbarui pasca
+Clear unused images: Batal gambar yang tidak terpakai
